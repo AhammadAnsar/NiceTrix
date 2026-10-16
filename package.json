@@ -1,0 +1,33 @@
+{
+  "name": "nicetrix",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "dev": "astro dev --host 127.0.0.1",
+    "check": "astro check",
+    "build": "astro build && pagefind --site dist && node scripts/verify-build.mjs",
+    "preview": "astro preview --host 127.0.0.1",
+    "migrate": "python scripts/migrate.py",
+    "validate:source": "python scripts/migrate.py --verify-only",
+    "test": "node scripts/verify-build.mjs",
+    "test:browser": "node scripts/browser-test.mjs"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.10",
+    "@fontsource-variable/manrope": "^5.3.0",
+    "@fontsource-variable/noto-sans-bengali": "^5.3.0",
+    "astro": "^7.4.0",
+    "pagefind": "^1.5.2",
+    "sanitize-html": "^2.18.1",
+    "typescript": "^6.0.3"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/sanitize-html": "^2.16.2",
+    "cheerio": "^1.2.0"
+  }
+}

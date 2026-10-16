@@ -1,0 +1,20 @@
+---
+import Base from '../layouts/Base.astro';
+import Card from './Card.astro';
+import { site, absolute, descriptionHtml, type Archive } from '../lib/content';
+interface Props { archive: Archive; }
+const { archive } = Astro.props;
+const author = archive.kind === 'author' ? site.authors.find(a => a.id === archive.id) : undefined;
+const pageUrl = (page: number) => page === 1 ? archive.base : `${archive.base}page/${page}/`;
+const legacyDuplicate = archive.kind === 'latest' && archive.base === '/';
+const canonical = absolute(legacyDuplicate ? `/latest/page/${archive.page}/` : archive.path);
+---
+<Base title={`${archive.title}${archive.page > 1 ? ' — Page ' + archive.page : ''} - NiceTrix`} canonical={canonical} robots={legacyDuplicate ? 'noindex, follow' : 'index, follow'} description={archive.description.replace(/<[^>]*>/g, '').slice(0, 300)}>
+  <main id="main" class="wrap archive-main">
+    <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><span aria-current="page">{archive.kind === 'latest' ? 'Latest stories' : archive.kind}</span></nav>
+    <header class="archive-header"><div><span class="eyebrow">{archive.kind === 'author' ? 'The voices of NiceTrix' : 'Explore NiceTrix'}</span><h1>{archive.title}<span class="brand-dot">.</span></h1>{archive.description && <div class="archive-description" set:html={descriptionHtml(archive.description)} />}</div>{author?.avatar && <img class="archive-avatar" src={author.avatar} width="96" height="96" alt="" />}</header>
+    <div class="archive-toolbar"><span>{archive.total} {archive.total === 1 ? 'story' : 'stories'}</span><span>Latest first{archive.pages > 1 && ` · Page ${archive.page} of ${archive.pages}`}</span></div>
+    <div class="cards-grid archive-cards">{archive.posts.map((post, i) => <Card post={post} eager={i < 3} />)}</div>
+    {archive.pages > 1 && <nav class="pagination" aria-label="Pagination">{archive.page > 1 && <a class="page-direction" rel="prev" href={pageUrl(archive.page - 1)}>← Previous</a>}<div>{Array.from({ length: archive.pages }, (_, i) => i + 1).map(page => page === archive.page ? <span aria-current="page">{page}</span> : <a href={pageUrl(page)} aria-label={'Page ' + page}>{page}</a>)}</div>{archive.page < archive.pages && <a class="page-direction" rel="next" href={pageUrl(archive.page + 1)}>Next →</a>}</nav>}
+  </main>
+</Base>

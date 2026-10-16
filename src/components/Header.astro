@@ -1,0 +1,59 @@
+---
+import { site } from '../lib/content';
+const path = Astro.url.pathname;
+---
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header" data-pagefind-ignore>
+  <div class="header-main wrap">
+    <a class="wordmark" href="/" aria-label="NiceTrix home">
+      <span class="brand-mark" aria-hidden="true">n<span>↗</span></span>NiceTrix<span class="brand-dot">.</span>
+    </a>
+    <span class="brand-note">Ideas for a smarter everyday.</span>
+    <div class="header-actions">
+      <a class="search-link" href="/search/" aria-label="Search NiceTrix">
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+          <circle cx="10.5" cy="10.5" r="6.5"/>
+          <path d="m16 16 5 5"/>
+        </svg>
+        <span>Search</span>
+      </a>
+      <button class="menu-toggle" aria-label="Open navigation" aria-controls="site-navigation" aria-expanded="false">
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+  <div class="nav-border">
+    <nav id="site-navigation" class="main-nav wrap" aria-label="Main navigation">
+      <a href="/" aria-current={path === '/' ? 'page' : undefined}>Home</a>
+      {site.categories.map(c => (
+        <a href={c.path} aria-current={path === c.path ? 'page' : undefined}>{c.name}</a>
+      ))}
+      <a class="nav-about" href="/about-us/" aria-current={path === '/about-us/' ? 'page' : undefined}>About us <span aria-hidden="true">↗</span></a>
+    </nav>
+  </div>
+</header>
+<script>
+  const button = document.querySelector<HTMLButtonElement>('.menu-toggle');
+  const header = document.querySelector('.site-header');
+
+  button?.addEventListener('click', () => {
+    const expanded = button.getAttribute('aria-expanded') !== 'true';
+    button.setAttribute('aria-expanded', String(expanded));
+    button.setAttribute('aria-label', expanded ? 'Close navigation' : 'Open navigation');
+    header?.classList.toggle('menu-open', expanded);
+  });
+
+  document.addEventListener('keydown', event => {
+    if (event.key === 'Escape' && button?.getAttribute('aria-expanded') === 'true') {
+      button.click();
+      button.focus();
+    }
+  });
+
+  // Original WordPress search bookmarks remain usable on a static host.
+  const query = new URLSearchParams(location.search).get('s');
+  if (query && location.pathname === '/') {
+    location.replace('/search/?q=' + encodeURIComponent(query));
+  }
+</script>

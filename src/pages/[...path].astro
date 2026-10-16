@@ -1,0 +1,28 @@
+---
+import Article from '../components/Article.astro';
+import ArchiveView from '../components/Archive.astro';
+import { allContent, archives, site, type RecordData, type Archive } from '../lib/content';
+import Base from '../layouts/Base.astro';
+import Photo from '../components/Photo.astro';
+export async function getStaticPaths() {
+  const records = await allContent();
+  const posts = records.filter(x => x.type === 'post');
+  const list = [
+    ...records.filter(x => x.path !== '/').map(record => ({ path: record.path, props: { record, posts } })),
+    ...archives(posts).map(archive => ({ path: archive.path, props: { archive } })),
+    ...site.media.map(media => ({ path: new URL(media.url).pathname, props: { media } })),
+  ];
+  const seen = new Set<string>();
+  for (const route of list) {
+    const normalized = decodeURIComponent(route.path);
+    if (seen.has(normalized)) throw new Error('Route collision: ' + route.path);
+    seen.add(normalized);
+  }
+  return list.map(({ path, props }) => ({ params: { path: decodeURIComponent(path.replace(/^\/|\/$/g, '')) }, props }));
+}
+interface Props { record?: RecordData; posts?: RecordData[]; archive?: Archive; media?: (typeof site.media)[number]; }
+const { record, posts, archive, media } = Astro.props;
+---
+{record && posts && <Article record={record} posts={posts} />}
+{archive && <ArchiveView archive={archive} />}
+{media && <Base title={`${media.alt || 'Image'} - NiceTrix`} canonical={media.url} robots="noindex, follow"><main id="main" class="wrap attachment-main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><span>Media</span></nav><h1>{media.alt || 'Image'}</h1><figure><Photo image={media} eager sizes="100vw" /><figcaption set:html={media.caption} /></figure><p><a class="text-link" href={media.src}>Open original image ↗</a></p></main></Base>}

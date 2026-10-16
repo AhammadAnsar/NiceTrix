@@ -1,0 +1,30 @@
+---
+import Photo from './Photo.astro';
+import { authorOf, categoriesOf, formatDate, type RecordData } from '../lib/content';
+interface Props { post: RecordData; variant?: 'standard' | 'lead' | 'compact'; eager?: boolean; }
+const { post, variant = 'standard', eager = false } = Astro.props;
+const category = categoriesOf(post)[0];
+const author = authorOf(post);
+---
+<article class:list={['story-card', `card-${variant}`]}>
+  {post.image && (
+    <a class="card-image" href={post.path} tabindex="-1" aria-hidden="true">
+      <Photo image={post.image} eager={eager} sizes={variant === 'lead' ? '(max-width: 760px) 100vw, 740px' : undefined} />
+    </a>
+  )}
+  <div class="card-copy">
+    {category && <a href={category.path} class="eyebrow category-label">{category.name}</a>}
+    <h3><a href={post.path}>{post.title}</a></h3>
+    <div class="story-meta">
+      <a href={author.path}>{author.name}</a>
+      <span aria-hidden="true">·</span>
+      <time datetime={post.publishedGmt.replace(' ', 'T') + 'Z'}>{formatDate(post.publishedGmt)}</time>
+      {post.readingMinutes && (
+        <>
+          <span aria-hidden="true">·</span>
+          <span>{post.readingMinutes} min read</span>
+        </>
+      )}
+    </div>
+  </div>
+</article>

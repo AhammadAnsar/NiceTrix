@@ -1,0 +1,1891 @@
+{
+  "name": "NiceTrix",
+  "url": "https://nicetrix.com",
+  "authors": [
+    {
+      "id": 4,
+      "name": "Abdullah Aryan",
+      "slug": "abdullaharyan",
+      "path": "/author/abdullaharyan/",
+      "description": "",
+      "avatar": "/wp-content/uploads/2025/09/cropped-Social-Media-Manager-96x96.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Khairul Alam",
+      "slug": "khairulalam",
+      "path": "/author/khairulalam/",
+      "description": "I am an Assistant Teacher (Agriculture) at Aziara High School, Nangalkot, Cumilla. I am dedicated to inspiring students with practical agricultural knowledge and modern farming practices, helping them connect classroom learning with real-world applications. Passionate about education and sustainable agriculture, I work to prepare the next generation with the skills needed for a better future.",
+      "avatar": "/wp-content/uploads/2025/09/Khairul-Alam-96x96.jpg"
+    },
+    {
+      "id": 1,
+      "name": "NiceTrix (Admin)",
+      "slug": "ahammadansar75gmail-com",
+      "path": "/author/ahammadansar75gmail-com/",
+      "description": "I am an education administrator and digital entrepreneur with 12+ years of experience in school management, IT, and digital services. I have founded SoftDows and BidyaShikhi, working on impactful web projects to empower education, technology, and business communities.",
+      "avatar": ""
+    }
+  ],
+  "categories": [
+    {
+      "id": 34,
+      "slug": "academic-tricks",
+      "name": "Academic Tricks",
+      "path": "/academic-tricks/",
+      "description": ""
+    },
+    {
+      "id": 40,
+      "slug": "ai-tech",
+      "name": "AI Tech",
+      "path": "/ai-tech/",
+      "description": ""
+    },
+    {
+      "id": 57,
+      "slug": "career-guide",
+      "name": "Career Guide",
+      "path": "/career-guide/",
+      "description": "জীবনকে সমৃদ্ধ করতে সঠিক ক্যারিয়ার ট্রাকে থাকা অত্যন্ত জরুরি। পড়াশোনার শেষ বা পড়াশোনা থাকা অবস্থাতেই এই বিষয়ে গভীরভাবে ভাবতে হয়। নাইস ট্রিক্স আপনাদের সঠিক ক্যারিয়ার নির্বাচনের বিভিন্ন গুরুত্বপূর্ণ বিষয়ে সহযোগিতা ও টিপস্ দেওয়ার জন্য ক্যারিয়ার গাইড (Career Guide) নামক বিভাগটি চালু করেছে।\r\n\r\nNicetrix-এর “ক্যারিয়ার গাইড” বিভাগে প্রকাশিত বাস্তবমুখী পরামর্শ ও অনুপ্রেরণামূলক আর্টিকেল বা কনটেন্ট ফলো করলে আপনি পেশাগত জীবনে আত্মবিশ্বাসের সঙ্গে এগিয়ে যেতে পারবেন।"
+    },
+    {
+      "id": 30,
+      "slug": "lifestyle-hacks",
+      "name": "Lifestyle Hacks",
+      "path": "/lifestyle-hacks/",
+      "description": "Nice Trix LifeStyle Hacks section is filled with awesome tips to enjoy daily life. You can save time every day by following our articles that make life easier."
+    },
+    {
+      "id": 172,
+      "slug": "move-abroad",
+      "name": "Move Abroad",
+      "path": "/move-abroad/",
+      "description": "<p data-start=\"0\" data-end=\"251\">If you are seeking important and required information related to study, work, residency, or citizenship abroad, the NiceTrix Move Abroad section is designed to provide reliable information on Visa Processing, Immigration Rules, and Easy Citizenship.</p>\r\n<p data-start=\"253\" data-end=\"454\" data-is-last-node=\"\" data-is-only-node=\"\">It includes popular destinations such as Europe, Australia, and America, with step-by-step guidelines, required documents lists, and practical experiences related to study, work, and residence permits.</p>"
+    },
+    {
+      "id": 1,
+      "slug": "update",
+      "name": "Update",
+      "path": "/update/",
+      "description": "Welcome to NiceTrix latest update section."
+    }
+  ],
+  "tags": [
+    {
+      "id": 53,
+      "slug": "admission-test",
+      "name": "Admission Test",
+      "path": "/tag/admission-test/",
+      "description": ""
+    },
+    {
+      "id": 41,
+      "slug": "ai-tech",
+      "name": "AI Tech",
+      "path": "/tag/ai-tech/",
+      "description": ""
+    },
+    {
+      "id": 43,
+      "slug": "ai-video-generator",
+      "name": "AI Video Generator",
+      "path": "/tag/ai-video-generator/",
+      "description": ""
+    },
+    {
+      "id": 46,
+      "slug": "ai-workshop",
+      "name": "AI Workshop",
+      "path": "/tag/ai-workshop/",
+      "description": ""
+    },
+    {
+      "id": 54,
+      "slug": "biology-tips",
+      "name": "Biology Tips",
+      "path": "/tag/biology-tips/",
+      "description": ""
+    },
+    {
+      "id": 49,
+      "slug": "career-guide",
+      "name": "Career Guide",
+      "path": "/tag/career-guide/",
+      "description": ""
+    },
+    {
+      "id": 47,
+      "slug": "chatgpt-5",
+      "name": "ChatGPT 5",
+      "path": "/tag/chatgpt-5/",
+      "description": ""
+    },
+    {
+      "id": 170,
+      "slug": "citizenship-in-europe",
+      "name": "Citizenship in Europe",
+      "path": "/tag/citizenship-in-europe/",
+      "description": ""
+    },
+    {
+      "id": 176,
+      "slug": "croatia",
+      "name": "Croatia",
+      "path": "/tag/croatia/",
+      "description": ""
+    },
+    {
+      "id": 177,
+      "slug": "croatia-visa",
+      "name": "Croatia Visa",
+      "path": "/tag/croatia-visa/",
+      "description": ""
+    },
+    {
+      "id": 33,
+      "slug": "easy-life",
+      "name": "Easy Life",
+      "path": "/tag/easy-life/",
+      "description": ""
+    },
+    {
+      "id": 168,
+      "slug": "eb-3-visa",
+      "name": "EB-3 Visa",
+      "path": "/tag/eb-3-visa/",
+      "description": ""
+    },
+    {
+      "id": 36,
+      "slug": "education-tips",
+      "name": "Education Tips",
+      "path": "/tag/education-tips/",
+      "description": ""
+    },
+    {
+      "id": 171,
+      "slug": "europe-visa",
+      "name": "Europe Visa",
+      "path": "/tag/europe-visa/",
+      "description": ""
+    },
+    {
+      "id": 38,
+      "slug": "exam-hacks",
+      "name": "Exam Hacks",
+      "path": "/tag/exam-hacks/",
+      "description": ""
+    },
+    {
+      "id": 39,
+      "slug": "exam-tricks",
+      "name": "Exam Tricks",
+      "path": "/tag/exam-tricks/",
+      "description": ""
+    },
+    {
+      "id": 44,
+      "slug": "gemini-ai",
+      "name": "Gemini AI",
+      "path": "/tag/gemini-ai/",
+      "description": ""
+    },
+    {
+      "id": 173,
+      "slug": "germany-visa",
+      "name": "Germany Visa",
+      "path": "/tag/germany-visa/",
+      "description": ""
+    },
+    {
+      "id": 45,
+      "slug": "google-ai-studio",
+      "name": "Google AI Studio",
+      "path": "/tag/google-ai-studio/",
+      "description": ""
+    },
+    {
+      "id": 169,
+      "slug": "green-card",
+      "name": "Green Card",
+      "path": "/tag/green-card/",
+      "description": ""
+    },
+    {
+      "id": 32,
+      "slug": "handy-tips",
+      "name": "Handy Tips",
+      "path": "/tag/handy-tips/",
+      "description": ""
+    },
+    {
+      "id": 29,
+      "slug": "health-tips",
+      "name": "Health Tips",
+      "path": "/tag/health-tips/",
+      "description": ""
+    },
+    {
+      "id": 27,
+      "slug": "history",
+      "name": "History",
+      "path": "/tag/history/",
+      "description": ""
+    },
+    {
+      "id": 35,
+      "slug": "hsc-suggestion",
+      "name": "HSC Suggestion",
+      "path": "/tag/hsc-suggestion/",
+      "description": ""
+    },
+    {
+      "id": 180,
+      "slug": "ireland",
+      "name": "ireland",
+      "path": "/tag/ireland/",
+      "description": ""
+    },
+    {
+      "id": 181,
+      "slug": "ireland-work-permit-visa",
+      "name": "ireland work permit visa",
+      "path": "/tag/ireland-work-permit-visa/",
+      "description": ""
+    },
+    {
+      "id": 50,
+      "slug": "jobs-guide",
+      "name": "Jobs Guide",
+      "path": "/tag/jobs-guide/",
+      "description": ""
+    },
+    {
+      "id": 31,
+      "slug": "life-hacks",
+      "name": "Life Hacks",
+      "path": "/tag/life-hacks/",
+      "description": ""
+    },
+    {
+      "id": 51,
+      "slug": "medical-admission",
+      "name": "Medical Admission",
+      "path": "/tag/medical-admission/",
+      "description": ""
+    },
+    {
+      "id": 28,
+      "slug": "medical-tips",
+      "name": "Medical Tips",
+      "path": "/tag/medical-tips/",
+      "description": ""
+    },
+    {
+      "id": 42,
+      "slug": "new-ai",
+      "name": "New AI",
+      "path": "/tag/new-ai/",
+      "description": ""
+    },
+    {
+      "id": 174,
+      "slug": "opportunity-card",
+      "name": "Opportunity Card",
+      "path": "/tag/opportunity-card/",
+      "description": ""
+    },
+    {
+      "id": 56,
+      "slug": "problem-solving",
+      "name": "Problem Solving",
+      "path": "/tag/problem-solving/",
+      "description": ""
+    },
+    {
+      "id": 55,
+      "slug": "programming",
+      "name": "Programming",
+      "path": "/tag/programming/",
+      "description": ""
+    },
+    {
+      "id": 37,
+      "slug": "reading-tips",
+      "name": "Reading Tips",
+      "path": "/tag/reading-tips/",
+      "description": ""
+    },
+    {
+      "id": 175,
+      "slug": "schengen-visa",
+      "name": "Schengen Visa",
+      "path": "/tag/schengen-visa/",
+      "description": ""
+    },
+    {
+      "id": 48,
+      "slug": "skill-guide",
+      "name": "Skill Guide",
+      "path": "/tag/skill-guide/",
+      "description": ""
+    },
+    {
+      "id": 52,
+      "slug": "university-admission",
+      "name": "University Admission",
+      "path": "/tag/university-admission/",
+      "description": ""
+    },
+    {
+      "id": 167,
+      "slug": "usa-visa",
+      "name": "USA Visa",
+      "path": "/tag/usa-visa/",
+      "description": ""
+    },
+    {
+      "id": 166,
+      "slug": "visa-guide",
+      "name": "Visa Guide",
+      "path": "/tag/visa-guide/",
+      "description": ""
+    },
+    {
+      "id": 179,
+      "slug": "visa-update",
+      "name": "Visa Update",
+      "path": "/tag/visa-update/",
+      "description": ""
+    },
+    {
+      "id": 178,
+      "slug": "work-permit-visa",
+      "name": "Work Permit Visa",
+      "path": "/tag/work-permit-visa/",
+      "description": ""
+    }
+  ],
+  "media": [
+    {
+      "id": 8537,
+      "src": "/wp-content/uploads/2025/10/EPOS-Employee-Registration.jpg",
+      "width": 1200,
+      "height": 547,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/EPOS-Employee-Registration-150x68.jpg 150w, /wp-content/uploads/2025/10/EPOS-Employee-Registration-300x137.jpg 300w, /wp-content/uploads/2025/10/EPOS-Employee-Registration-450x205.jpg 450w, /wp-content/uploads/2025/10/EPOS-Employee-Registration-768x350.jpg 768w, /wp-content/uploads/2025/10/EPOS-Employee-Registration-1024x467.jpg 1024w, /wp-content/uploads/2025/10/EPOS-Employee-Registration.jpg 1200w",
+      "url": "https://nicetrix.com/apply-for-ireland-work-permit-in-just-7-simple-steps/epos-employee-registration/"
+    },
+    {
+      "id": 8536,
+      "src": "/wp-content/uploads/2025/10/EPOS-Home.jpg",
+      "width": 1200,
+      "height": 601,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/EPOS-Home-150x75.jpg 150w, /wp-content/uploads/2025/10/EPOS-Home-300x150.jpg 300w, /wp-content/uploads/2025/10/EPOS-Home-450x225.jpg 450w, /wp-content/uploads/2025/10/EPOS-Home-768x385.jpg 768w, /wp-content/uploads/2025/10/EPOS-Home-1024x513.jpg 1024w, /wp-content/uploads/2025/10/EPOS-Home.jpg 1200w",
+      "url": "https://nicetrix.com/apply-for-ireland-work-permit-in-just-7-simple-steps/epos-home/"
+    },
+    {
+      "id": 8535,
+      "src": "/wp-content/uploads/2025/10/Ireland-Govt-Official-Websi.jpg",
+      "width": 1200,
+      "height": 607,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/Ireland-Govt-Official-Websi-150x76.jpg 150w, /wp-content/uploads/2025/10/Ireland-Govt-Official-Websi-300x152.jpg 300w, /wp-content/uploads/2025/10/Ireland-Govt-Official-Websi-450x228.jpg 450w, /wp-content/uploads/2025/10/Ireland-Govt-Official-Websi-768x388.jpg 768w, /wp-content/uploads/2025/10/Ireland-Govt-Official-Websi-1024x518.jpg 1024w, /wp-content/uploads/2025/10/Ireland-Govt-Official-Websi.jpg 1200w",
+      "url": "https://nicetrix.com/apply-for-ireland-work-permit-in-just-7-simple-steps/ireland-govt-official-websi/"
+    },
+    {
+      "id": 8534,
+      "src": "/wp-content/uploads/2025/10/ireland-work-permit-visa.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "দালাল ছাড়া আয়ারল্যান্ড ওয়ার্ক পারমিট ভিসা আবেদন করার নিয়ম",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/ireland-work-permit-visa-150x84.jpg 150w, /wp-content/uploads/2025/10/ireland-work-permit-visa-300x169.jpg 300w, /wp-content/uploads/2025/10/ireland-work-permit-visa-450x253.jpg 450w, /wp-content/uploads/2025/10/ireland-work-permit-visa-768x432.jpg 768w, /wp-content/uploads/2025/10/ireland-work-permit-visa-1024x576.jpg 1024w, /wp-content/uploads/2025/10/ireland-work-permit-visa.jpg 1200w",
+      "url": "https://nicetrix.com/apply-for-ireland-work-permit-in-just-7-simple-steps/ireland-work-permit-visa/"
+    },
+    {
+      "id": 8529,
+      "src": "/wp-content/uploads/2025/10/Current-status-of-Croatia-w.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/Current-status-of-Croatia-w-150x84.jpg 150w, /wp-content/uploads/2025/10/Current-status-of-Croatia-w-300x169.jpg 300w, /wp-content/uploads/2025/10/Current-status-of-Croatia-w-450x253.jpg 450w, /wp-content/uploads/2025/10/Current-status-of-Croatia-w-768x432.jpg 768w, /wp-content/uploads/2025/10/Current-status-of-Croatia-w-1024x576.jpg 1024w, /wp-content/uploads/2025/10/Current-status-of-Croatia-w.jpg 1200w",
+      "url": "https://nicetrix.com/croatia-work-permit-visa/current-status-of-croatia-w/"
+    },
+    {
+      "id": 8528,
+      "src": "/wp-content/uploads/2025/10/croatia-work-permit-visa-1.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/croatia-work-permit-visa-1-150x84.jpg 150w, /wp-content/uploads/2025/10/croatia-work-permit-visa-1-300x169.jpg 300w, /wp-content/uploads/2025/10/croatia-work-permit-visa-1-450x253.jpg 450w, /wp-content/uploads/2025/10/croatia-work-permit-visa-1-768x432.jpg 768w, /wp-content/uploads/2025/10/croatia-work-permit-visa-1-1024x576.jpg 1024w, /wp-content/uploads/2025/10/croatia-work-permit-visa-1.jpg 1200w",
+      "url": "https://nicetrix.com/croatia-work-permit-visa/croatia-work-permit-visa-2/"
+    },
+    {
+      "id": 8526,
+      "src": "/wp-content/uploads/2025/10/Croatia-Work-Permit-Visa.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "ক্রোয়েশিয়া ওয়ার্ক পারমিট ভিসা সর্বশেষ তথ্য",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/Croatia-Work-Permit-Visa-150x84.jpg 150w, /wp-content/uploads/2025/10/Croatia-Work-Permit-Visa-300x169.jpg 300w, /wp-content/uploads/2025/10/Croatia-Work-Permit-Visa-450x253.jpg 450w, /wp-content/uploads/2025/10/Croatia-Work-Permit-Visa-768x432.jpg 768w, /wp-content/uploads/2025/10/Croatia-Work-Permit-Visa-1024x576.jpg 1024w, /wp-content/uploads/2025/10/Croatia-Work-Permit-Visa.jpg 1200w",
+      "url": "https://nicetrix.com/croatia-work-permit-visa/croatia-work-permit-visa/"
+    },
+    {
+      "id": 8519,
+      "src": "/wp-content/uploads/2025/09/Google-AI-Studio-1.jpg",
+      "width": 1200,
+      "height": 530,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Google-AI-Studio-1-150x66.jpg 150w, /wp-content/uploads/2025/09/Google-AI-Studio-1-300x133.jpg 300w, /wp-content/uploads/2025/09/Google-AI-Studio-1-450x199.jpg 450w, /wp-content/uploads/2025/09/Google-AI-Studio-1-768x339.jpg 768w, /wp-content/uploads/2025/09/Google-AI-Studio-1-1024x452.jpg 1024w, /wp-content/uploads/2025/09/Google-AI-Studio-1.jpg 1200w",
+      "url": "https://nicetrix.com/google-ai-studio-changes-everything/google-ai-studio-2/"
+    },
+    {
+      "id": 8516,
+      "src": "/wp-content/uploads/2025/09/Framer.jpg",
+      "width": 1200,
+      "height": 565,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Framer-150x71.jpg 150w, /wp-content/uploads/2025/09/Framer-300x141.jpg 300w, /wp-content/uploads/2025/09/Framer-450x212.jpg 450w, /wp-content/uploads/2025/09/Framer-768x362.jpg 768w, /wp-content/uploads/2025/09/Framer-1024x482.jpg 1024w, /wp-content/uploads/2025/09/Framer.jpg 1200w",
+      "url": "https://nicetrix.com/best-5-ai-tools-for-web-developers/framer/"
+    },
+    {
+      "id": 8515,
+      "src": "/wp-content/uploads/2025/09/replit.jpg",
+      "width": 1200,
+      "height": 545,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/replit-150x68.jpg 150w, /wp-content/uploads/2025/09/replit-300x136.jpg 300w, /wp-content/uploads/2025/09/replit-450x204.jpg 450w, /wp-content/uploads/2025/09/replit-768x349.jpg 768w, /wp-content/uploads/2025/09/replit-1024x465.jpg 1024w, /wp-content/uploads/2025/09/replit.jpg 1200w",
+      "url": "https://nicetrix.com/best-5-ai-tools-for-web-developers/replit/"
+    },
+    {
+      "id": 8512,
+      "src": "/wp-content/uploads/2025/09/ChatGPT-5-Performance.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/ChatGPT-5-Performance-150x84.jpg 150w, /wp-content/uploads/2025/09/ChatGPT-5-Performance-300x169.jpg 300w, /wp-content/uploads/2025/09/ChatGPT-5-Performance-450x253.jpg 450w, /wp-content/uploads/2025/09/ChatGPT-5-Performance-768x432.jpg 768w, /wp-content/uploads/2025/09/ChatGPT-5-Performance-1024x576.jpg 1024w, /wp-content/uploads/2025/09/ChatGPT-5-Performance.jpg 1200w",
+      "url": "https://nicetrix.com/how-to-use-chat-gpt-5/chatgpt-5-performance/"
+    },
+    {
+      "id": 8511,
+      "src": "/wp-content/uploads/2025/09/GameDevelopbyChatGPT.jpg",
+      "width": 1200,
+      "height": 572,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/GameDevelopbyChatGPT-150x72.jpg 150w, /wp-content/uploads/2025/09/GameDevelopbyChatGPT-300x143.jpg 300w, /wp-content/uploads/2025/09/GameDevelopbyChatGPT-450x215.jpg 450w, /wp-content/uploads/2025/09/GameDevelopbyChatGPT-768x366.jpg 768w, /wp-content/uploads/2025/09/GameDevelopbyChatGPT-1024x488.jpg 1024w, /wp-content/uploads/2025/09/GameDevelopbyChatGPT.jpg 1200w",
+      "url": "https://nicetrix.com/how-to-use-chat-gpt-5/gamedevelopbychatgpt/"
+    },
+    {
+      "id": 8510,
+      "src": "/wp-content/uploads/2025/09/Log-in-to-ChatGPT.jpg",
+      "width": 1200,
+      "height": 636,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Log-in-to-ChatGPT-150x80.jpg 150w, /wp-content/uploads/2025/09/Log-in-to-ChatGPT-300x159.jpg 300w, /wp-content/uploads/2025/09/Log-in-to-ChatGPT-450x239.jpg 450w, /wp-content/uploads/2025/09/Log-in-to-ChatGPT-768x407.jpg 768w, /wp-content/uploads/2025/09/Log-in-to-ChatGPT-1024x543.jpg 1024w, /wp-content/uploads/2025/09/Log-in-to-ChatGPT.jpg 1200w",
+      "url": "https://nicetrix.com/how-to-use-chat-gpt-5/log-in-to-chatgpt/"
+    },
+    {
+      "id": 8508,
+      "src": "/wp-content/uploads/2025/09/Video-Generation.jpg",
+      "width": 1200,
+      "height": 652,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Video-Generation-150x82.jpg 150w, /wp-content/uploads/2025/09/Video-Generation-300x163.jpg 300w, /wp-content/uploads/2025/09/Video-Generation-450x245.jpg 450w, /wp-content/uploads/2025/09/Video-Generation-768x417.jpg 768w, /wp-content/uploads/2025/09/Video-Generation-1024x556.jpg 1024w, /wp-content/uploads/2025/09/Video-Generation.jpg 1200w",
+      "url": "https://nicetrix.com/%e0%a6%ad%e0%a6%bf%e0%a6%93-%e0%a6%a5%e0%a7%8d%e0%a6%b0%e0%a6%bf-%e0%a6%a6%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%ad%e0%a6%bf%e0%a6%a1%e0%a6%bf%e0%a6%93-%e0%a6%a4%e0%a7%88%e0%a6%b0%e0%a6%bf/video-generation/"
+    },
+    {
+      "id": 8505,
+      "src": "/wp-content/uploads/2025/10/Croatia-Visa-from-Banglades.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "বাংলাদেশ থেকে ক্রোয়েশিয়া ভিসা নিয়ে ইউরোপ প্রবেশের পূর্ণাঙ্গ গাইল লাইন",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/Croatia-Visa-from-Banglades-150x84.jpg 150w, /wp-content/uploads/2025/10/Croatia-Visa-from-Banglades-300x169.jpg 300w, /wp-content/uploads/2025/10/Croatia-Visa-from-Banglades-450x253.jpg 450w, /wp-content/uploads/2025/10/Croatia-Visa-from-Banglades-768x432.jpg 768w, /wp-content/uploads/2025/10/Croatia-Visa-from-Banglades-1024x576.jpg 1024w, /wp-content/uploads/2025/10/Croatia-Visa-from-Banglades.jpg 1200w",
+      "url": "https://nicetrix.com/complete-croatia-visa-guide-for-legal-entry-success/croatia-visa-from-banglades/"
+    },
+    {
+      "id": 8504,
+      "src": "/wp-content/uploads/2025/10/Pro-and-Cons-for-Croetia.jpg",
+      "width": 1200,
+      "height": 1000,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/Pro-and-Cons-for-Croetia-150x125.jpg 150w, /wp-content/uploads/2025/10/Pro-and-Cons-for-Croetia-300x250.jpg 300w, /wp-content/uploads/2025/10/Pro-and-Cons-for-Croetia-450x375.jpg 450w, /wp-content/uploads/2025/10/Pro-and-Cons-for-Croetia-768x640.jpg 768w, /wp-content/uploads/2025/10/Pro-and-Cons-for-Croetia-1024x853.jpg 1024w, /wp-content/uploads/2025/10/Pro-and-Cons-for-Croetia.jpg 1200w",
+      "url": "https://nicetrix.com/complete-croatia-visa-guide-for-legal-entry-success/pro-and-cons-for-croetia/"
+    },
+    {
+      "id": 8503,
+      "src": "/wp-content/uploads/2025/10/Bangladesh-to-Croetia.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/Bangladesh-to-Croetia-150x84.jpg 150w, /wp-content/uploads/2025/10/Bangladesh-to-Croetia-300x169.jpg 300w, /wp-content/uploads/2025/10/Bangladesh-to-Croetia-450x253.jpg 450w, /wp-content/uploads/2025/10/Bangladesh-to-Croetia-768x432.jpg 768w, /wp-content/uploads/2025/10/Bangladesh-to-Croetia-1024x576.jpg 1024w, /wp-content/uploads/2025/10/Bangladesh-to-Croetia.jpg 1200w",
+      "url": "https://nicetrix.com/complete-croatia-visa-guide-for-legal-entry-success/bangladesh-to-croetia/"
+    },
+    {
+      "id": 8499,
+      "src": "/wp-content/uploads/2025/09/Couching-Marks.jpg",
+      "width": 1200,
+      "height": 1272,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Couching-Marks-150x159.jpg 150w, /wp-content/uploads/2025/09/Couching-Marks-283x300.jpg 283w, /wp-content/uploads/2025/09/Couching-Marks-450x477.jpg 450w, /wp-content/uploads/2025/09/Couching-Marks-768x814.jpg 768w, /wp-content/uploads/2025/09/Couching-Marks-966x1024.jpg 966w, /wp-content/uploads/2025/09/Couching-Marks.jpg 1200w",
+      "url": "https://nicetrix.com/5-key-strategies-to-dominate-admission-season-morale/couching-marks/"
+    },
+    {
+      "id": 8498,
+      "src": "/wp-content/uploads/2025/09/Break-your-goals.jpg",
+      "width": 1200,
+      "height": 550,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Break-your-goals-150x69.jpg 150w, /wp-content/uploads/2025/09/Break-your-goals-300x138.jpg 300w, /wp-content/uploads/2025/09/Break-your-goals-450x206.jpg 450w, /wp-content/uploads/2025/09/Break-your-goals-768x352.jpg 768w, /wp-content/uploads/2025/09/Break-your-goals-1024x469.jpg 1024w, /wp-content/uploads/2025/09/Break-your-goals.jpg 1200w",
+      "url": "https://nicetrix.com/5-key-strategies-to-dominate-admission-season-morale/break-your-goals/"
+    },
+    {
+      "id": 8497,
+      "src": "/wp-content/uploads/2025/09/Mental-Strenght.jpg",
+      "width": 1200,
+      "height": 1000,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Mental-Strenght-150x125.jpg 150w, /wp-content/uploads/2025/09/Mental-Strenght-300x250.jpg 300w, /wp-content/uploads/2025/09/Mental-Strenght-450x375.jpg 450w, /wp-content/uploads/2025/09/Mental-Strenght-768x640.jpg 768w, /wp-content/uploads/2025/09/Mental-Strenght-1024x853.jpg 1024w, /wp-content/uploads/2025/09/Mental-Strenght.jpg 1200w",
+      "url": "https://nicetrix.com/5-key-strategies-to-dominate-admission-season-morale/mental-strenght/"
+    },
+    {
+      "id": 8489,
+      "src": "/wp-content/uploads/2025/09/WuilBolt.jpg",
+      "width": 1200,
+      "height": 599,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/WuilBolt-150x75.jpg 150w, /wp-content/uploads/2025/09/WuilBolt-300x150.jpg 300w, /wp-content/uploads/2025/09/WuilBolt-450x225.jpg 450w, /wp-content/uploads/2025/09/WuilBolt-768x383.jpg 768w, /wp-content/uploads/2025/09/WuilBolt-1024x511.jpg 1024w, /wp-content/uploads/2025/09/WuilBolt.jpg 1200w",
+      "url": "https://nicetrix.com/top-5-powerful-ai-tools-every-student-should-use/wuilbolt/"
+    },
+    {
+      "id": 8488,
+      "src": "/wp-content/uploads/2025/09/Notion-AI.jpg",
+      "width": 1200,
+      "height": 602,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Notion-AI-150x75.jpg 150w, /wp-content/uploads/2025/09/Notion-AI-300x151.jpg 300w, /wp-content/uploads/2025/09/Notion-AI-450x226.jpg 450w, /wp-content/uploads/2025/09/Notion-AI-768x385.jpg 768w, /wp-content/uploads/2025/09/Notion-AI-1024x514.jpg 1024w, /wp-content/uploads/2025/09/Notion-AI.jpg 1200w",
+      "url": "https://nicetrix.com/top-5-powerful-ai-tools-every-student-should-use/notion-ai/"
+    },
+    {
+      "id": 8485,
+      "src": "/wp-content/uploads/2025/09/US-in-AI-Race.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/US-in-AI-Race-150x84.jpg 150w, /wp-content/uploads/2025/09/US-in-AI-Race-300x169.jpg 300w, /wp-content/uploads/2025/09/US-in-AI-Race-450x253.jpg 450w, /wp-content/uploads/2025/09/US-in-AI-Race-768x432.jpg 768w, /wp-content/uploads/2025/09/US-in-AI-Race-1024x576.jpg 1024w, /wp-content/uploads/2025/09/US-in-AI-Race.jpg 1200w",
+      "url": "https://nicetrix.com/ai-race-which-country-is-winning/us-in-ai-race/"
+    },
+    {
+      "id": 8484,
+      "src": "/wp-content/uploads/2025/09/AI-Race-1.jpg",
+      "width": 924,
+      "height": 858,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/AI-Race-1-150x139.jpg 150w, /wp-content/uploads/2025/09/AI-Race-1-300x279.jpg 300w, /wp-content/uploads/2025/09/AI-Race-1-450x418.jpg 450w, /wp-content/uploads/2025/09/AI-Race-1-768x713.jpg 768w, /wp-content/uploads/2025/09/AI-Race-1.jpg 924w",
+      "url": "https://nicetrix.com/ai-race-which-country-is-winning/ai-race-2/"
+    },
+    {
+      "id": 8481,
+      "src": "/wp-content/uploads/2025/10/Apply-for-German-Opportunit.jpg",
+      "width": 1200,
+      "height": 1056,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/Apply-for-German-Opportunit-150x132.jpg 150w, /wp-content/uploads/2025/10/Apply-for-German-Opportunit-300x264.jpg 300w, /wp-content/uploads/2025/10/Apply-for-German-Opportunit-450x396.jpg 450w, /wp-content/uploads/2025/10/Apply-for-German-Opportunit-768x676.jpg 768w, /wp-content/uploads/2025/10/Apply-for-German-Opportunit-1024x901.jpg 1024w, /wp-content/uploads/2025/10/Apply-for-German-Opportunit.jpg 1200w",
+      "url": "https://nicetrix.com/a-to-z-guide-for-germany-opportunity-card-visa/apply-for-german-opportunit/"
+    },
+    {
+      "id": 8480,
+      "src": "/wp-content/uploads/2025/10/Visa-applications-in-the-Co.jpg",
+      "width": 1200,
+      "height": 604,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/Visa-applications-in-the-Co-150x76.jpg 150w, /wp-content/uploads/2025/10/Visa-applications-in-the-Co-300x151.jpg 300w, /wp-content/uploads/2025/10/Visa-applications-in-the-Co-450x227.jpg 450w, /wp-content/uploads/2025/10/Visa-applications-in-the-Co-768x387.jpg 768w, /wp-content/uploads/2025/10/Visa-applications-in-the-Co-1024x515.jpg 1024w, /wp-content/uploads/2025/10/Visa-applications-in-the-Co.jpg 1200w",
+      "url": "https://nicetrix.com/a-to-z-guide-for-germany-opportunity-card-visa/visa-applications-in-the-co/"
+    },
+    {
+      "id": 8478,
+      "src": "/wp-content/uploads/2025/10/German-Opprtunity-Card.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "জার্মানি অপরচুনিটি কার্ড ভিসা: সম্পূর্ণ A to Z গাইড",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/German-Opprtunity-Card-150x84.jpg 150w, /wp-content/uploads/2025/10/German-Opprtunity-Card-300x169.jpg 300w, /wp-content/uploads/2025/10/German-Opprtunity-Card-450x253.jpg 450w, /wp-content/uploads/2025/10/German-Opprtunity-Card-768x432.jpg 768w, /wp-content/uploads/2025/10/German-Opprtunity-Card-1024x576.jpg 1024w, /wp-content/uploads/2025/10/German-Opprtunity-Card.jpg 1200w",
+      "url": "https://nicetrix.com/a-to-z-guide-for-germany-opportunity-card-visa/german-opprtunity-card/"
+    },
+    {
+      "id": 8469,
+      "src": "/wp-content/uploads/2025/10/Malta.jpg",
+      "width": 1200,
+      "height": 673,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/Malta-150x84.jpg 150w, /wp-content/uploads/2025/10/Malta-300x168.jpg 300w, /wp-content/uploads/2025/10/Malta-450x252.jpg 450w, /wp-content/uploads/2025/10/Malta-768x431.jpg 768w, /wp-content/uploads/2025/10/Malta-1024x574.jpg 1024w, /wp-content/uploads/2025/10/Malta.jpg 1200w",
+      "url": "https://nicetrix.com/6-country-for-easy-citizenship-in-europe/malta/"
+    },
+    {
+      "id": 8468,
+      "src": "/wp-content/uploads/2025/10/Portuguese.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/Portuguese-150x79.jpg 150w, /wp-content/uploads/2025/10/Portuguese-300x158.jpg 300w, /wp-content/uploads/2025/10/Portuguese-450x236.jpg 450w, /wp-content/uploads/2025/10/Portuguese-768x403.jpg 768w, /wp-content/uploads/2025/10/Portuguese-1024x538.jpg 1024w, /wp-content/uploads/2025/10/Portuguese.jpg 1200w",
+      "url": "https://nicetrix.com/6-country-for-easy-citizenship-in-europe/portuguese/"
+    },
+    {
+      "id": 8467,
+      "src": "/wp-content/uploads/2025/10/EU-Citizenship.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/EU-Citizenship-150x79.jpg 150w, /wp-content/uploads/2025/10/EU-Citizenship-300x158.jpg 300w, /wp-content/uploads/2025/10/EU-Citizenship-450x236.jpg 450w, /wp-content/uploads/2025/10/EU-Citizenship-768x403.jpg 768w, /wp-content/uploads/2025/10/EU-Citizenship-1024x538.jpg 1024w, /wp-content/uploads/2025/10/EU-Citizenship.jpg 1200w",
+      "url": "https://nicetrix.com/6-country-for-easy-citizenship-in-europe/eu-citizenship/"
+    },
+    {
+      "id": 8466,
+      "src": "/wp-content/uploads/2025/10/Citizen-in-Europe.jpg",
+      "width": 1200,
+      "height": 913,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/Citizen-in-Europe-150x114.jpg 150w, /wp-content/uploads/2025/10/Citizen-in-Europe-300x228.jpg 300w, /wp-content/uploads/2025/10/Citizen-in-Europe-450x342.jpg 450w, /wp-content/uploads/2025/10/Citizen-in-Europe-768x584.jpg 768w, /wp-content/uploads/2025/10/Citizen-in-Europe-1024x779.jpg 1024w, /wp-content/uploads/2025/10/Citizen-in-Europe.jpg 1200w",
+      "url": "https://nicetrix.com/6-country-for-easy-citizenship-in-europe/citizen-in-europe/"
+    },
+    {
+      "id": 8463,
+      "src": "/wp-content/uploads/2025/10/Citizenship-in-Europe.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "ইউরোপে নাগরিকত্ব যে ৬টি দেশে দ্রুত ও সহজে লাভ করা যায়",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/Citizenship-in-Europe-150x84.jpg 150w, /wp-content/uploads/2025/10/Citizenship-in-Europe-300x169.jpg 300w, /wp-content/uploads/2025/10/Citizenship-in-Europe-450x253.jpg 450w, /wp-content/uploads/2025/10/Citizenship-in-Europe-768x432.jpg 768w, /wp-content/uploads/2025/10/Citizenship-in-Europe-1024x576.jpg 1024w, /wp-content/uploads/2025/10/Citizenship-in-Europe.jpg 1200w",
+      "url": "https://nicetrix.com/6-country-for-easy-citizenship-in-europe/citizenship-in-europe/"
+    },
+    {
+      "id": 8461,
+      "src": "/wp-content/uploads/2025/09/cropped-Social-Media-Manager.jpg",
+      "width": 683,
+      "height": 682,
+      "alt": "",
+      "caption": "<p>https://nicetrix.com/wp-content/uploads/2025/09/cropped-Social-Media-Manager.jpg</p>\n",
+      "srcset": "/wp-content/uploads/2025/09/cropped-Social-Media-Manager-150x150.jpg 150w, /wp-content/uploads/2025/09/cropped-Social-Media-Manager-300x300.jpg 300w, /wp-content/uploads/2025/09/cropped-Social-Media-Manager-450x449.jpg 450w, /wp-content/uploads/2025/09/cropped-Social-Media-Manager.jpg 683w",
+      "url": "https://nicetrix.com/10-online-earning-skills-for-student/social-media-manager/cropped-social-media-manager-jpg/"
+    },
+    {
+      "id": 8455,
+      "src": "/wp-content/uploads/2025/09/ChatGPT-1.jpg",
+      "width": 1200,
+      "height": 663,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/ChatGPT-1-150x83.jpg 150w, /wp-content/uploads/2025/09/ChatGPT-1-300x166.jpg 300w, /wp-content/uploads/2025/09/ChatGPT-1-450x249.jpg 450w, /wp-content/uploads/2025/09/ChatGPT-1-768x424.jpg 768w, /wp-content/uploads/2025/09/ChatGPT-1-1024x566.jpg 1024w, /wp-content/uploads/2025/09/ChatGPT-1.jpg 1200w",
+      "url": "https://nicetrix.com/making-youtube-videos-with-ai/chatgpt-2/"
+    },
+    {
+      "id": 8454,
+      "src": "/wp-content/uploads/2025/09/YouTube-Video-AI.jpg",
+      "width": 1200,
+      "height": 882,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/YouTube-Video-AI-150x110.jpg 150w, /wp-content/uploads/2025/09/YouTube-Video-AI-300x221.jpg 300w, /wp-content/uploads/2025/09/YouTube-Video-AI-450x331.jpg 450w, /wp-content/uploads/2025/09/YouTube-Video-AI-768x564.jpg 768w, /wp-content/uploads/2025/09/YouTube-Video-AI-1024x753.jpg 1024w, /wp-content/uploads/2025/09/YouTube-Video-AI.jpg 1200w",
+      "url": "https://nicetrix.com/making-youtube-videos-with-ai/youtube-video-ai/"
+    },
+    {
+      "id": 8449,
+      "src": "/wp-content/uploads/2025/10/EB-3-Visa-Process.jpg",
+      "width": 1200,
+      "height": 1019,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/EB-3-Visa-Process-150x127.jpg 150w, /wp-content/uploads/2025/10/EB-3-Visa-Process-300x255.jpg 300w, /wp-content/uploads/2025/10/EB-3-Visa-Process-450x382.jpg 450w, /wp-content/uploads/2025/10/EB-3-Visa-Process-768x652.jpg 768w, /wp-content/uploads/2025/10/EB-3-Visa-Process-1024x870.jpg 1024w, /wp-content/uploads/2025/10/EB-3-Visa-Process.jpg 1200w",
+      "url": "https://nicetrix.com/usa-eb-3-visa-from-bangladesh/eb-3-visa-process/"
+    },
+    {
+      "id": 8448,
+      "src": "/wp-content/uploads/2025/10/EB-3-Visa-Benefits.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/EB-3-Visa-Benefits-150x84.jpg 150w, /wp-content/uploads/2025/10/EB-3-Visa-Benefits-300x169.jpg 300w, /wp-content/uploads/2025/10/EB-3-Visa-Benefits-450x253.jpg 450w, /wp-content/uploads/2025/10/EB-3-Visa-Benefits-768x432.jpg 768w, /wp-content/uploads/2025/10/EB-3-Visa-Benefits-1024x576.jpg 1024w, /wp-content/uploads/2025/10/EB-3-Visa-Benefits.jpg 1200w",
+      "url": "https://nicetrix.com/usa-eb-3-visa-from-bangladesh/eb-3-visa-benefits/"
+    },
+    {
+      "id": 8447,
+      "src": "/wp-content/uploads/2025/10/USA-EB-3-Visa-from-Banglade.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "বাংলাদেশ থেকে আমেরিকার ইবি-৩ ভিসা: গ্রিন কার্ড পাওয়ার সম্পূর্ণ গাইড",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/USA-EB-3-Visa-from-Banglade-150x84.jpg 150w, /wp-content/uploads/2025/10/USA-EB-3-Visa-from-Banglade-300x169.jpg 300w, /wp-content/uploads/2025/10/USA-EB-3-Visa-from-Banglade-450x253.jpg 450w, /wp-content/uploads/2025/10/USA-EB-3-Visa-from-Banglade-768x432.jpg 768w, /wp-content/uploads/2025/10/USA-EB-3-Visa-from-Banglade-1024x576.jpg 1024w, /wp-content/uploads/2025/10/USA-EB-3-Visa-from-Banglade.jpg 1200w",
+      "url": "https://nicetrix.com/usa-eb-3-visa-from-bangladesh/usa-eb-3-visa-from-banglade/"
+    },
+    {
+      "id": 8439,
+      "src": "/wp-content/uploads/2025/09/Basic-Typing-Skill.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Basic-Typing-Skill-150x84.jpg 150w, /wp-content/uploads/2025/09/Basic-Typing-Skill-300x169.jpg 300w, /wp-content/uploads/2025/09/Basic-Typing-Skill-450x253.jpg 450w, /wp-content/uploads/2025/09/Basic-Typing-Skill-768x432.jpg 768w, /wp-content/uploads/2025/09/Basic-Typing-Skill-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Basic-Typing-Skill.jpg 1200w",
+      "url": "https://nicetrix.com/5-must-known-basic-computer-skills/basic-typing-skill/"
+    },
+    {
+      "id": 8438,
+      "src": "/wp-content/uploads/2025/09/Basic-Computing.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Basic-Computing-150x84.jpg 150w, /wp-content/uploads/2025/09/Basic-Computing-300x169.jpg 300w, /wp-content/uploads/2025/09/Basic-Computing-450x253.jpg 450w, /wp-content/uploads/2025/09/Basic-Computing-768x432.jpg 768w, /wp-content/uploads/2025/09/Basic-Computing-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Basic-Computing.jpg 1200w",
+      "url": "https://nicetrix.com/5-must-known-basic-computer-skills/basic-computing/"
+    },
+    {
+      "id": 8437,
+      "src": "/wp-content/uploads/2025/09/Must-Have-Computer-Skills.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "৫টি বেসিক কম্পিউটার স্কিল - ২০২৫ সালে বেকার না থাকতে চাইলে দ্রুত শিখে নিন!",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Must-Have-Computer-Skills-150x84.jpg 150w, /wp-content/uploads/2025/09/Must-Have-Computer-Skills-300x169.jpg 300w, /wp-content/uploads/2025/09/Must-Have-Computer-Skills-450x253.jpg 450w, /wp-content/uploads/2025/09/Must-Have-Computer-Skills-768x432.jpg 768w, /wp-content/uploads/2025/09/Must-Have-Computer-Skills-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Must-Have-Computer-Skills.jpg 1200w",
+      "url": "https://nicetrix.com/5-must-known-basic-computer-skills/must-have-computer-skills/"
+    },
+    {
+      "id": 8423,
+      "src": "/wp-content/uploads/2025/10/webpro.jpg",
+      "width": 512,
+      "height": 512,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/webpro-150x150.jpg 150w, /wp-content/uploads/2025/10/webpro-300x300.jpg 300w, /wp-content/uploads/2025/10/webpro-450x450.jpg 450w, /wp-content/uploads/2025/10/webpro.jpg 512w",
+      "url": "https://nicetrix.com/home/webpro/"
+    },
+    {
+      "id": 8417,
+      "src": "/wp-content/uploads/2025/10/Quit-Job-for-Masters-or-Not.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/Quit-Job-for-Masters-or-Not-150x84.jpg 150w, /wp-content/uploads/2025/10/Quit-Job-for-Masters-or-Not-300x169.jpg 300w, /wp-content/uploads/2025/10/Quit-Job-for-Masters-or-Not-450x253.jpg 450w, /wp-content/uploads/2025/10/Quit-Job-for-Masters-or-Not-768x432.jpg 768w, /wp-content/uploads/2025/10/Quit-Job-for-Masters-or-Not-1024x576.jpg 1024w, /wp-content/uploads/2025/10/Quit-Job-for-Masters-or-Not.jpg 1200w",
+      "url": "https://nicetrix.com/job-vs-higher-study/quit-job-for-masters-or-not/"
+    },
+    {
+      "id": 8414,
+      "src": "/wp-content/uploads/2025/10/jobs-vs-higher-study.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/jobs-vs-higher-study-150x84.jpg 150w, /wp-content/uploads/2025/10/jobs-vs-higher-study-300x169.jpg 300w, /wp-content/uploads/2025/10/jobs-vs-higher-study-450x253.jpg 450w, /wp-content/uploads/2025/10/jobs-vs-higher-study-768x432.jpg 768w, /wp-content/uploads/2025/10/jobs-vs-higher-study-1024x576.jpg 1024w, /wp-content/uploads/2025/10/jobs-vs-higher-study.jpg 1200w",
+      "url": "https://nicetrix.com/job-vs-higher-study/jobs-vs-higher-study/"
+    },
+    {
+      "id": 8411,
+      "src": "/wp-content/uploads/2025/10/Jobs-vs-Career.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "চাকরি নাকি উচ্চশিক্ষা কোনটি আগে করবেন?",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/Jobs-vs-Career-150x84.jpg 150w, /wp-content/uploads/2025/10/Jobs-vs-Career-300x169.jpg 300w, /wp-content/uploads/2025/10/Jobs-vs-Career-450x253.jpg 450w, /wp-content/uploads/2025/10/Jobs-vs-Career-768x432.jpg 768w, /wp-content/uploads/2025/10/Jobs-vs-Career-1024x576.jpg 1024w, /wp-content/uploads/2025/10/Jobs-vs-Career.jpg 1200w",
+      "url": "https://nicetrix.com/job-vs-higher-study/jobs-vs-career/"
+    },
+    {
+      "id": 8406,
+      "src": "/wp-content/uploads/2025/09/Nursing-Students.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Nursing-Students-150x84.jpg 150w, /wp-content/uploads/2025/09/Nursing-Students-300x169.jpg 300w, /wp-content/uploads/2025/09/Nursing-Students-450x253.jpg 450w, /wp-content/uploads/2025/09/Nursing-Students-768x432.jpg 768w, /wp-content/uploads/2025/09/Nursing-Students-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Nursing-Students.jpg 1200w",
+      "url": "https://nicetrix.com/nursing-admission-preparation/nursing-students/"
+    },
+    {
+      "id": 8403,
+      "src": "/wp-content/uploads/2025/09/Path-to-University-Success.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Path-to-University-Success-150x84.jpg 150w, /wp-content/uploads/2025/09/Path-to-University-Success-300x169.jpg 300w, /wp-content/uploads/2025/09/Path-to-University-Success-450x253.jpg 450w, /wp-content/uploads/2025/09/Path-to-University-Success-768x432.jpg 768w, /wp-content/uploads/2025/09/Path-to-University-Success-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Path-to-University-Success.jpg 1200w",
+      "url": "https://nicetrix.com/university-admission-test-mental-preparation/path-to-university-success/"
+    },
+    {
+      "id": 8402,
+      "src": "/wp-content/uploads/2025/09/Channeling-Negative-Emotion.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Channeling-Negative-Emotion-150x84.jpg 150w, /wp-content/uploads/2025/09/Channeling-Negative-Emotion-300x169.jpg 300w, /wp-content/uploads/2025/09/Channeling-Negative-Emotion-450x253.jpg 450w, /wp-content/uploads/2025/09/Channeling-Negative-Emotion-768x432.jpg 768w, /wp-content/uploads/2025/09/Channeling-Negative-Emotion-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Channeling-Negative-Emotion.jpg 1200w",
+      "url": "https://nicetrix.com/university-admission-test-mental-preparation/channeling-negative-emotion/"
+    },
+    {
+      "id": 8401,
+      "src": "/wp-content/uploads/2025/09/Reset-Brains-Baseline.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Reset-Brains-Baseline-150x84.jpg 150w, /wp-content/uploads/2025/09/Reset-Brains-Baseline-300x169.jpg 300w, /wp-content/uploads/2025/09/Reset-Brains-Baseline-450x253.jpg 450w, /wp-content/uploads/2025/09/Reset-Brains-Baseline-768x432.jpg 768w, /wp-content/uploads/2025/09/Reset-Brains-Baseline-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Reset-Brains-Baseline.jpg 1200w",
+      "url": "https://nicetrix.com/university-admission-test-mental-preparation/reset-brains-baseline/"
+    },
+    {
+      "id": 8400,
+      "src": "/wp-content/uploads/2025/09/Building-Confidence.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Building-Confidence-150x84.jpg 150w, /wp-content/uploads/2025/09/Building-Confidence-300x169.jpg 300w, /wp-content/uploads/2025/09/Building-Confidence-450x253.jpg 450w, /wp-content/uploads/2025/09/Building-Confidence-768x432.jpg 768w, /wp-content/uploads/2025/09/Building-Confidence-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Building-Confidence.jpg 1200w",
+      "url": "https://nicetrix.com/university-admission-test-mental-preparation/building-confidence/"
+    },
+    {
+      "id": 8399,
+      "src": "/wp-content/uploads/2025/09/Addmision-Problem-Handling.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Addmision-Problem-Handling-150x84.jpg 150w, /wp-content/uploads/2025/09/Addmision-Problem-Handling-300x169.jpg 300w, /wp-content/uploads/2025/09/Addmision-Problem-Handling-450x253.jpg 450w, /wp-content/uploads/2025/09/Addmision-Problem-Handling-768x432.jpg 768w, /wp-content/uploads/2025/09/Addmision-Problem-Handling-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Addmision-Problem-Handling.jpg 1200w",
+      "url": "https://nicetrix.com/university-admission-test-mental-preparation/addmision-problem-handling/"
+    },
+    {
+      "id": 8391,
+      "src": "/wp-content/uploads/2025/10/Efficiency.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/Efficiency-150x84.jpg 150w, /wp-content/uploads/2025/10/Efficiency-300x169.jpg 300w, /wp-content/uploads/2025/10/Efficiency-450x253.jpg 450w, /wp-content/uploads/2025/10/Efficiency-768x432.jpg 768w, /wp-content/uploads/2025/10/Efficiency-1024x576.jpg 1024w, /wp-content/uploads/2025/10/Efficiency.jpg 1200w",
+      "url": "https://nicetrix.com/4-effective-time-management-principals/efficiency/"
+    },
+    {
+      "id": 8390,
+      "src": "/wp-content/uploads/2025/10/Deep-Focus-on-Work.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/Deep-Focus-on-Work-150x84.jpg 150w, /wp-content/uploads/2025/10/Deep-Focus-on-Work-300x169.jpg 300w, /wp-content/uploads/2025/10/Deep-Focus-on-Work-450x253.jpg 450w, /wp-content/uploads/2025/10/Deep-Focus-on-Work-768x432.jpg 768w, /wp-content/uploads/2025/10/Deep-Focus-on-Work-1024x576.jpg 1024w, /wp-content/uploads/2025/10/Deep-Focus-on-Work.jpg 1200w",
+      "url": "https://nicetrix.com/4-effective-time-management-principals/deep-focus-on-work/"
+    },
+    {
+      "id": 8389,
+      "src": "/wp-content/uploads/2025/10/Perfect-Time-Management.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "কার্যকরী সময় ব্যবস্থাপনার জন্য ৪টি টাইম ম্যানেজমেন্ট প্রিন্সিপাল - 4 Effective Time Management Principles",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/Perfect-Time-Management-150x84.jpg 150w, /wp-content/uploads/2025/10/Perfect-Time-Management-300x169.jpg 300w, /wp-content/uploads/2025/10/Perfect-Time-Management-450x253.jpg 450w, /wp-content/uploads/2025/10/Perfect-Time-Management-768x432.jpg 768w, /wp-content/uploads/2025/10/Perfect-Time-Management-1024x576.jpg 1024w, /wp-content/uploads/2025/10/Perfect-Time-Management.jpg 1200w",
+      "url": "https://nicetrix.com/4-effective-time-management-principals/perfect-time-management/"
+    },
+    {
+      "id": 8373,
+      "src": "/wp-content/uploads/2025/10/Whole-Night-Work.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/Whole-Night-Work-150x84.jpg 150w, /wp-content/uploads/2025/10/Whole-Night-Work-300x169.jpg 300w, /wp-content/uploads/2025/10/Whole-Night-Work-450x253.jpg 450w, /wp-content/uploads/2025/10/Whole-Night-Work-768x432.jpg 768w, /wp-content/uploads/2025/10/Whole-Night-Work-1024x576.jpg 1024w, /wp-content/uploads/2025/10/Whole-Night-Work.jpg 1200w",
+      "url": "https://nicetrix.com/10-scientifically-proven-ways-to-boost-brain-power/whole-night-work/"
+    },
+    {
+      "id": 8371,
+      "src": "/wp-content/uploads/2025/10/Imperfect-Sleep.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/Imperfect-Sleep-150x84.jpg 150w, /wp-content/uploads/2025/10/Imperfect-Sleep-300x169.jpg 300w, /wp-content/uploads/2025/10/Imperfect-Sleep-450x253.jpg 450w, /wp-content/uploads/2025/10/Imperfect-Sleep-768x432.jpg 768w, /wp-content/uploads/2025/10/Imperfect-Sleep-1024x576.jpg 1024w, /wp-content/uploads/2025/10/Imperfect-Sleep.jpg 1200w",
+      "url": "https://nicetrix.com/10-scientifically-proven-ways-to-boost-brain-power/imperfect-sleep/"
+    },
+    {
+      "id": 8367,
+      "src": "/wp-content/uploads/2025/10/Boost-Brain-Power.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "ব্রেইন পাওয়ার বাড়ানোর ১০ টি কাজ - 10 Task Boost Brain Power",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/10/Boost-Brain-Power-150x84.jpg 150w, /wp-content/uploads/2025/10/Boost-Brain-Power-300x169.jpg 300w, /wp-content/uploads/2025/10/Boost-Brain-Power-450x253.jpg 450w, /wp-content/uploads/2025/10/Boost-Brain-Power-768x432.jpg 768w, /wp-content/uploads/2025/10/Boost-Brain-Power-1024x576.jpg 1024w, /wp-content/uploads/2025/10/Boost-Brain-Power.jpg 1200w",
+      "url": "https://nicetrix.com/10-scientifically-proven-ways-to-boost-brain-power/boost-brain-power/"
+    },
+    {
+      "id": 8354,
+      "src": "/wp-content/uploads/2025/09/Student-Reading-a-Hard-Topi.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Student-Reading-a-Hard-Topi-150x84.jpg 150w, /wp-content/uploads/2025/09/Student-Reading-a-Hard-Topi-300x169.jpg 300w, /wp-content/uploads/2025/09/Student-Reading-a-Hard-Topi-450x253.jpg 450w, /wp-content/uploads/2025/09/Student-Reading-a-Hard-Topi-768x432.jpg 768w, /wp-content/uploads/2025/09/Student-Reading-a-Hard-Topi-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Student-Reading-a-Hard-Topi.jpg 1200w",
+      "url": "https://nicetrix.com/students-who-can-always-succeed-in-university/student-reading-a-hard-topi/"
+    },
+    {
+      "id": 8353,
+      "src": "/wp-content/uploads/2025/09/University-Admissiom-Prepar.jpg",
+      "width": 1200,
+      "height": 700,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/University-Admissiom-Prepar-150x88.jpg 150w, /wp-content/uploads/2025/09/University-Admissiom-Prepar-300x175.jpg 300w, /wp-content/uploads/2025/09/University-Admissiom-Prepar-450x263.jpg 450w, /wp-content/uploads/2025/09/University-Admissiom-Prepar-768x448.jpg 768w, /wp-content/uploads/2025/09/University-Admissiom-Prepar-1024x597.jpg 1024w, /wp-content/uploads/2025/09/University-Admissiom-Prepar.jpg 1200w",
+      "url": "https://nicetrix.com/students-who-can-always-succeed-in-university/university-admissiom-prepar/"
+    },
+    {
+      "id": 8348,
+      "src": "/wp-content/uploads/2025/09/Shikha-Exam.jpg",
+      "width": 1200,
+      "height": 750,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Shikha-Exam-150x94.jpg 150w, /wp-content/uploads/2025/09/Shikha-Exam-300x188.jpg 300w, /wp-content/uploads/2025/09/Shikha-Exam-450x281.jpg 450w, /wp-content/uploads/2025/09/Shikha-Exam-768x480.jpg 768w, /wp-content/uploads/2025/09/Shikha-Exam-1024x640.jpg 1024w, /wp-content/uploads/2025/09/Shikha-Exam.jpg 1200w",
+      "url": "https://nicetrix.com/%e0%a6%ae%e0%a7%87%e0%a6%a1%e0%a6%bf%e0%a6%95%e0%a7%87%e0%a6%b2-%e0%a6%95%e0%a7%87%e0%a6%ae%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%b0-%e0%a7%a8%e0%a7%a6%e0%a7%a6/shikha-exam/"
+    },
+    {
+      "id": 8347,
+      "src": "/wp-content/uploads/2025/09/Color-of-calcium-salts-in-f.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Color-of-calcium-salts-in-f-150x84.jpg 150w, /wp-content/uploads/2025/09/Color-of-calcium-salts-in-f-300x169.jpg 300w, /wp-content/uploads/2025/09/Color-of-calcium-salts-in-f-450x253.jpg 450w, /wp-content/uploads/2025/09/Color-of-calcium-salts-in-f-768x432.jpg 768w, /wp-content/uploads/2025/09/Color-of-calcium-salts-in-f-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Color-of-calcium-salts-in-f.jpg 1200w",
+      "url": "https://nicetrix.com/%e0%a6%ae%e0%a7%87%e0%a6%a1%e0%a6%bf%e0%a6%95%e0%a7%87%e0%a6%b2-%e0%a6%95%e0%a7%87%e0%a6%ae%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%b0-%e0%a7%a8%e0%a7%a6%e0%a7%a6/color-of-calcium-salts-in-f/"
+    },
+    {
+      "id": 8346,
+      "src": "/wp-content/uploads/2025/09/Metal-Color-Memory.jpg",
+      "width": 1200,
+      "height": 774,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Metal-Color-Memory-150x97.jpg 150w, /wp-content/uploads/2025/09/Metal-Color-Memory-300x194.jpg 300w, /wp-content/uploads/2025/09/Metal-Color-Memory-450x290.jpg 450w, /wp-content/uploads/2025/09/Metal-Color-Memory-768x495.jpg 768w, /wp-content/uploads/2025/09/Metal-Color-Memory-1024x660.jpg 1024w, /wp-content/uploads/2025/09/Metal-Color-Memory.jpg 1200w",
+      "url": "https://nicetrix.com/%e0%a6%ae%e0%a7%87%e0%a6%a1%e0%a6%bf%e0%a6%95%e0%a7%87%e0%a6%b2-%e0%a6%95%e0%a7%87%e0%a6%ae%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%b0-%e0%a7%a8%e0%a7%a6%e0%a7%a6/metal-color-memory/"
+    },
+    {
+      "id": 8341,
+      "src": "/wp-content/uploads/2025/09/Triplet-Admission-Guide.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Triplet-Admission-Guide-150x84.jpg 150w, /wp-content/uploads/2025/09/Triplet-Admission-Guide-300x169.jpg 300w, /wp-content/uploads/2025/09/Triplet-Admission-Guide-450x253.jpg 450w, /wp-content/uploads/2025/09/Triplet-Admission-Guide-768x432.jpg 768w, /wp-content/uploads/2025/09/Triplet-Admission-Guide-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Triplet-Admission-Guide.jpg 1200w",
+      "url": "https://nicetrix.com/buet-medical-du-admission-preparation-strategy/triplet-admission-guide/"
+    },
+    {
+      "id": 8340,
+      "src": "/wp-content/uploads/2025/09/Which-preparation-is-the-mo.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Which-preparation-is-the-mo-150x84.jpg 150w, /wp-content/uploads/2025/09/Which-preparation-is-the-mo-300x169.jpg 300w, /wp-content/uploads/2025/09/Which-preparation-is-the-mo-450x253.jpg 450w, /wp-content/uploads/2025/09/Which-preparation-is-the-mo-768x432.jpg 768w, /wp-content/uploads/2025/09/Which-preparation-is-the-mo-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Which-preparation-is-the-mo.jpg 1200w",
+      "url": "https://nicetrix.com/buet-medical-du-admission-preparation-strategy/which-preparation-is-the-mo/"
+    },
+    {
+      "id": 8339,
+      "src": "/wp-content/uploads/2025/09/BUET-Medical-DU-Admissio.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/BUET-Medical-DU-Admissio-150x84.jpg 150w, /wp-content/uploads/2025/09/BUET-Medical-DU-Admissio-300x169.jpg 300w, /wp-content/uploads/2025/09/BUET-Medical-DU-Admissio-450x253.jpg 450w, /wp-content/uploads/2025/09/BUET-Medical-DU-Admissio-768x432.jpg 768w, /wp-content/uploads/2025/09/BUET-Medical-DU-Admissio-1024x576.jpg 1024w, /wp-content/uploads/2025/09/BUET-Medical-DU-Admissio.jpg 1200w",
+      "url": "https://nicetrix.com/buet-medical-du-admission-preparation-strategy/buet-medical-du-admissio/"
+    },
+    {
+      "id": 8334,
+      "src": "/wp-content/uploads/2025/09/ChatGPT-Learning-Model.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/ChatGPT-Learning-Model-150x84.jpg 150w, /wp-content/uploads/2025/09/ChatGPT-Learning-Model-300x169.jpg 300w, /wp-content/uploads/2025/09/ChatGPT-Learning-Model-450x253.jpg 450w, /wp-content/uploads/2025/09/ChatGPT-Learning-Model-768x432.jpg 768w, /wp-content/uploads/2025/09/ChatGPT-Learning-Model-1024x576.jpg 1024w, /wp-content/uploads/2025/09/ChatGPT-Learning-Model.jpg 1200w",
+      "url": "https://nicetrix.com/chatgpt-study-and-learn-model/chatgpt-learning-model/"
+    },
+    {
+      "id": 8329,
+      "src": "/wp-content/uploads/2025/09/Results-from-faith.jpg",
+      "width": 1200,
+      "height": 1000,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Results-from-faith-150x125.jpg 150w, /wp-content/uploads/2025/09/Results-from-faith-300x250.jpg 300w, /wp-content/uploads/2025/09/Results-from-faith-450x375.jpg 450w, /wp-content/uploads/2025/09/Results-from-faith-768x640.jpg 768w, /wp-content/uploads/2025/09/Results-from-faith-1024x853.jpg 1024w, /wp-content/uploads/2025/09/Results-from-faith.jpg 1200w",
+      "url": "https://nicetrix.com/3-scientific-method-to-talk-yourself/results-from-faith/"
+    },
+    {
+      "id": 8328,
+      "src": "/wp-content/uploads/2025/09/Everything-is-possible-the.jpg",
+      "width": 1200,
+      "height": 900,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Everything-is-possible-the-150x113.jpg 150w, /wp-content/uploads/2025/09/Everything-is-possible-the-300x225.jpg 300w, /wp-content/uploads/2025/09/Everything-is-possible-the-450x338.jpg 450w, /wp-content/uploads/2025/09/Everything-is-possible-the-768x576.jpg 768w, /wp-content/uploads/2025/09/Everything-is-possible-the-1024x768.jpg 1024w, /wp-content/uploads/2025/09/Everything-is-possible-the.jpg 1200w",
+      "url": "https://nicetrix.com/3-scientific-method-to-talk-yourself/everything-is-possible-the/"
+    },
+    {
+      "id": 8327,
+      "src": "/wp-content/uploads/2025/09/Talk-to-yourself.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Talk-to-yourself-150x84.jpg 150w, /wp-content/uploads/2025/09/Talk-to-yourself-300x169.jpg 300w, /wp-content/uploads/2025/09/Talk-to-yourself-450x253.jpg 450w, /wp-content/uploads/2025/09/Talk-to-yourself-768x432.jpg 768w, /wp-content/uploads/2025/09/Talk-to-yourself-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Talk-to-yourself.jpg 1200w",
+      "url": "https://nicetrix.com/3-scientific-method-to-talk-yourself/talk-to-yourself/"
+    },
+    {
+      "id": 8324,
+      "src": "/wp-content/uploads/2025/09/Frog-in-the-Well.jpg",
+      "width": 1200,
+      "height": 1000,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Frog-in-the-Well-150x125.jpg 150w, /wp-content/uploads/2025/09/Frog-in-the-Well-300x250.jpg 300w, /wp-content/uploads/2025/09/Frog-in-the-Well-450x375.jpg 450w, /wp-content/uploads/2025/09/Frog-in-the-Well-768x640.jpg 768w, /wp-content/uploads/2025/09/Frog-in-the-Well-1024x853.jpg 1024w, /wp-content/uploads/2025/09/Frog-in-the-Well.jpg 1200w",
+      "url": "https://nicetrix.com/7-life-changing-korean-proverbs/frog-in-the-well/"
+    },
+    {
+      "id": 8323,
+      "src": "/wp-content/uploads/2025/09/Even-a-Dog-at-a-Buddhist-Te.jpg",
+      "width": 1200,
+      "height": 700,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Even-a-Dog-at-a-Buddhist-Te-150x88.jpg 150w, /wp-content/uploads/2025/09/Even-a-Dog-at-a-Buddhist-Te-300x175.jpg 300w, /wp-content/uploads/2025/09/Even-a-Dog-at-a-Buddhist-Te-450x263.jpg 450w, /wp-content/uploads/2025/09/Even-a-Dog-at-a-Buddhist-Te-768x448.jpg 768w, /wp-content/uploads/2025/09/Even-a-Dog-at-a-Buddhist-Te-1024x597.jpg 1024w, /wp-content/uploads/2025/09/Even-a-Dog-at-a-Buddhist-Te.jpg 1200w",
+      "url": "https://nicetrix.com/7-life-changing-korean-proverbs/even-a-dog-at-a-buddhist-te/"
+    },
+    {
+      "id": 8321,
+      "src": "/wp-content/uploads/2025/09/You-will-flourish-with-your.jpg",
+      "width": 1200,
+      "height": 700,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/You-will-flourish-with-your-150x88.jpg 150w, /wp-content/uploads/2025/09/You-will-flourish-with-your-300x175.jpg 300w, /wp-content/uploads/2025/09/You-will-flourish-with-your-450x263.jpg 450w, /wp-content/uploads/2025/09/You-will-flourish-with-your-768x448.jpg 768w, /wp-content/uploads/2025/09/You-will-flourish-with-your-1024x597.jpg 1024w, /wp-content/uploads/2025/09/You-will-flourish-with-your.jpg 1200w",
+      "url": "https://nicetrix.com/7-life-changing-korean-proverbs/you-will-flourish-with-your/"
+    },
+    {
+      "id": 8319,
+      "src": "/wp-content/uploads/2025/09/Daddys-Notary-Daves-Note-.jpg",
+      "width": 1200,
+      "height": 900,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Daddys-Notary-Daves-Note--150x113.jpg 150w, /wp-content/uploads/2025/09/Daddys-Notary-Daves-Note--300x225.jpg 300w, /wp-content/uploads/2025/09/Daddys-Notary-Daves-Note--450x338.jpg 450w, /wp-content/uploads/2025/09/Daddys-Notary-Daves-Note--768x576.jpg 768w, /wp-content/uploads/2025/09/Daddys-Notary-Daves-Note--1024x768.jpg 1024w, /wp-content/uploads/2025/09/Daddys-Notary-Daves-Note-.jpg 1200w",
+      "url": "https://nicetrix.com/7-life-changing-korean-proverbs/daddys-notary-daves-note/"
+    },
+    {
+      "id": 8318,
+      "src": "/wp-content/uploads/2025/09/Other-peoples-rice-cakes-a.jpg",
+      "width": 1200,
+      "height": 700,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Other-peoples-rice-cakes-a-150x88.jpg 150w, /wp-content/uploads/2025/09/Other-peoples-rice-cakes-a-300x175.jpg 300w, /wp-content/uploads/2025/09/Other-peoples-rice-cakes-a-450x263.jpg 450w, /wp-content/uploads/2025/09/Other-peoples-rice-cakes-a-768x448.jpg 768w, /wp-content/uploads/2025/09/Other-peoples-rice-cakes-a-1024x597.jpg 1024w, /wp-content/uploads/2025/09/Other-peoples-rice-cakes-a.jpg 1200w",
+      "url": "https://nicetrix.com/7-life-changing-korean-proverbs/other-peoples-rice-cakes-a/"
+    },
+    {
+      "id": 8317,
+      "src": "/wp-content/uploads/2025/09/Where-theres-a-will-there.jpg",
+      "width": 1200,
+      "height": 700,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Where-theres-a-will-there-150x88.jpg 150w, /wp-content/uploads/2025/09/Where-theres-a-will-there-300x175.jpg 300w, /wp-content/uploads/2025/09/Where-theres-a-will-there-450x263.jpg 450w, /wp-content/uploads/2025/09/Where-theres-a-will-there-768x448.jpg 768w, /wp-content/uploads/2025/09/Where-theres-a-will-there-1024x597.jpg 1024w, /wp-content/uploads/2025/09/Where-theres-a-will-there.jpg 1200w",
+      "url": "https://nicetrix.com/7-life-changing-korean-proverbs/where-theres-a-will-there/"
+    },
+    {
+      "id": 8316,
+      "src": "/wp-content/uploads/2025/09/At-the-End-of-Hardship-Come.jpg",
+      "width": 1200,
+      "height": 900,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/At-the-End-of-Hardship-Come-150x113.jpg 150w, /wp-content/uploads/2025/09/At-the-End-of-Hardship-Come-300x225.jpg 300w, /wp-content/uploads/2025/09/At-the-End-of-Hardship-Come-450x338.jpg 450w, /wp-content/uploads/2025/09/At-the-End-of-Hardship-Come-768x576.jpg 768w, /wp-content/uploads/2025/09/At-the-End-of-Hardship-Come-1024x768.jpg 1024w, /wp-content/uploads/2025/09/At-the-End-of-Hardship-Come.jpg 1200w",
+      "url": "https://nicetrix.com/7-life-changing-korean-proverbs/at-the-end-of-hardship-come/"
+    },
+    {
+      "id": 8311,
+      "src": "/wp-content/uploads/2025/09/Spotlight-Effects.jpg",
+      "width": 1200,
+      "height": 700,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Spotlight-Effects-150x88.jpg 150w, /wp-content/uploads/2025/09/Spotlight-Effects-300x175.jpg 300w, /wp-content/uploads/2025/09/Spotlight-Effects-450x263.jpg 450w, /wp-content/uploads/2025/09/Spotlight-Effects-768x448.jpg 768w, /wp-content/uploads/2025/09/Spotlight-Effects-1024x597.jpg 1024w, /wp-content/uploads/2025/09/Spotlight-Effects.jpg 1200w",
+      "url": "https://nicetrix.com/6-social-skills-for-home-event/spotlight-effects/"
+    },
+    {
+      "id": 8310,
+      "src": "/wp-content/uploads/2025/09/Mirroing-Effect.jpg",
+      "width": 1200,
+      "height": 700,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Mirroing-Effect-150x88.jpg 150w, /wp-content/uploads/2025/09/Mirroing-Effect-300x175.jpg 300w, /wp-content/uploads/2025/09/Mirroing-Effect-450x263.jpg 450w, /wp-content/uploads/2025/09/Mirroing-Effect-768x448.jpg 768w, /wp-content/uploads/2025/09/Mirroing-Effect-1024x597.jpg 1024w, /wp-content/uploads/2025/09/Mirroing-Effect.jpg 1200w",
+      "url": "https://nicetrix.com/6-social-skills-for-home-event/mirroing-effect/"
+    },
+    {
+      "id": 8309,
+      "src": "/wp-content/uploads/2025/09/Dont-Judgemental.jpg",
+      "width": 1200,
+      "height": 700,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Dont-Judgemental-150x88.jpg 150w, /wp-content/uploads/2025/09/Dont-Judgemental-300x175.jpg 300w, /wp-content/uploads/2025/09/Dont-Judgemental-450x263.jpg 450w, /wp-content/uploads/2025/09/Dont-Judgemental-768x448.jpg 768w, /wp-content/uploads/2025/09/Dont-Judgemental-1024x597.jpg 1024w, /wp-content/uploads/2025/09/Dont-Judgemental.jpg 1200w",
+      "url": "https://nicetrix.com/6-social-skills-for-home-event/dont-judgemental/"
+    },
+    {
+      "id": 8308,
+      "src": "/wp-content/uploads/2025/09/Dress-Scense-According-to-P.jpg",
+      "width": 1200,
+      "height": 1200,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Dress-Scense-According-to-P-150x150.jpg 150w, /wp-content/uploads/2025/09/Dress-Scense-According-to-P-300x300.jpg 300w, /wp-content/uploads/2025/09/Dress-Scense-According-to-P-450x450.jpg 450w, /wp-content/uploads/2025/09/Dress-Scense-According-to-P-768x768.jpg 768w, /wp-content/uploads/2025/09/Dress-Scense-According-to-P-1024x1024.jpg 1024w, /wp-content/uploads/2025/09/Dress-Scense-According-to-P.jpg 1200w",
+      "url": "https://nicetrix.com/6-social-skills-for-home-event/dress-scense-according-to-p/"
+    },
+    {
+      "id": 8307,
+      "src": "/wp-content/uploads/2025/09/friendly-conversations.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/friendly-conversations-150x84.jpg 150w, /wp-content/uploads/2025/09/friendly-conversations-300x169.jpg 300w, /wp-content/uploads/2025/09/friendly-conversations-450x253.jpg 450w, /wp-content/uploads/2025/09/friendly-conversations-768x432.jpg 768w, /wp-content/uploads/2025/09/friendly-conversations-1024x576.jpg 1024w, /wp-content/uploads/2025/09/friendly-conversations.jpg 1200w",
+      "url": "https://nicetrix.com/6-social-skills-for-home-event/friendly-conversations/"
+    },
+    {
+      "id": 8306,
+      "src": "/wp-content/uploads/2025/09/Two-Persons-Good-Conversati.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Two-Persons-Good-Conversati-150x84.jpg 150w, /wp-content/uploads/2025/09/Two-Persons-Good-Conversati-300x169.jpg 300w, /wp-content/uploads/2025/09/Two-Persons-Good-Conversati-450x253.jpg 450w, /wp-content/uploads/2025/09/Two-Persons-Good-Conversati-768x432.jpg 768w, /wp-content/uploads/2025/09/Two-Persons-Good-Conversati-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Two-Persons-Good-Conversati.jpg 1200w",
+      "url": "https://nicetrix.com/6-social-skills-for-home-event/two-persons-good-conversati/"
+    },
+    {
+      "id": 8301,
+      "src": "/wp-content/uploads/2025/09/Social-Media-Manager.jpg",
+      "width": 1200,
+      "height": 1000,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Social-Media-Manager-150x125.jpg 150w, /wp-content/uploads/2025/09/Social-Media-Manager-300x250.jpg 300w, /wp-content/uploads/2025/09/Social-Media-Manager-450x375.jpg 450w, /wp-content/uploads/2025/09/Social-Media-Manager-768x640.jpg 768w, /wp-content/uploads/2025/09/Social-Media-Manager-1024x853.jpg 1024w, /wp-content/uploads/2025/09/Social-Media-Manager.jpg 1200w",
+      "url": "https://nicetrix.com/10-online-earning-skills-for-student/social-media-manager/"
+    },
+    {
+      "id": 8300,
+      "src": "/wp-content/uploads/2025/09/Digital-Marketing.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Digital-Marketing-150x84.jpg 150w, /wp-content/uploads/2025/09/Digital-Marketing-300x169.jpg 300w, /wp-content/uploads/2025/09/Digital-Marketing-450x253.jpg 450w, /wp-content/uploads/2025/09/Digital-Marketing-768x432.jpg 768w, /wp-content/uploads/2025/09/Digital-Marketing-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Digital-Marketing.jpg 1200w",
+      "url": "https://nicetrix.com/10-online-earning-skills-for-student/digital-marketing/"
+    },
+    {
+      "id": 8299,
+      "src": "/wp-content/uploads/2025/09/Working-Students-in-a-Shopp.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Working-Students-in-a-Shopp-150x84.jpg 150w, /wp-content/uploads/2025/09/Working-Students-in-a-Shopp-300x169.jpg 300w, /wp-content/uploads/2025/09/Working-Students-in-a-Shopp-450x253.jpg 450w, /wp-content/uploads/2025/09/Working-Students-in-a-Shopp-768x432.jpg 768w, /wp-content/uploads/2025/09/Working-Students-in-a-Shopp-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Working-Students-in-a-Shopp.jpg 1200w",
+      "url": "https://nicetrix.com/10-online-earning-skills-for-student/working-students-in-a-shopp/"
+    },
+    {
+      "id": 8298,
+      "src": "/wp-content/uploads/2025/09/10-Skills-for-Earn-on-Stude.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "স্টুডেন্ট লাইফে টাকা উপার্জন করতে প্রয়োজনীয় স্কীল - 10 Online Earning Skills for Student",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/10-Skills-for-Earn-on-Stude-150x84.jpg 150w, /wp-content/uploads/2025/09/10-Skills-for-Earn-on-Stude-300x169.jpg 300w, /wp-content/uploads/2025/09/10-Skills-for-Earn-on-Stude-450x253.jpg 450w, /wp-content/uploads/2025/09/10-Skills-for-Earn-on-Stude-768x432.jpg 768w, /wp-content/uploads/2025/09/10-Skills-for-Earn-on-Stude-1024x576.jpg 1024w, /wp-content/uploads/2025/09/10-Skills-for-Earn-on-Stude.jpg 1200w",
+      "url": "https://nicetrix.com/10-online-earning-skills-for-student/10-skills-for-earn-on-stude/"
+    },
+    {
+      "id": 8292,
+      "src": "/wp-content/uploads/2025/09/a-Table-with-Study-Room-ess.jpg",
+      "width": 1200,
+      "height": 1200,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/a-Table-with-Study-Room-ess-150x150.jpg 150w, /wp-content/uploads/2025/09/a-Table-with-Study-Room-ess-300x300.jpg 300w, /wp-content/uploads/2025/09/a-Table-with-Study-Room-ess-450x450.jpg 450w, /wp-content/uploads/2025/09/a-Table-with-Study-Room-ess-768x768.jpg 768w, /wp-content/uploads/2025/09/a-Table-with-Study-Room-ess-1024x1024.jpg 1024w, /wp-content/uploads/2025/09/a-Table-with-Study-Room-ess.jpg 1200w",
+      "url": "https://nicetrix.com/10-study-room-essentials-for-students/a-table-with-study-room-ess/"
+    },
+    {
+      "id": 8289,
+      "src": "/wp-content/uploads/2025/09/A-Village-Poor-Family-Stude.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/A-Village-Poor-Family-Stude-150x84.jpg 150w, /wp-content/uploads/2025/09/A-Village-Poor-Family-Stude-300x169.jpg 300w, /wp-content/uploads/2025/09/A-Village-Poor-Family-Stude-450x253.jpg 450w, /wp-content/uploads/2025/09/A-Village-Poor-Family-Stude-768x432.jpg 768w, /wp-content/uploads/2025/09/A-Village-Poor-Family-Stude-1024x576.jpg 1024w, /wp-content/uploads/2025/09/A-Village-Poor-Family-Stude.jpg 1200w",
+      "url": "https://nicetrix.com/10-study-room-essentials-for-students/a-village-poor-family-stude/"
+    },
+    {
+      "id": 8288,
+      "src": "/wp-content/uploads/2025/09/A-Study-Room-With-Perfect-N.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/A-Study-Room-With-Perfect-N-150x84.jpg 150w, /wp-content/uploads/2025/09/A-Study-Room-With-Perfect-N-300x169.jpg 300w, /wp-content/uploads/2025/09/A-Study-Room-With-Perfect-N-450x253.jpg 450w, /wp-content/uploads/2025/09/A-Study-Room-With-Perfect-N-768x432.jpg 768w, /wp-content/uploads/2025/09/A-Study-Room-With-Perfect-N-1024x576.jpg 1024w, /wp-content/uploads/2025/09/A-Study-Room-With-Perfect-N.jpg 1200w",
+      "url": "https://nicetrix.com/10-study-room-essentials-for-students/a-study-room-with-perfect-n/"
+    },
+    {
+      "id": 8287,
+      "src": "/wp-content/uploads/2025/09/10-Study-Room-Essentials.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "শিক্ষার্থীদের পড়ার টেবিলে যে ১০টি জিনিস অবশ্যই থাকতে হবে - 10 Study Room Essentials for Students",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/10-Study-Room-Essentials-150x84.jpg 150w, /wp-content/uploads/2025/09/10-Study-Room-Essentials-300x169.jpg 300w, /wp-content/uploads/2025/09/10-Study-Room-Essentials-450x253.jpg 450w, /wp-content/uploads/2025/09/10-Study-Room-Essentials-768x432.jpg 768w, /wp-content/uploads/2025/09/10-Study-Room-Essentials-1024x576.jpg 1024w, /wp-content/uploads/2025/09/10-Study-Room-Essentials.jpg 1200w",
+      "url": "https://nicetrix.com/10-study-room-essentials-for-students/10-study-room-essentials/"
+    },
+    {
+      "id": 8284,
+      "src": "/wp-content/uploads/2025/09/BPSC-Exam-Hall.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "বিসিএস প্রস্তুতি: কম পড়ে পাশ করার ৫টি কৌশল - ব্যক্তিগত অভিজ্ঞতা ও প্রস্তুতির গল্প",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/BPSC-Exam-Hall-150x84.jpg 150w, /wp-content/uploads/2025/09/BPSC-Exam-Hall-300x169.jpg 300w, /wp-content/uploads/2025/09/BPSC-Exam-Hall-450x253.jpg 450w, /wp-content/uploads/2025/09/BPSC-Exam-Hall-768x432.jpg 768w, /wp-content/uploads/2025/09/BPSC-Exam-Hall-1024x576.jpg 1024w, /wp-content/uploads/2025/09/BPSC-Exam-Hall.jpg 1200w",
+      "url": "https://nicetrix.com/5-working-technique-to-pass-bpsc/bpsc-exam-hall/"
+    },
+    {
+      "id": 8283,
+      "src": "/wp-content/uploads/2025/09/PSC.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/PSC-150x84.jpg 150w, /wp-content/uploads/2025/09/PSC-300x169.jpg 300w, /wp-content/uploads/2025/09/PSC-450x253.jpg 450w, /wp-content/uploads/2025/09/PSC-768x432.jpg 768w, /wp-content/uploads/2025/09/PSC-1024x576.jpg 1024w, /wp-content/uploads/2025/09/PSC.jpg 1200w",
+      "url": "https://nicetrix.com/5-working-technique-to-pass-bpsc/psc/"
+    },
+    {
+      "id": 8278,
+      "src": "/wp-content/uploads/2025/09/Make-Strong-Basic.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Make-Strong-Basic-150x84.jpg 150w, /wp-content/uploads/2025/09/Make-Strong-Basic-300x169.jpg 300w, /wp-content/uploads/2025/09/Make-Strong-Basic-450x253.jpg 450w, /wp-content/uploads/2025/09/Make-Strong-Basic-768x432.jpg 768w, /wp-content/uploads/2025/09/Make-Strong-Basic-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Make-Strong-Basic.jpg 1200w",
+      "url": "https://nicetrix.com/1-year-master-plan-for-getting-govt-job/make-strong-basic/"
+    },
+    {
+      "id": 8275,
+      "src": "/wp-content/uploads/2025/09/First-Four-Months.jpg",
+      "width": 1200,
+      "height": 1265,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/First-Four-Months-150x158.jpg 150w, /wp-content/uploads/2025/09/First-Four-Months-285x300.jpg 285w, /wp-content/uploads/2025/09/First-Four-Months-450x474.jpg 450w, /wp-content/uploads/2025/09/First-Four-Months-768x810.jpg 768w, /wp-content/uploads/2025/09/First-Four-Months-971x1024.jpg 971w, /wp-content/uploads/2025/09/First-Four-Months.jpg 1200w",
+      "url": "https://nicetrix.com/1-year-master-plan-for-getting-govt-job/first-four-months/"
+    },
+    {
+      "id": 8274,
+      "src": "/wp-content/uploads/2025/09/Govt-Job-Achive.jpg",
+      "width": 1200,
+      "height": 1345,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Govt-Job-Achive-150x168.jpg 150w, /wp-content/uploads/2025/09/Govt-Job-Achive-268x300.jpg 268w, /wp-content/uploads/2025/09/Govt-Job-Achive-450x504.jpg 450w, /wp-content/uploads/2025/09/Govt-Job-Achive-768x861.jpg 768w, /wp-content/uploads/2025/09/Govt-Job-Achive-914x1024.jpg 914w, /wp-content/uploads/2025/09/Govt-Job-Achive.jpg 1200w",
+      "url": "https://nicetrix.com/1-year-master-plan-for-getting-govt-job/govt-job-achive/"
+    },
+    {
+      "id": 8273,
+      "src": "/wp-content/uploads/2025/09/Govt-Job-Strategy.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "চাকরি পরীক্ষার প্রস্তুতি সেরা স্ট্র্যাটেজি - 1 Year Master Plan for Getting Govt Job",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Govt-Job-Strategy-150x84.jpg 150w, /wp-content/uploads/2025/09/Govt-Job-Strategy-300x169.jpg 300w, /wp-content/uploads/2025/09/Govt-Job-Strategy-450x253.jpg 450w, /wp-content/uploads/2025/09/Govt-Job-Strategy-768x432.jpg 768w, /wp-content/uploads/2025/09/Govt-Job-Strategy-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Govt-Job-Strategy.jpg 1200w",
+      "url": "https://nicetrix.com/1-year-master-plan-for-getting-govt-job/govt-job-strategy/"
+    },
+    {
+      "id": 8263,
+      "src": "/wp-content/uploads/2025/09/Digital-Literacy-with-AI.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Digital-Literacy-with-AI-150x84.jpg 150w, /wp-content/uploads/2025/09/Digital-Literacy-with-AI-300x169.jpg 300w, /wp-content/uploads/2025/09/Digital-Literacy-with-AI-450x253.jpg 450w, /wp-content/uploads/2025/09/Digital-Literacy-with-AI-768x432.jpg 768w, /wp-content/uploads/2025/09/Digital-Literacy-with-AI-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Digital-Literacy-with-AI.jpg 1200w",
+      "url": "https://nicetrix.com/ai-generalist-effective-roadmap/digital-literacy-with-ai/"
+    },
+    {
+      "id": 8262,
+      "src": "/wp-content/uploads/2025/09/AI-Generalist-Roadmap.png",
+      "width": 540,
+      "height": 564,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/AI-Generalist-Roadmap-150x157.png 150w, /wp-content/uploads/2025/09/AI-Generalist-Roadmap-287x300.png 287w, /wp-content/uploads/2025/09/AI-Generalist-Roadmap-450x470.png 450w, /wp-content/uploads/2025/09/AI-Generalist-Roadmap.png 540w",
+      "url": "https://nicetrix.com/ai-generalist-effective-roadmap/ai-generalist-roadmap/"
+    },
+    {
+      "id": 8261,
+      "src": "/wp-content/uploads/2025/09/A-Crow-drinking-water.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/A-Crow-drinking-water-150x84.jpg 150w, /wp-content/uploads/2025/09/A-Crow-drinking-water-300x169.jpg 300w, /wp-content/uploads/2025/09/A-Crow-drinking-water-450x253.jpg 450w, /wp-content/uploads/2025/09/A-Crow-drinking-water-768x432.jpg 768w, /wp-content/uploads/2025/09/A-Crow-drinking-water-1024x576.jpg 1024w, /wp-content/uploads/2025/09/A-Crow-drinking-water.jpg 1200w",
+      "url": "https://nicetrix.com/ai-generalist-effective-roadmap/a-crow-drinking-water/"
+    },
+    {
+      "id": 8258,
+      "src": "/wp-content/uploads/2025/09/Panda-Eating-Bamboo.webp",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Panda-Eating-Bamboo-150x84.webp 150w, /wp-content/uploads/2025/09/Panda-Eating-Bamboo-300x169.webp 300w, /wp-content/uploads/2025/09/Panda-Eating-Bamboo-450x253.webp 450w, /wp-content/uploads/2025/09/Panda-Eating-Bamboo-768x432.webp 768w, /wp-content/uploads/2025/09/Panda-Eating-Bamboo-1024x576.webp 1024w, /wp-content/uploads/2025/09/Panda-Eating-Bamboo.webp 1200w",
+      "url": "https://nicetrix.com/ai-generalist-effective-roadmap/panda-eating-bamboo/"
+    },
+    {
+      "id": 8255,
+      "src": "/wp-content/uploads/2025/09/The-top-5-programming-languages.webp",
+      "width": 1920,
+      "height": 971,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/The-top-5-programming-languages-150x76.webp 150w, /wp-content/uploads/2025/09/The-top-5-programming-languages-300x152.webp 300w, /wp-content/uploads/2025/09/The-top-5-programming-languages-450x228.webp 450w, /wp-content/uploads/2025/09/The-top-5-programming-languages-768x388.webp 768w, /wp-content/uploads/2025/09/The-top-5-programming-languages-1024x518.webp 1024w, /wp-content/uploads/2025/09/The-top-5-programming-languages-1200x607.webp 1200w, /wp-content/uploads/2025/09/The-top-5-programming-languages-1536x777.webp 1536w, /wp-content/uploads/2025/09/The-top-5-programming-languages.webp 1920w",
+      "url": "https://nicetrix.com/competitive-programming-by-problem-solving/the-top-5-programming-languages/"
+    },
+    {
+      "id": 8252,
+      "src": "/wp-content/uploads/2025/09/Khairul-Alam.jpg",
+      "width": 512,
+      "height": 512,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Khairul-Alam-150x150.jpg 150w, /wp-content/uploads/2025/09/Khairul-Alam-300x300.jpg 300w, /wp-content/uploads/2025/09/Khairul-Alam-450x450.jpg 450w, /wp-content/uploads/2025/09/Khairul-Alam.jpg 512w",
+      "url": "https://nicetrix.com/khairul-alam/"
+    },
+    {
+      "id": 8249,
+      "src": "/wp-content/uploads/2025/09/miopiya.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/miopiya-150x84.jpg 150w, /wp-content/uploads/2025/09/miopiya-300x169.jpg 300w, /wp-content/uploads/2025/09/miopiya-450x253.jpg 450w, /wp-content/uploads/2025/09/miopiya-768x432.jpg 768w, /wp-content/uploads/2025/09/miopiya-1024x576.jpg 1024w, /wp-content/uploads/2025/09/miopiya.jpg 1200w",
+      "url": "https://nicetrix.com/myopia-or-nearsightedness/miopiya/"
+    },
+    {
+      "id": 8246,
+      "src": "/wp-content/uploads/2025/09/Snake-and-Antivenom.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Snake-and-Antivenom-150x84.jpg 150w, /wp-content/uploads/2025/09/Snake-and-Antivenom-300x169.jpg 300w, /wp-content/uploads/2025/09/Snake-and-Antivenom-450x253.jpg 450w, /wp-content/uploads/2025/09/Snake-and-Antivenom-768x432.jpg 768w, /wp-content/uploads/2025/09/Snake-and-Antivenom-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Snake-and-Antivenom.jpg 1200w",
+      "url": "https://nicetrix.com/snake-and-antivenom/snake-and-antivenom/"
+    },
+    {
+      "id": 8242,
+      "src": "/wp-content/uploads/2025/09/Smallpox-epidemic.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Smallpox-epidemic-150x84.jpg 150w, /wp-content/uploads/2025/09/Smallpox-epidemic-300x169.jpg 300w, /wp-content/uploads/2025/09/Smallpox-epidemic-450x253.jpg 450w, /wp-content/uploads/2025/09/Smallpox-epidemic-768x432.jpg 768w, /wp-content/uploads/2025/09/Smallpox-epidemic-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Smallpox-epidemic.jpg 1200w",
+      "url": "https://nicetrix.com/smallpox-epidemic-explanation/smallpox-epidemic/"
+    },
+    {
+      "id": 8239,
+      "src": "/wp-content/uploads/2025/09/Japanese-Secret-Study-Techn.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Japanese-Secret-Study-Techn-150x84.jpg 150w, /wp-content/uploads/2025/09/Japanese-Secret-Study-Techn-300x169.jpg 300w, /wp-content/uploads/2025/09/Japanese-Secret-Study-Techn-450x253.jpg 450w, /wp-content/uploads/2025/09/Japanese-Secret-Study-Techn-768x432.jpg 768w, /wp-content/uploads/2025/09/Japanese-Secret-Study-Techn-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Japanese-Secret-Study-Techn.jpg 1200w",
+      "url": "https://nicetrix.com/8-japanese-secret-study-techniques/japanese-secret-study-techn/"
+    },
+    {
+      "id": 8236,
+      "src": "/wp-content/uploads/2025/09/Sleep-necessary-for-academi.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Sleep-necessary-for-academi-150x84.jpg 150w, /wp-content/uploads/2025/09/Sleep-necessary-for-academi-300x169.jpg 300w, /wp-content/uploads/2025/09/Sleep-necessary-for-academi-450x253.jpg 450w, /wp-content/uploads/2025/09/Sleep-necessary-for-academi-768x432.jpg 768w, /wp-content/uploads/2025/09/Sleep-necessary-for-academi-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Sleep-necessary-for-academi.jpg 1200w",
+      "url": "https://nicetrix.com/sleep-necessary-for-academic-success/sleep-necessary-for-academi/"
+    },
+    {
+      "id": 8233,
+      "src": "/wp-content/uploads/2025/09/talk-yourself.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/talk-yourself-150x84.jpg 150w, /wp-content/uploads/2025/09/talk-yourself-300x169.jpg 300w, /wp-content/uploads/2025/09/talk-yourself-450x253.jpg 450w, /wp-content/uploads/2025/09/talk-yourself-768x432.jpg 768w, /wp-content/uploads/2025/09/talk-yourself-1024x576.jpg 1024w, /wp-content/uploads/2025/09/talk-yourself.jpg 1200w",
+      "url": "https://nicetrix.com/3-scientific-method-to-talk-yourself/talk-yourself/"
+    },
+    {
+      "id": 8230,
+      "src": "/wp-content/uploads/2025/09/Korean-Proverbs.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Korean-Proverbs-150x84.jpg 150w, /wp-content/uploads/2025/09/Korean-Proverbs-300x169.jpg 300w, /wp-content/uploads/2025/09/Korean-Proverbs-450x253.jpg 450w, /wp-content/uploads/2025/09/Korean-Proverbs-768x432.jpg 768w, /wp-content/uploads/2025/09/Korean-Proverbs-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Korean-Proverbs.jpg 1200w",
+      "url": "https://nicetrix.com/7-life-changing-korean-proverbs/korean-proverbs/"
+    },
+    {
+      "id": 8227,
+      "src": "/wp-content/uploads/2025/09/Effective-Study-Routine-Bef.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Effective-Study-Routine-Bef-150x84.jpg 150w, /wp-content/uploads/2025/09/Effective-Study-Routine-Bef-300x169.jpg 300w, /wp-content/uploads/2025/09/Effective-Study-Routine-Bef-450x253.jpg 450w, /wp-content/uploads/2025/09/Effective-Study-Routine-Bef-768x432.jpg 768w, /wp-content/uploads/2025/09/Effective-Study-Routine-Bef-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Effective-Study-Routine-Bef.jpg 1200w",
+      "url": "https://nicetrix.com/effective-study-routine-before-exam/effective-study-routine-bef/"
+    },
+    {
+      "id": 8224,
+      "src": "/wp-content/uploads/2025/09/Social-Skills-for-Home-Even.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Social-Skills-for-Home-Even-150x84.jpg 150w, /wp-content/uploads/2025/09/Social-Skills-for-Home-Even-300x169.jpg 300w, /wp-content/uploads/2025/09/Social-Skills-for-Home-Even-450x253.jpg 450w, /wp-content/uploads/2025/09/Social-Skills-for-Home-Even-768x432.jpg 768w, /wp-content/uploads/2025/09/Social-Skills-for-Home-Even-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Social-Skills-for-Home-Even.jpg 1200w",
+      "url": "https://nicetrix.com/6-social-skills-for-home-event/social-skills-for-home-even/"
+    },
+    {
+      "id": 8219,
+      "src": "/wp-content/uploads/2025/09/Online-Earning-Skills-for-S.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Online-Earning-Skills-for-S-150x84.jpg 150w, /wp-content/uploads/2025/09/Online-Earning-Skills-for-S-300x169.jpg 300w, /wp-content/uploads/2025/09/Online-Earning-Skills-for-S-450x253.jpg 450w, /wp-content/uploads/2025/09/Online-Earning-Skills-for-S-768x432.jpg 768w, /wp-content/uploads/2025/09/Online-Earning-Skills-for-S-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Online-Earning-Skills-for-S.jpg 1200w",
+      "url": "https://nicetrix.com/10-online-earning-skills-for-student/online-earning-skills-for-s/"
+    },
+    {
+      "id": 8214,
+      "src": "/wp-content/uploads/2025/09/Study-Room-Essentials.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Study-Room-Essentials-150x84.jpg 150w, /wp-content/uploads/2025/09/Study-Room-Essentials-300x169.jpg 300w, /wp-content/uploads/2025/09/Study-Room-Essentials-450x253.jpg 450w, /wp-content/uploads/2025/09/Study-Room-Essentials-768x432.jpg 768w, /wp-content/uploads/2025/09/Study-Room-Essentials-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Study-Room-Essentials.jpg 1200w",
+      "url": "https://nicetrix.com/10-study-room-essentials-for-students/study-room-essentials/"
+    },
+    {
+      "id": 8208,
+      "src": "/wp-content/uploads/2025/09/Medical-Admission-Test-Biol.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Medical-Admission-Test-Biol-150x84.jpg 150w, /wp-content/uploads/2025/09/Medical-Admission-Test-Biol-300x169.jpg 300w, /wp-content/uploads/2025/09/Medical-Admission-Test-Biol-450x253.jpg 450w, /wp-content/uploads/2025/09/Medical-Admission-Test-Biol-768x432.jpg 768w, /wp-content/uploads/2025/09/Medical-Admission-Test-Biol-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Medical-Admission-Test-Biol.jpg 1200w",
+      "url": "https://nicetrix.com/medical-admission-test-biology-mcq/medical-admission-test-biol/"
+    },
+    {
+      "id": 8206,
+      "src": "/wp-content/uploads/2025/09/Dhaka_University.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Dhaka_University-150x84.jpg 150w, /wp-content/uploads/2025/09/Dhaka_University-300x169.jpg 300w, /wp-content/uploads/2025/09/Dhaka_University-450x253.jpg 450w, /wp-content/uploads/2025/09/Dhaka_University-768x432.jpg 768w, /wp-content/uploads/2025/09/Dhaka_University-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Dhaka_University.jpg 1200w",
+      "url": "https://nicetrix.com/dhaka-university-admission-master-plan/dhaka_university/"
+    },
+    {
+      "id": 8202,
+      "src": "/wp-content/uploads/2025/09/Nursing-Admission-Preparati.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Nursing-Admission-Preparati-150x84.jpg 150w, /wp-content/uploads/2025/09/Nursing-Admission-Preparati-300x169.jpg 300w, /wp-content/uploads/2025/09/Nursing-Admission-Preparati-450x253.jpg 450w, /wp-content/uploads/2025/09/Nursing-Admission-Preparati-768x432.jpg 768w, /wp-content/uploads/2025/09/Nursing-Admission-Preparati-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Nursing-Admission-Preparati.jpg 1200w",
+      "url": "https://nicetrix.com/nursing-admission-preparation/nursing-admission-preparati/"
+    },
+    {
+      "id": 8198,
+      "src": "/wp-content/uploads/2025/09/University-Admission.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/University-Admission-150x84.jpg 150w, /wp-content/uploads/2025/09/University-Admission-300x169.jpg 300w, /wp-content/uploads/2025/09/University-Admission-450x253.jpg 450w, /wp-content/uploads/2025/09/University-Admission-768x432.jpg 768w, /wp-content/uploads/2025/09/University-Admission-1024x576.jpg 1024w, /wp-content/uploads/2025/09/University-Admission.jpg 1200w",
+      "url": "https://nicetrix.com/university-admission-test-mental-preparation/university-admission/"
+    },
+    {
+      "id": 8185,
+      "src": "/wp-content/uploads/2025/09/Pub-Uni.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Pub-Uni-150x84.jpg 150w, /wp-content/uploads/2025/09/Pub-Uni-300x169.jpg 300w, /wp-content/uploads/2025/09/Pub-Uni-450x253.jpg 450w, /wp-content/uploads/2025/09/Pub-Uni-768x432.jpg 768w, /wp-content/uploads/2025/09/Pub-Uni-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Pub-Uni.jpg 1200w",
+      "url": "https://nicetrix.com/students-who-can-always-succeed-in-university/pub-uni/"
+    },
+    {
+      "id": 8183,
+      "src": "/wp-content/uploads/2025/09/Google_AI.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Google_AI-150x84.jpg 150w, /wp-content/uploads/2025/09/Google_AI-300x169.jpg 300w, /wp-content/uploads/2025/09/Google_AI-450x253.jpg 450w, /wp-content/uploads/2025/09/Google_AI-768x432.jpg 768w, /wp-content/uploads/2025/09/Google_AI-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Google_AI.jpg 1200w",
+      "url": "https://nicetrix.com/google-nano-banana-ai/google_ai/"
+    },
+    {
+      "id": 8182,
+      "src": "/wp-content/uploads/2025/09/chatgpt.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/chatgpt-150x84.jpg 150w, /wp-content/uploads/2025/09/chatgpt-300x169.jpg 300w, /wp-content/uploads/2025/09/chatgpt-450x253.jpg 450w, /wp-content/uploads/2025/09/chatgpt-768x432.jpg 768w, /wp-content/uploads/2025/09/chatgpt-1024x576.jpg 1024w, /wp-content/uploads/2025/09/chatgpt.jpg 1200w",
+      "url": "https://nicetrix.com/chatgpt-study-and-learn-model/chatgpt/"
+    },
+    {
+      "id": 8181,
+      "src": "/wp-content/uploads/2025/09/design-with-canva.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/design-with-canva-150x84.jpg 150w, /wp-content/uploads/2025/09/design-with-canva-300x169.jpg 300w, /wp-content/uploads/2025/09/design-with-canva-450x253.jpg 450w, /wp-content/uploads/2025/09/design-with-canva-768x432.jpg 768w, /wp-content/uploads/2025/09/design-with-canva-1024x576.jpg 1024w, /wp-content/uploads/2025/09/design-with-canva.jpg 1200w",
+      "url": "https://nicetrix.com/social-media-post-design-with-canva/design-with-canva/"
+    },
+    {
+      "id": 8179,
+      "src": "/wp-content/uploads/2025/09/Skilled-Student.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Skilled-Student-150x84.jpg 150w, /wp-content/uploads/2025/09/Skilled-Student-300x169.jpg 300w, /wp-content/uploads/2025/09/Skilled-Student-450x253.jpg 450w, /wp-content/uploads/2025/09/Skilled-Student-768x432.jpg 768w, /wp-content/uploads/2025/09/Skilled-Student-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Skilled-Student.jpg 1200w",
+      "url": "https://nicetrix.com/must-learning-skills-for-student-life/skilled-student/"
+    },
+    {
+      "id": 8173,
+      "src": "/wp-content/uploads/2025/09/Medical-Assistant.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Medical-Assistant-150x84.jpg 150w, /wp-content/uploads/2025/09/Medical-Assistant-300x169.jpg 300w, /wp-content/uploads/2025/09/Medical-Assistant-450x253.jpg 450w, /wp-content/uploads/2025/09/Medical-Assistant-768x432.jpg 768w, /wp-content/uploads/2025/09/Medical-Assistant-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Medical-Assistant.jpg 1200w",
+      "url": "https://nicetrix.com/%e0%a6%ae%e0%a7%87%e0%a6%a1%e0%a6%bf%e0%a6%95%e0%a7%87%e0%a6%b2-%e0%a6%95%e0%a7%87%e0%a6%ae%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%b0-%e0%a7%a8%e0%a7%a6%e0%a7%a6/medical-assistant/"
+    },
+    {
+      "id": 8169,
+      "src": "/wp-content/uploads/2025/09/bsc-study-guide.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/bsc-study-guide-150x84.jpg 150w, /wp-content/uploads/2025/09/bsc-study-guide-300x169.jpg 300w, /wp-content/uploads/2025/09/bsc-study-guide-450x253.jpg 450w, /wp-content/uploads/2025/09/bsc-study-guide-768x432.jpg 768w, /wp-content/uploads/2025/09/bsc-study-guide-1024x576.jpg 1024w, /wp-content/uploads/2025/09/bsc-study-guide.jpg 1200w",
+      "url": "https://nicetrix.com/5-working-technique-to-pass-bpsc/bsc-study-guide/"
+    },
+    {
+      "id": 8165,
+      "src": "/wp-content/uploads/2025/09/Govt-Jobs.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Govt-Jobs-150x84.jpg 150w, /wp-content/uploads/2025/09/Govt-Jobs-300x169.jpg 300w, /wp-content/uploads/2025/09/Govt-Jobs-450x253.jpg 450w, /wp-content/uploads/2025/09/Govt-Jobs-768x432.jpg 768w, /wp-content/uploads/2025/09/Govt-Jobs-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Govt-Jobs.jpg 1200w",
+      "url": "https://nicetrix.com/1-year-master-plan-for-getting-govt-job/govt-jobs/"
+    },
+    {
+      "id": 8162,
+      "src": "/wp-content/uploads/2025/09/Google-AI-Studio.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Google-AI-Studio-150x84.jpg 150w, /wp-content/uploads/2025/09/Google-AI-Studio-300x169.jpg 300w, /wp-content/uploads/2025/09/Google-AI-Studio-450x253.jpg 450w, /wp-content/uploads/2025/09/Google-AI-Studio-768x432.jpg 768w, /wp-content/uploads/2025/09/Google-AI-Studio-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Google-AI-Studio.jpg 1200w",
+      "url": "https://nicetrix.com/google-ai-studio-changes-everything/google-ai-studio/"
+    },
+    {
+      "id": 8160,
+      "src": "/wp-content/uploads/2025/09/Google-IO.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Google-IO-150x84.jpg 150w, /wp-content/uploads/2025/09/Google-IO-300x169.jpg 300w, /wp-content/uploads/2025/09/Google-IO-450x253.jpg 450w, /wp-content/uploads/2025/09/Google-IO-768x432.jpg 768w, /wp-content/uploads/2025/09/Google-IO-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Google-IO.jpg 1200w",
+      "url": "https://nicetrix.com/google-i-o/google-io/"
+    },
+    {
+      "id": 8158,
+      "src": "/wp-content/uploads/2025/09/Computer-Skill.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "৫টি বেসিক কম্পিউটার স্কিল",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Computer-Skill-150x84.jpg 150w, /wp-content/uploads/2025/09/Computer-Skill-300x169.jpg 300w, /wp-content/uploads/2025/09/Computer-Skill-450x253.jpg 450w, /wp-content/uploads/2025/09/Computer-Skill-768x432.jpg 768w, /wp-content/uploads/2025/09/Computer-Skill-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Computer-Skill.jpg 1200w",
+      "url": "https://nicetrix.com/5-must-known-basic-computer-skills/computer-skill/"
+    },
+    {
+      "id": 8156,
+      "src": "/wp-content/uploads/2025/09/Uni-Test-BD.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "BUET, Medical & DU Admission Preparation Strategy",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Uni-Test-BD-150x84.jpg 150w, /wp-content/uploads/2025/09/Uni-Test-BD-300x169.jpg 300w, /wp-content/uploads/2025/09/Uni-Test-BD-450x253.jpg 450w, /wp-content/uploads/2025/09/Uni-Test-BD-768x432.jpg 768w, /wp-content/uploads/2025/09/Uni-Test-BD-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Uni-Test-BD.jpg 1200w",
+      "url": "https://nicetrix.com/buet-medical-du-admission-preparation-strategy/uni-test-bd/"
+    },
+    {
+      "id": 8109,
+      "src": "/wp-content/uploads/2025/09/ai-for-ss.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/ai-for-ss-150x84.jpg 150w, /wp-content/uploads/2025/09/ai-for-ss-300x169.jpg 300w, /wp-content/uploads/2025/09/ai-for-ss-450x253.jpg 450w, /wp-content/uploads/2025/09/ai-for-ss-768x432.jpg 768w, /wp-content/uploads/2025/09/ai-for-ss-1024x576.jpg 1024w, /wp-content/uploads/2025/09/ai-for-ss.jpg 1200w",
+      "url": "https://nicetrix.com/top-5-powerful-ai-tools-every-student-should-use/ai-for-ss/"
+    },
+    {
+      "id": 8107,
+      "src": "/wp-content/uploads/2025/09/YT-Video.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/YT-Video-150x84.jpg 150w, /wp-content/uploads/2025/09/YT-Video-300x169.jpg 300w, /wp-content/uploads/2025/09/YT-Video-450x253.jpg 450w, /wp-content/uploads/2025/09/YT-Video-768x432.jpg 768w, /wp-content/uploads/2025/09/YT-Video-1024x576.jpg 1024w, /wp-content/uploads/2025/09/YT-Video.jpg 1200w",
+      "url": "https://nicetrix.com/making-youtube-videos-with-ai/yt-video/"
+    },
+    {
+      "id": 8096,
+      "src": "/wp-content/uploads/2025/09/AI-Race.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/AI-Race-150x84.jpg 150w, /wp-content/uploads/2025/09/AI-Race-300x169.jpg 300w, /wp-content/uploads/2025/09/AI-Race-450x253.jpg 450w, /wp-content/uploads/2025/09/AI-Race-768x432.jpg 768w, /wp-content/uploads/2025/09/AI-Race-1024x576.jpg 1024w, /wp-content/uploads/2025/09/AI-Race.jpg 1200w",
+      "url": "https://nicetrix.com/ai-race-which-country-is-winning/ai-race/"
+    },
+    {
+      "id": 8092,
+      "src": "/wp-content/uploads/2025/09/ChatGPT-5-Model.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/ChatGPT-5-Model-150x84.jpg 150w, /wp-content/uploads/2025/09/ChatGPT-5-Model-300x169.jpg 300w, /wp-content/uploads/2025/09/ChatGPT-5-Model-450x253.jpg 450w, /wp-content/uploads/2025/09/ChatGPT-5-Model-768x432.jpg 768w, /wp-content/uploads/2025/09/ChatGPT-5-Model-1024x576.jpg 1024w, /wp-content/uploads/2025/09/ChatGPT-5-Model.jpg 1200w",
+      "url": "https://nicetrix.com/how-to-use-chat-gpt-5/chatgpt-5-model/"
+    },
+    {
+      "id": 8089,
+      "src": "/wp-content/uploads/2025/09/Gen-Vedio-Using-Veo-3.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "ভিও থ্রি দিয়ে ভিডিও তৈরির সম্পূর্ণ গাইড লাইন - Ultimate Guide for Generate video using Veo 3",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Gen-Vedio-Using-Veo-3-150x84.jpg 150w, /wp-content/uploads/2025/09/Gen-Vedio-Using-Veo-3-300x169.jpg 300w, /wp-content/uploads/2025/09/Gen-Vedio-Using-Veo-3-450x253.jpg 450w, /wp-content/uploads/2025/09/Gen-Vedio-Using-Veo-3-768x432.jpg 768w, /wp-content/uploads/2025/09/Gen-Vedio-Using-Veo-3-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Gen-Vedio-Using-Veo-3.jpg 1200w",
+      "url": "https://nicetrix.com/%e0%a6%ad%e0%a6%bf%e0%a6%93-%e0%a6%a5%e0%a7%8d%e0%a6%b0%e0%a6%bf-%e0%a6%a6%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a7%87-%e0%a6%ad%e0%a6%bf%e0%a6%a1%e0%a6%bf%e0%a6%93-%e0%a6%a4%e0%a7%88%e0%a6%b0%e0%a6%bf/gen-vedio-using-veo-3/"
+    },
+    {
+      "id": 8084,
+      "src": "/wp-content/uploads/2025/09/Number-systems.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Number-systems-150x84.jpg 150w, /wp-content/uploads/2025/09/Number-systems-300x169.jpg 300w, /wp-content/uploads/2025/09/Number-systems-450x253.jpg 450w, /wp-content/uploads/2025/09/Number-systems-768x432.jpg 768w, /wp-content/uploads/2025/09/Number-systems-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Number-systems.jpg 1200w",
+      "url": "https://nicetrix.com/exclusive-hsc-ict-suggestion/number-systems/"
+    },
+    {
+      "id": 8080,
+      "src": "/wp-content/uploads/2025/09/Networking.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Networking-150x84.jpg 150w, /wp-content/uploads/2025/09/Networking-300x169.jpg 300w, /wp-content/uploads/2025/09/Networking-450x253.jpg 450w, /wp-content/uploads/2025/09/Networking-768x432.jpg 768w, /wp-content/uploads/2025/09/Networking-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Networking.jpg 1200w",
+      "url": "https://nicetrix.com/exclusive-hsc-ict-suggestion/networking/"
+    },
+    {
+      "id": 8079,
+      "src": "/wp-content/uploads/2025/09/HSC-ICT.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "এইচএসসি আইসিটির সাজেশন - ৮ মিনিটে পুরো প্রস্তুতি - HSC ICT Suggestion 2026",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/HSC-ICT-150x84.jpg 150w, /wp-content/uploads/2025/09/HSC-ICT-300x169.jpg 300w, /wp-content/uploads/2025/09/HSC-ICT-450x253.jpg 450w, /wp-content/uploads/2025/09/HSC-ICT-768x432.jpg 768w, /wp-content/uploads/2025/09/HSC-ICT-1024x576.jpg 1024w, /wp-content/uploads/2025/09/HSC-ICT.jpg 1200w",
+      "url": "https://nicetrix.com/exclusive-hsc-ict-suggestion/hsc-ict/"
+    },
+    {
+      "id": 8067,
+      "src": "/wp-content/uploads/2025/09/Avoid.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Avoid-150x84.jpg 150w, /wp-content/uploads/2025/09/Avoid-300x169.jpg 300w, /wp-content/uploads/2025/09/Avoid-450x253.jpg 450w, /wp-content/uploads/2025/09/Avoid-768x432.jpg 768w, /wp-content/uploads/2025/09/Avoid-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Avoid.jpg 1200w",
+      "url": "https://nicetrix.com/%e0%a6%95%e0%a6%a5%e0%a6%be-%e0%a6%ac%e0%a6%b2%e0%a6%be%e0%a6%b0-%e0%a7%ab%e0%a6%9f%e0%a6%bf-%e0%a6%95%e0%a7%8c%e0%a6%b6%e0%a6%b2-%e0%a6%85%e0%a6%ac%e0%a6%b2%e0%a6%ae%e0%a7%8d%e0%a6%ac%e0%a6%a8/avoid/"
+    },
+    {
+      "id": 8066,
+      "src": "/wp-content/uploads/2025/09/Kotha-for-Sawab.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/09/Kotha-for-Sawab-150x84.jpg 150w, /wp-content/uploads/2025/09/Kotha-for-Sawab-300x169.jpg 300w, /wp-content/uploads/2025/09/Kotha-for-Sawab-450x253.jpg 450w, /wp-content/uploads/2025/09/Kotha-for-Sawab-768x432.jpg 768w, /wp-content/uploads/2025/09/Kotha-for-Sawab-1024x576.jpg 1024w, /wp-content/uploads/2025/09/Kotha-for-Sawab.jpg 1200w",
+      "url": "https://nicetrix.com/%e0%a6%95%e0%a6%a5%e0%a6%be-%e0%a6%ac%e0%a6%b2%e0%a6%be%e0%a6%b0-%e0%a7%ab%e0%a6%9f%e0%a6%bf-%e0%a6%95%e0%a7%8c%e0%a6%b6%e0%a6%b2-%e0%a6%85%e0%a6%ac%e0%a6%b2%e0%a6%ae%e0%a7%8d%e0%a6%ac%e0%a6%a8/kotha-for-sawab/"
+    },
+    {
+      "id": 8058,
+      "src": "/wp-content/uploads/2025/08/Bad-Habit.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/08/Bad-Habit-150x84.jpg 150w, /wp-content/uploads/2025/08/Bad-Habit-300x169.jpg 300w, /wp-content/uploads/2025/08/Bad-Habit-450x253.jpg 450w, /wp-content/uploads/2025/08/Bad-Habit-768x432.jpg 768w, /wp-content/uploads/2025/08/Bad-Habit-1024x576.jpg 1024w, /wp-content/uploads/2025/08/Bad-Habit.jpg 1200w",
+      "url": "https://nicetrix.com/%e0%a6%96%e0%a6%be%e0%a6%b0%e0%a6%be%e0%a6%aa-%e0%a6%85%e0%a6%ad%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b8-%e0%a6%a6%e0%a7%82%e0%a6%b0-%e0%a6%95%e0%a6%b0%e0%a6%be%e0%a6%b0-%e0%a6%b8%e0%a6%b9%e0%a6%9c/bad-habit/"
+    },
+    {
+      "id": 8057,
+      "src": "/wp-content/uploads/2025/08/Get-Rid-Of-Bad-Habit.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/08/Get-Rid-Of-Bad-Habit-150x84.jpg 150w, /wp-content/uploads/2025/08/Get-Rid-Of-Bad-Habit-300x169.jpg 300w, /wp-content/uploads/2025/08/Get-Rid-Of-Bad-Habit-450x253.jpg 450w, /wp-content/uploads/2025/08/Get-Rid-Of-Bad-Habit-768x432.jpg 768w, /wp-content/uploads/2025/08/Get-Rid-Of-Bad-Habit-1024x576.jpg 1024w, /wp-content/uploads/2025/08/Get-Rid-Of-Bad-Habit.jpg 1200w",
+      "url": "https://nicetrix.com/%e0%a6%96%e0%a6%be%e0%a6%b0%e0%a6%be%e0%a6%aa-%e0%a6%85%e0%a6%ad%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b8-%e0%a6%a6%e0%a7%82%e0%a6%b0-%e0%a6%95%e0%a6%b0%e0%a6%be%e0%a6%b0-%e0%a6%b8%e0%a6%b9%e0%a6%9c/get-rid-of-bad-habit/"
+    },
+    {
+      "id": 8049,
+      "src": "/wp-content/uploads/2025/08/Google-Effect.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "ডিজিটাল অ্যামনেশিয়া - প্রযুক্তির অতিরিক্ত ব্যবহারের ফল!",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/08/Google-Effect-150x84.jpg 150w, /wp-content/uploads/2025/08/Google-Effect-300x169.jpg 300w, /wp-content/uploads/2025/08/Google-Effect-450x253.jpg 450w, /wp-content/uploads/2025/08/Google-Effect-768x432.jpg 768w, /wp-content/uploads/2025/08/Google-Effect-1024x576.jpg 1024w, /wp-content/uploads/2025/08/Google-Effect.jpg 1200w",
+      "url": "https://nicetrix.com/%e0%a6%a1%e0%a6%bf%e0%a6%9c%e0%a6%bf%e0%a6%9f%e0%a6%be%e0%a6%b2-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%ae%e0%a6%a8%e0%a7%87%e0%a6%b6%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a6%be/google-effect/"
+    },
+    {
+      "id": 8046,
+      "src": "/wp-content/uploads/2025/08/Digital-Amnesia.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/08/Digital-Amnesia-150x84.jpg 150w, /wp-content/uploads/2025/08/Digital-Amnesia-300x169.jpg 300w, /wp-content/uploads/2025/08/Digital-Amnesia-450x253.jpg 450w, /wp-content/uploads/2025/08/Digital-Amnesia-768x432.jpg 768w, /wp-content/uploads/2025/08/Digital-Amnesia-1024x576.jpg 1024w, /wp-content/uploads/2025/08/Digital-Amnesia.jpg 1200w",
+      "url": "https://nicetrix.com/%e0%a6%a1%e0%a6%bf%e0%a6%9c%e0%a6%bf%e0%a6%9f%e0%a6%be%e0%a6%b2-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%ae%e0%a6%a8%e0%a7%87%e0%a6%b6%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a6%be/digital-amnesia/"
+    },
+    {
+      "id": 8038,
+      "src": "/wp-content/uploads/2025/08/Dhaner-Snish.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/08/Dhaner-Snish-150x84.jpg 150w, /wp-content/uploads/2025/08/Dhaner-Snish-300x169.jpg 300w, /wp-content/uploads/2025/08/Dhaner-Snish-450x253.jpg 450w, /wp-content/uploads/2025/08/Dhaner-Snish-768x432.jpg 768w, /wp-content/uploads/2025/08/Dhaner-Snish-1024x576.jpg 1024w, /wp-content/uploads/2025/08/Dhaner-Snish.jpg 1200w",
+      "url": "https://nicetrix.com/%e0%a6%a8%e0%a6%bf%e0%a6%b0%e0%a7%8d%e0%a6%ac%e0%a6%be%e0%a6%9a%e0%a6%a8%e0%a7%80-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a4%e0%a7%80%e0%a6%95-%e0%a6%95%e0%a7%80%e0%a6%ad%e0%a6%be%e0%a6%ac%e0%a7%87/dhaner-snish/"
+    },
+    {
+      "id": 8037,
+      "src": "/wp-content/uploads/2025/08/Nouka.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/08/Nouka-150x84.jpg 150w, /wp-content/uploads/2025/08/Nouka-300x169.jpg 300w, /wp-content/uploads/2025/08/Nouka-450x253.jpg 450w, /wp-content/uploads/2025/08/Nouka-768x432.jpg 768w, /wp-content/uploads/2025/08/Nouka-1024x576.jpg 1024w, /wp-content/uploads/2025/08/Nouka.jpg 1200w",
+      "url": "https://nicetrix.com/%e0%a6%a8%e0%a6%bf%e0%a6%b0%e0%a7%8d%e0%a6%ac%e0%a6%be%e0%a6%9a%e0%a6%a8%e0%a7%80-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a4%e0%a7%80%e0%a6%95-%e0%a6%95%e0%a7%80%e0%a6%ad%e0%a6%be%e0%a6%ac%e0%a7%87/nouka/"
+    },
+    {
+      "id": 8034,
+      "src": "/wp-content/uploads/2025/08/DDS.jpg",
+      "width": 1200,
+      "height": 675,
+      "alt": "নির্বাচনী প্রতীক কীভাবে এলো তার অজানা ইতিহাস",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/08/DDS-150x84.jpg 150w, /wp-content/uploads/2025/08/DDS-300x169.jpg 300w, /wp-content/uploads/2025/08/DDS-450x253.jpg 450w, /wp-content/uploads/2025/08/DDS-768x432.jpg 768w, /wp-content/uploads/2025/08/DDS-1024x576.jpg 1024w, /wp-content/uploads/2025/08/DDS.jpg 1200w",
+      "url": "https://nicetrix.com/%e0%a6%a8%e0%a6%bf%e0%a6%b0%e0%a7%8d%e0%a6%ac%e0%a6%be%e0%a6%9a%e0%a6%a8%e0%a7%80-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a4%e0%a7%80%e0%a6%95-%e0%a6%95%e0%a7%80%e0%a6%ad%e0%a6%be%e0%a6%ac%e0%a7%87/dds/"
+    },
+    {
+      "id": 7993,
+      "src": "/wp-content/uploads/2025/08/NT-Logo-BW.png",
+      "width": 200,
+      "height": 50,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/08/NT-Logo-BW.png 200w",
+      "url": "https://nicetrix.com/nt-logo-bw/"
+    },
+    {
+      "id": 7990,
+      "src": "/wp-content/uploads/2025/08/NiceTrix-Logo.png",
+      "width": 200,
+      "height": 50,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/08/NiceTrix-Logo.png 200w",
+      "url": "https://nicetrix.com/nicetrix-logo/"
+    },
+    {
+      "id": 7989,
+      "src": "/wp-content/uploads/2025/08/NT-Logo-Fav.png",
+      "width": 512,
+      "height": 512,
+      "alt": "",
+      "caption": "",
+      "srcset": "/wp-content/uploads/2025/08/NT-Logo-Fav-150x150.png 150w, /wp-content/uploads/2025/08/NT-Logo-Fav-300x300.png 300w, /wp-content/uploads/2025/08/NT-Logo-Fav-450x450.png 450w, /wp-content/uploads/2025/08/NT-Logo-Fav.png 512w",
+      "url": "https://nicetrix.com/nt-logo-fav/"
+    }
+  ],
+  "ads": {
+    "publisher": "ca-pub-6673594317291335",
+    "slots": {
+      "article": "8698402341",
+      "related": "7200794943",
+      "sidebar": "2956429611"
+    }
+  },
+  "exceptions": [
+    {
+      "id": 565,
+      "path": "/get-in-touch/",
+      "feature": "Contact Form 7",
+      "status": "NOT CONFIGURED",
+      "sourceFormId": 8003
+    },
+    {
+      "id": 8581,
+      "path": "/nbr-audit/",
+      "feature": "WPCode 8580 + TIN/BIN datasets",
+      "status": "UNAVAILABLE",
+      "sourceSnippetSHA256": "b0b0af4b47ca8ef2fdc1471d246d6cbc98d7bab9d1dca181e4db6ae789c826be",
+      "missing": [
+        "/wp-content/uploads/tin_list.csv",
+        "/wp-content/uploads/bin_list.csv"
+      ],
+      "datedTinNotPublished": true
+    }
+  ]
+}

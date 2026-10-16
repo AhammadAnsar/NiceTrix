@@ -1,0 +1,271 @@
+---
+import Base from '../layouts/Base.astro';
+import Photo from './Photo.astro';
+import Card from './Card.astro';
+import AdUnit from './AdUnit.astro';
+import { site, absolute, isoDate, formatDate, authorOf, categoriesOf, type RecordData } from '../lib/content';
+interface Props { record: RecordData; posts: RecordData[]; }
+const { record, posts } = Astro.props;
+const author = authorOf(record);
+const categories = categoriesOf(record);
+const category = categories[0];
+const isPost = record.type === 'post';
+const related = posts.filter(p => p.wpId !== record.wpId && p.categoryIds.some(c => record.categoryIds.includes(c))).slice(0, 3);
+const tags = site.tags.filter(t => record.tagIds.includes(t.id));
+const breadcrumbs = [
+  { name: 'Home', item: site.url + '/' },
+  ...(category ? [{ name: category.name, item: absolute(category.path) }] : []),
+  { name: record.title, item: record.url }
+];
+const schemas: unknown[] = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbs.map((b, i) => ({ '@type': 'ListItem', position: i + 1, ...b }))
+  },
+  ...(isPost ? [{
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    '@id': record.url + '#article',
+    headline: record.title,
+    description: record.seo.description,
+    datePublished: isoDate(record.publishedGmt),
+    dateModified: isoDate(record.modifiedGmt),
+    mainEntityOfPage: record.url,
+    author: { '@type': 'Person', name: author.name, url: absolute(author.path) },
+    publisher: {
+      '@type': 'Organization',
+      name: 'NiceTrix',
+      url: site.url,
+      logo: { '@type': 'ImageObject', url: absolute('/wp-content/uploads/2025/08/NiceTrix-Logo.png') }
+    },
+    ...(record.image ? { image: [absolute(record.image.src)] } : {}),
+    articleSection: categories.map(c => c.name),
+    inLanguage: /[\u0980-\u09ff]/.test(record.title) ? 'bn' : 'en'
+  }] : []),
+];
+---
+<Base title={record.seo.title} description={record.seo.description} canonical={record.seo.canonical} robots={record.wpId === 8581 ? 'noindex, follow' : record.seo.robots} social={record.seo.social} image={record.image?.src} schemas={schemas} searchIndex={record.wpId !== 8581}>
+  {isPost && <div class="reading-progress-bar" id="reading-progress" aria-hidden="true" />}
+  <main id="main" class:list={['wrap', 'article-main', { 'info-main': !isPost }]}>
+    <nav class="breadcrumbs" aria-label="Breadcrumb" data-pagefind-ignore>
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      {category && (
+        <>
+          <a href={category.path}>{category.name}</a>
+          <span aria-hidden="true">/</span>
+        </>
+      )}
+      <span aria-current="page">{isPost ? 'Article' : record.title}</span>
+    </nav>
+    <article data-wp-id={record.wpId}>
+      <header class="article-header">
+        {category && <a href={category.path} class="eyebrow category-label">{category.name}</a>}
+        {!isPost && <span class="eyebrow">NiceTrix / Information</span>}
+        <h1 data-pagefind-meta="title">{record.title}</h1>
+        <div class="article-byline">
+          <div class="author-line">
+            {author.avatar ? (
+              <img src={author.avatar} width="44" height="44" alt="" />
+            ) : (
+              <span class="author-monogram" aria-hidden="true">NT</span>
+            )}
+            <div>
+              <a href={author.path}>{author.name}</a>
+              <div class="story-meta">
+                <time datetime={isoDate(record.publishedGmt)}>{formatDate(record.publishedGmt)}</time>
+                {isPost && (
+                  <>
+                    <span aria-hidden="true">·</span>
+                    <span>{record.readingMinutes} min read</span>
+                  </>
+                )}
+              </div>
+            </div>
+          </div>
+          {isPost && (
+            <a class="jump-link" href="#article-body">
+              <span>Read article</span>
+              <span aria-hidden="true">↓</span>
+            </a>
+          )}
+        </div>
+      </header>
+
+      {record.image && (
+        <figure class="article-cover">
+          <Photo image={record.image} eager sizes="(max-width: 1200px) 100vw, 1180px" />
+          <figcaption set:html={record.image.caption} />
+        </figure>
+      )}
+
+      <div class="reading-layout">
+        <aside class="article-sidebar" data-pagefind-ignore>
+          {record.toc.length > 0 && (
+            <details class="toc" open>
+              <summary>
+                <span>On this page</span>
+                <span aria-hidden="true">↘</span>
+              </summary>
+              <nav aria-label="Table of contents">
+                <ol>
+                  {record.toc.map(h => (
+                    <li class:list={{ 'toc-sub': h.level === 3 }}>
+                      <a href={'#' + h.id}>{h.title}</a>
+                    </li>
+                  ))}
+                </ol>
+              </nav>
+            </details>
+          )}
+
+          {isPost && (
+            <div class="share-block">
+              <h2>Share this story</h2>
+              <div class="share-actions">
+                <a href={'https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(record.url)} target="_blank" rel="noopener noreferrer" aria-label="Share on Facebook">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                    <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/>
+                  </svg>
+                </a>
+                <a href={'https://wa.me/?text=' + encodeURIComponent(record.title + ' ' + record.url)} target="_blank" rel="noopener noreferrer" aria-label="Share on WhatsApp">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/>
+                  </svg>
+                </a>
+                <button class="copy-link" data-url={record.url} aria-label="Copy article link">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/>
+                    <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>
+                  </svg>
+                </button>
+              </div>
+              <span class="copy-status" role="status"></span>
+            </div>
+          )}
+
+          <AdUnit position="sidebar" />
+        </aside>
+
+        <div class="reading-column">
+          {record.wpId === 8581 && (
+            <section class="service-notice" role="note">
+              <h2>চেকারটি বর্তমানে উপলব্ধ নয়</h2>
+              <p>NBR Audit Checker-এর প্রয়োজনীয় TIN ও BIN ডেটাসেট সম্পূর্ণ পাওয়া যায়নি। তাই এখানে কোনো নম্বর যাচাই বা ফলাফল দেওয়া হচ্ছে না।</p>
+              <p>সহায়তার জন্য <a href="/get-in-touch/">যোগাযোগ করুন</a>।</p>
+            </section>
+          )}
+
+          <div id="article-body" class="prose" data-pagefind-body={record.wpId !== 8581 ? '' : undefined} data-source-sha256={record.sourceSHA256} set:html={record.html} />
+
+          {record.wpId === 571 && (
+            <div class="authors-list">
+              {site.authors.map(a => (
+                <article>
+                  <h2><a href={a.path}>{a.name} <span aria-hidden="true">↗</span></a></h2>
+                  <p>{a.description}</p>
+                  <a class="text-link" href={a.path}>Read articles</a>
+                </article>
+              ))}
+            </div>
+          )}
+
+          {tags.length > 0 && (
+            <nav class="tag-list" aria-label="Article tags" data-pagefind-ignore>
+              {tags.map(t => <a href={t.path}>#{t.name}</a>)}
+            </nav>
+          )}
+
+          {isPost && (
+            <>
+              <AdUnit />
+              <section class="author-bio" data-pagefind-ignore>
+                <span class="eyebrow">Written by</span>
+                <h2><a href={author.path}>{author.name}</a></h2>
+                {author.description && <p>{author.description}</p>}
+                <a class="text-link" href={author.path}>More from this author ↗</a>
+              </section>
+            </>
+          )}
+
+          {record.approvedComments.length > 0 && (
+            <section class="historical-comments" data-pagefind-ignore>
+              <h2>Comments</h2>
+              {record.approvedComments.map(c => (
+                <article>
+                  <h3>{c.name}</h3>
+                  <time datetime={isoDate(c.date)}>{formatDate(c.date)}</time>
+                  <div set:html={c.html} />
+                </article>
+              ))}
+              <p class="muted">Comments are archived. New comments are not being accepted.</p>
+            </section>
+          )}
+        </div>
+      </div>
+    </article>
+
+    {related.length > 0 && (
+      <section class="related-section" data-pagefind-ignore>
+        <div class="section-heading">
+          <h2>Keep exploring<span class="brand-dot">.</span></h2>
+          {category && <a class="text-link" href={category.path}>All {category.name} ↗</a>}
+        </div>
+        <div class="cards-grid">
+          {related.map(post => <Card post={post} />)}
+        </div>
+      </section>
+    )}
+  </main>
+</Base>
+<script>
+  // Copy link share button
+  document.querySelectorAll<HTMLButtonElement>('.copy-link').forEach(button => {
+    button.addEventListener('click', async () => {
+      const status = document.querySelector('.copy-status');
+      try {
+        await navigator.clipboard.writeText(button.dataset.url || location.href);
+        if (status) status.textContent = 'Link copied';
+      } catch {
+        if (status) status.textContent = 'Copy this page’s URL from your address bar.';
+      }
+    });
+  });
+
+  // Reading progress fallback for browsers without scroll-driven animation support
+  if (!CSS.supports('animation-timeline', 'scroll()')) {
+    const progress = document.querySelector<HTMLElement>('.reading-progress-bar');
+    if (progress) {
+      window.addEventListener('scroll', () => {
+        const scrollable = document.documentElement.scrollHeight - window.innerHeight;
+        if (scrollable > 0) {
+          const ratio = Math.min(1, Math.max(0, window.scrollY / scrollable));
+          progress.style.transform = `scaleX(${ratio})`;
+        }
+      }, { passive: true });
+    }
+  }
+
+  // Active heading observer for Table of Contents
+  const tocLinks = document.querySelectorAll<HTMLAnchorElement>('.toc a');
+  if (tocLinks.length > 0) {
+    const headingObserver = new IntersectionObserver(entries => {
+      for (const entry of entries) {
+        if (entry.isIntersecting) {
+          const id = entry.target.getAttribute('id');
+          if (id) {
+            tocLinks.forEach(link => {
+              link.classList.toggle('active', link.getAttribute('href') === '#' + id);
+            });
+          }
+          break;
+        }
+      }
+    }, { rootMargin: '0px 0px -65% 0px', threshold: 0 });
+
+    document.querySelectorAll('#article-body h2[id], #article-body h3[id]').forEach(heading => {
+      headingObserver.observe(heading);
+    });
+  }
+</script>

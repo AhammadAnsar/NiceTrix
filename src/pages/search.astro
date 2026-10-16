@@ -1,0 +1,83 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base title="Search - NiceTrix" robots="noindex, follow">
+  <main id="main" class="wrap search-main">
+    <span class="eyebrow">Find your next good read</span>
+    <h1>খুঁজে নিন<span class="brand-dot">.</span></h1>
+    <p class="search-intro">বাংলা অথবা ইংরেজিতে লিখে সার্চ করুন।</p>
+
+    <div class="search-chips" data-pagefind-ignore>
+      <span class="search-chips-label">দ্রুত অনুসন্ধান:</span>
+      <button class="search-chip" data-query="ChatGPT">ChatGPT</button>
+      <button class="search-chip" data-query="আয়ারল্যান্ড">আয়ারল্যান্ড</button>
+      <button class="search-chip" data-query="Admission">Admission</button>
+      <button class="search-chip" data-query="Google AI">Google AI</button>
+      <button class="search-chip" data-query="Study">Study Techniques</button>
+    </div>
+
+    <div id="search">
+      <p class="search-loading" role="status">Search is loading…</p>
+    </div>
+    <noscript>
+      <p>সার্চের জন্য JavaScript চালু করুন। <a href="/latest/">সব লেখা দেখুন</a> অথবা মেনু থেকে বিভাগ বেছে নিন।</p>
+    </noscript>
+  </main>
+</Base>
+<script>
+  const search = document.querySelector('#search');
+  if (search) {
+    const stylesheet = document.createElement('link');
+    stylesheet.rel = 'stylesheet';
+    stylesheet.href = '/pagefind/pagefind-ui.css';
+    document.head.append(stylesheet);
+
+    const script = document.createElement('script');
+    script.src = '/pagefind/pagefind-ui.js';
+    script.onload = () => {
+      search.innerHTML = '';
+      const ui = new (window as unknown as { PagefindUI: new (options: unknown) => { triggerSearch: (q: string) => void } }).PagefindUI({
+        element: '#search',
+        showSubResults: true,
+        showImages: true,
+        resetStyles: false,
+        translations: {
+          placeholder: 'লেখা খুঁজুন…',
+          zero_results: '“[SEARCH_TERM]” এর জন্য কোনো লেখা পাওয়া যায়নি।'
+        }
+      });
+
+      const q = new URLSearchParams(location.search).get('q');
+      if (q) ui.triggerSearch(q);
+
+      const input = search.querySelector<HTMLInputElement>('input');
+      input?.addEventListener('input', event => {
+        const u = new URL(location.href);
+        const value = (event.target as HTMLInputElement).value;
+        if (value) u.searchParams.set('q', value);
+        else u.searchParams.delete('q');
+        history.replaceState(null, '', u);
+      });
+
+      // Quick search suggestion chips
+      document.querySelectorAll<HTMLButtonElement>('.search-chip').forEach(chip => {
+        chip.addEventListener('click', () => {
+          const query = chip.dataset.query;
+          if (query && input) {
+            input.value = query;
+            input.dispatchEvent(new Event('input', { bubbles: true }));
+            ui.triggerSearch(query);
+            const u = new URL(location.href);
+            u.searchParams.set('q', query);
+            history.replaceState(null, '', u);
+            input.focus();
+          }
+        });
+      });
+    };
+    script.onerror = () => {
+      search.innerHTML = '<p>সার্চ ইনডেক্স লোড করা যায়নি। <a href="/latest/">সব লেখা দেখুন</a>।</p>';
+    };
+    document.head.append(script);
+  }
+</script>

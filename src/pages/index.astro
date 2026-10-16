@@ -1,0 +1,22 @@
+---
+import Base from '../layouts/Base.astro';
+import Card from '../components/Card.astro';
+import { allContent, site } from '../lib/content';
+const content = await allContent();
+const home = content.find(x => x.wpId === 7460)!;
+const posts = content.filter(x => x.type === 'post');
+const [lead, ...rest] = posts;
+const featured = rest.slice(0, 2);
+const latest = rest.slice(2, 8);
+const categories = [172, 34, 40, 57, 30, 1].map(id => site.categories.find(c => c.id === id)!);
+---
+<Base title={home.seo.title} description={home.seo.description} canonical={home.seo.canonical} robots={home.seo.robots} social={home.seo.social}>
+  <main id="main" class="wrap home-main">
+    <div class="edition-line"><span>Learn. Discover. Grow.</span><a href="/latest/">Explore all stories <span aria-hidden="true">↗</span></a></div>
+    <section class="home-intro"><div><span class="eyebrow">A little curiosity goes a long way</span><h1>নতুন ভাবনা।<br class="mobile-break" /> সহজ জীবন<span class="brand-dot">.</span></h1></div><p>প্রযুক্তি, পড়াশোনা, ক্যারিয়ার ও প্রতিদিনের জীবনের<br class="desktop-break" /> দরকারি সব টিপস্ — এক জায়গায়।</p></section>
+    <section class="featured-grid" aria-label="Featured stories"><Card post={lead} variant="lead" eager /><div class="featured-side"><div class="section-kicker">In focus <span aria-hidden="true">↘</span></div>{featured.map(post => <Card post={post} variant="compact" />)}</div></section>
+    <section class="latest-section"><div class="section-heading"><div><span class="eyebrow">Fresh perspectives</span><h2>সাম্প্রতিক লেখা<span class="brand-dot">.</span></h2></div><a class="text-link" href="/latest/">All stories ↗</a></div><div class="cards-grid">{latest.map(post => <Card post={post} />)}</div></section>
+    <section class="topic-band"><div><span class="eyebrow">Follow your curiosity</span><h2>আপনার আগ্রহ, আপনার পথ।</h2></div><div class="topic-links">{categories.map((c, i) => <a href={c.path}><span class="topic-index">0{i + 1}</span>{c.name}<span aria-hidden="true">↗</span></a>)}</div></section>
+    {categories.map(category => <section class="category-section"><div class="section-heading"><h2>{category.name}<span class="brand-dot">.</span></h2><a class="text-link" href={category.path}>Explore category ↗</a></div><div class="cards-grid">{posts.filter(p => p.categoryIds.includes(category.id)).slice(0, 3).map(post => <Card post={post} />)}</div></section>)}
+  </main>
+</Base>

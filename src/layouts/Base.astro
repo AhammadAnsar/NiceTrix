@@ -1,0 +1,68 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { absolute, site } from '../lib/content';
+import '../styles/global.css';
+interface Props { title: string; description?: string; canonical?: string; robots?: string; image?: string; social?: Record<string, string>; schemas?: unknown[]; searchIndex?: boolean; }
+const { title, description = '', canonical = absolute(Astro.url.pathname), robots = 'index, follow', image, social = {}, schemas = [], searchIndex = false } = Astro.props;
+const noindex = import.meta.env.SITE_NOINDEX === 'true' || import.meta.env.CF_PAGES_BRANCH && import.meta.env.CF_PAGES_BRANCH !== (import.meta.env.PRODUCTION_BRANCH || 'main');
+const effectiveRobots = noindex ? 'noindex, nofollow' : robots;
+const ogImage = social['og:image'] || (image ? absolute(image) : absolute('/wp-content/uploads/2025/08/NiceTrix-Logo.png'));
+const adsEnabled = import.meta.env.PUBLIC_ENABLE_ADS === 'true';
+---
+<!doctype html>
+<html lang="bn" id="top">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    <meta name="robots" content={effectiveRobots} />
+    <meta name="theme-color" content="#185340" />
+    <meta name="google-site-verification" content="PPV-wYmc2NxFLuDJ7HrmaqYaIG-aTS8z8O6Jfeq_l8A" />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href="/wp-content/uploads/2025/08/NT-Logo-Fav.png" type="image/png" />
+    <link rel="alternate" type="application/rss+xml" title="NiceTrix RSS" href="/feed/" />
+    <meta property="og:site_name" content="NiceTrix" />
+    <meta property="og:type" content={social['og:type'] || 'website'} />
+    <meta property="og:locale" content={social['og:locale'] || 'bn_BD'} />
+    <meta property="og:title" content={social['og:title'] || title} />
+    <meta property="og:description" content={social['og:description'] || description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta name="twitter:card" content={social['twitter:card'] || 'summary_large_image'} />
+    <meta name="twitter:title" content={social['twitter:title'] || title} />
+    <meta name="twitter:description" content={social['twitter:description'] || description} />
+    <meta name="twitter:image" content={social['twitter:image'] || ogImage} />
+    {Object.entries(social).filter(([key]) => key.startsWith('og:') && !['og:site_name', 'og:type', 'og:locale', 'og:title', 'og:description', 'og:url', 'og:image'].includes(key)).map(([property, content]) => <meta property={property} content={content} />)}
+    {Object.entries(social).filter(([key]) => key.startsWith('twitter:') && !['twitter:card', 'twitter:title', 'twitter:description', 'twitter:image'].includes(key)).map(([name, content]) => <meta name={name} content={content} />)}
+    {Object.entries(social).filter(([key]) => key.startsWith('article:')).map(([property, content]) => <meta property={property} content={content} />)}
+    {schemas.map(schema => <script type="application/ld+json" set:html={JSON.stringify(schema).replaceAll('<', '\\u003c')} />)}
+  </head>
+  <body data-search-index={searchIndex ? 'true' : undefined}>
+    <Header />
+    <slot />
+    <Footer />
+    {adsEnabled && <div class="consent-panel" hidden data-pagefind-ignore><p>Google বিজ্ঞাপন দেখাতে কুকি ব্যবহার করতে পারে। <a href="/privacy-policy/">গোপনীয়তা নীতি</a></p><div><button data-consent="decline">প্রত্যাখ্যান</button><button data-consent="accept">বিজ্ঞাপনে সম্মতি দিন</button></div></div>}
+    <script define:vars={{ adsEnabled, publisher: site.ads.publisher }}>
+      if (adsEnabled && location.hostname === 'nicetrix.com') {
+        const panel = document.querySelector('.consent-panel');
+        const startAds = () => {
+          if (document.querySelector('script[data-adsense-loader]')) return;
+          const script = document.createElement('script');
+          script.async = true; script.crossOrigin = 'anonymous'; script.dataset.adsenseLoader = 'true';
+          script.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=' + publisher;
+          script.onload = () => document.querySelectorAll('.adsbygoogle').forEach(() => (window.adsbygoogle = window.adsbygoogle || []).push({}));
+          document.head.append(script);
+        };
+        let consent; try { consent = localStorage.getItem('nicetrix-ad-consent'); } catch {}
+        if (consent === 'accepted') startAds(); else if (!consent && panel) panel.hidden = false;
+        panel?.querySelectorAll('[data-consent]').forEach(button => button.addEventListener('click', () => {
+          const accept = button.dataset.consent === 'accept';
+          try { localStorage.setItem('nicetrix-ad-consent', accept ? 'accepted' : 'declined'); } catch {}
+          panel.hidden = true; if (accept) startAds();
+        }));
+      }
+    </script>
+  </body>
+</html>

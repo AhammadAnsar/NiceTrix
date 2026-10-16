@@ -1,0 +1,5232 @@
+[
+  {
+    "path": "/wp-content/uploads/2025/08/Bad-Habit-1024x576.jpg",
+    "bytes": 90409,
+    "sha256": "55bc04e9b96c53d78617cfdce56a4bdba217b29e31a768e36441520c17bdf672"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Bad-Habit-150x150.jpg",
+    "bytes": 6934,
+    "sha256": "e8d1d5608f9a87f58fbcf89d9404b1150e30a7adb2554502b06998c188d453ac"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Bad-Habit-150x84.jpg",
+    "bytes": 4469,
+    "sha256": "565cddd8975295fa6ee22d3a80cf57306012ba37f6ce8554b539a347576205f2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Bad-Habit-300x169.jpg",
+    "bytes": 13682,
+    "sha256": "3388b937b362aaf275ae12cc8205b0d9fd966b96dbdfc0f91bf2d3028f936bf1"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Bad-Habit-450x253.jpg",
+    "bytes": 26169,
+    "sha256": "829f89721a61da81340bd0c756b096a78ee5d2d3a09f72edae4971716cdd5024"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Bad-Habit-768x432.jpg",
+    "bytes": 59315,
+    "sha256": "62f8652a97711a4039da177761ad8f69f66e969ca5fa01fcc9f0e3907dfee70a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Bad-Habit.jpg",
+    "bytes": 74839,
+    "sha256": "2d9937b766018524ee920ab59fb6384e4f1c7ceb57fada22f18e6119ba6b394a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/DDS-1024x576.jpg",
+    "bytes": 87880,
+    "sha256": "db8b958354aa2ebba24c16633e073ad9edb714e8d5c33b925714220cb96d9640"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/DDS-150x150.jpg",
+    "bytes": 6231,
+    "sha256": "92383ba5923008b3278fb7f5d8ebf62263d8342103663b20ca3192c6e863e3d2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/DDS-150x84.jpg",
+    "bytes": 4144,
+    "sha256": "2c9481383de1db532bcb4564b3b3b431263d7670e374e04b491d18ef8d7090ff"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/DDS-300x169.jpg",
+    "bytes": 12210,
+    "sha256": "23a7b136e9cf9d07597b2b6f36170af4485a1304862063467a4964df4dbbbe9d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/DDS-450x253.jpg",
+    "bytes": 23373,
+    "sha256": "4b61e68fd7805086ad0c885c96d922257331aaccd0f2a7666e702c0f65837c8a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/DDS-768x432.jpg",
+    "bytes": 56080,
+    "sha256": "e968495d3fb36b1245991257105b106ffb56edef87d5b2f50627e4b77463076a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/DDS.jpg",
+    "bytes": 73368,
+    "sha256": "150f334088f05fd4aa5d07b58b747f6d0740d6db4b394105d2da27156cdddc51"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Dhaner-Snish-1024x576.jpg",
+    "bytes": 29643,
+    "sha256": "0f001d807d78a719584ea8a8cbb319df7be2ea93a0d7a5534ae0d4e7c5a40d6b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Dhaner-Snish-150x150.jpg",
+    "bytes": 3935,
+    "sha256": "7db9a8ee55b826bee69c54769cb2586c5cb7eb7b1ad21d2bd52f94aad7bfa3fd"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Dhaner-Snish-150x84.jpg",
+    "bytes": 1757,
+    "sha256": "377eb53a41f8c0293a6a14f582c33ec314ebffef035a2cae0139d411affb3c0c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Dhaner-Snish-300x169.jpg",
+    "bytes": 5127,
+    "sha256": "1772eebdb93af083b4cbe52e83568002ecb5c020b51e06b8318554301af14ef0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Dhaner-Snish-450x253.jpg",
+    "bytes": 9441,
+    "sha256": "d165fac77ccad3bbaecb73edf81d21e284cc1abb2ea3d12e5237b3d9f10951f4"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Dhaner-Snish-768x432.jpg",
+    "bytes": 19916,
+    "sha256": "1520f21478887ad430a3f7a27e03df77f378b77d692ea463da152e92f5d133c5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Dhaner-Snish.jpg",
+    "bytes": 26661,
+    "sha256": "84096912468a298f798e8fa0e85f252141ffde72d077ffea04bfd38625144b9c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Digital-Amnesia-1024x576.jpg",
+    "bytes": 107466,
+    "sha256": "6acebb3b2ca1917113543fa05d007d48861e4fba852b4376f129c612b3e06458"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Digital-Amnesia-150x150.jpg",
+    "bytes": 5588,
+    "sha256": "0e5614bcf0ecbfb4378512f37c7aa775bf4ebbc2c4cab1d6a3ff1da657644ffa"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Digital-Amnesia-150x84.jpg",
+    "bytes": 3429,
+    "sha256": "9ca1cc0d7aa208b0dd31e61354757c581e321c9d2f5e0cb755f35d7a12e268e3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Digital-Amnesia-300x169.jpg",
+    "bytes": 10743,
+    "sha256": "9c99a4f9f78317644432807a078aabf22f0e27d74c3187197f3e03e4f2888187"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Digital-Amnesia-450x253.jpg",
+    "bytes": 22711,
+    "sha256": "955d2b164aba9a534341005a57c23e4627757277f876cc01a70aba378514e420"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Digital-Amnesia-768x432.jpg",
+    "bytes": 64307,
+    "sha256": "d3d527470a03cc5f994992177a8af6d44dffac2acb5e894db0781c773238a331"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Digital-Amnesia.jpg",
+    "bytes": 96293,
+    "sha256": "bb53a579c89b64503071c27cd1d4e85ec2852c99a00c96c015c8a223bcb82b36"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Get-Rid-Of-Bad-Habit-1024x576.jpg",
+    "bytes": 65645,
+    "sha256": "fc3836354b75637e5fd9bc342e6b435dc35a73513c45ca67617b67e1940b9ba3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Get-Rid-Of-Bad-Habit-150x150.jpg",
+    "bytes": 5763,
+    "sha256": "823140410ef137873ee5d18e6857bd0d5ef35cb505af180ddb169449b9cf7c5b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Get-Rid-Of-Bad-Habit-150x84.jpg",
+    "bytes": 4026,
+    "sha256": "9b10c92459c6439d479ba6b7efb92ade01889ce9126c6df6ffaacf1f0dd009bb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Get-Rid-Of-Bad-Habit-300x169.jpg",
+    "bytes": 10606,
+    "sha256": "52f03992ecd505c4d76394154d89dbb3d0c97e76eaa20297f40c37e598b370f6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Get-Rid-Of-Bad-Habit-450x253.jpg",
+    "bytes": 19014,
+    "sha256": "7dace18ca1b0636617b269aaafb740be1b15055409b688ce761435378a1277de"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Get-Rid-Of-Bad-Habit-768x432.jpg",
+    "bytes": 42416,
+    "sha256": "bb51375895de2f7ce90d03ba52d89eb7fb4ab440cfda6f1a2fcacf79ac500dce"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Get-Rid-Of-Bad-Habit.jpg",
+    "bytes": 51729,
+    "sha256": "551b2c7fa337e3b68d6829697a738f3360a7f550174f2bd5501d05fde31b2a1f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Google-Effect-1024x576.jpg",
+    "bytes": 58482,
+    "sha256": "b8ba5d127dbb79bde57c274bbe41305101c952cc2afdc966c10a294f1f61f70b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Google-Effect-150x150.jpg",
+    "bytes": 6183,
+    "sha256": "1a7084b66f68b0ca3ca3ad068da0bdd14b148a451b93ba4e866f0eb432167528"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Google-Effect-150x84.jpg",
+    "bytes": 3222,
+    "sha256": "9b3c5ffcd413be7e8c937b763e1e7884e111f1186f90947ec086897059f2aa06"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Google-Effect-300x169.jpg",
+    "bytes": 8940,
+    "sha256": "6ff3ee3f3f7281314fab8d533d5242a326e689df6e578af93e8b8336884af9ae"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Google-Effect-450x253.jpg",
+    "bytes": 16633,
+    "sha256": "da0b1a38c31aab6af039d2842e844e84b8948026cc68a603e3d1eb02bb4496e2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Google-Effect-768x432.jpg",
+    "bytes": 37826,
+    "sha256": "5d290943e062281930a5aa385fbfe2bf316e4e9a98c387ef43368421ee4608d0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Google-Effect.jpg",
+    "bytes": 56331,
+    "sha256": "4ac1dde06a1e541dd6cd499a52f44beba5ac977838590881ed9aa15b6ce0eed0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/NT-Logo-BW-150x38.png",
+    "bytes": 2406,
+    "sha256": "a1f95d246b82058f250d34eda5db3f18f5054bdb6622b1692a75799fc59f6d35"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/NT-Logo-BW-150x50.png",
+    "bytes": 1681,
+    "sha256": "45849bb8c9e2f1072374169030378b4b1f98a24e0c57a078943507f8a4f785a2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/NT-Logo-BW.png",
+    "bytes": 2645,
+    "sha256": "7ac8eefc7e8ce6428ea60fb048f85d79843af505705ffc2f32a0997ab6fdbcac"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/NT-Logo-Fav-150x150.png",
+    "bytes": 2584,
+    "sha256": "663cc21a8e900056999c74d1d61511533044471fe3a27db853dea8b7079ffe78"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/NT-Logo-Fav-300x300.png",
+    "bytes": 4969,
+    "sha256": "501623f7293d09cf5104c73fd19889f2fb3e8df1f6e7e249742e06d20c77a538"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/NT-Logo-Fav-450x450.png",
+    "bytes": 10783,
+    "sha256": "cf24e6aba36b6bcf6be42b7d3f8b5adaf0d9817abf16172802ace25dee169341"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/NT-Logo-Fav.png",
+    "bytes": 17202,
+    "sha256": "9a40bb0fbe9b1f737cd1cb85a3ddc77161511ce83f04d81e759ebfeac56f7ccd"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/NiceTrix-Logo-150x38.png",
+    "bytes": 2235,
+    "sha256": "6e9a24905173499c20583d327e0998ee35d8be22bbf3ca503217a597918908d5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/NiceTrix-Logo-150x50.png",
+    "bytes": 1626,
+    "sha256": "e699898cbeb079b1000eb4fd4c36a3ccf80f09dd466843a2d17fb8cfe8efd2e6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/NiceTrix-Logo.png",
+    "bytes": 2805,
+    "sha256": "d1c7a2b2a5722a557fc0bdd141700754f5e1df485ae0e5391117da7caf1131f8"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Nouka-1024x576.jpg",
+    "bytes": 76548,
+    "sha256": "ab13427969c756705266601cdc6811c652c83c4a15e0ddff72a388ace674c4cb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Nouka-150x150.jpg",
+    "bytes": 6694,
+    "sha256": "b9532348fcc7a3bd3f0f10bd68332e83d54c8f6dbd4fff4d7bc30bd3ae032045"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Nouka-150x84.jpg",
+    "bytes": 4696,
+    "sha256": "d3fafbab621d1ef727947a3e4728dbcef929adee446bb30856bc28cb9603868d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Nouka-300x169.jpg",
+    "bytes": 13383,
+    "sha256": "fd4929a33c8b8274c45baf41973af726fb646f462e1a5973b47f6353024489ed"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Nouka-450x253.jpg",
+    "bytes": 24031,
+    "sha256": "9df8f9f9ccb91816ae2e822cff96620045ef40f8b87fb5fa2b5935d555b90246"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Nouka-768x432.jpg",
+    "bytes": 51240,
+    "sha256": "96774a159a23f2e98a4485f51ec3593bb49de936e006a1e539032545a40921d7"
+  },
+  {
+    "path": "/wp-content/uploads/2025/08/Nouka.jpg",
+    "bytes": 58105,
+    "sha256": "ecf0f5865b41eccee1f8eac9f6ee465bd92f5db3e0ffe8356981b3499b6be7b6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/10-Skills-for-Earn-on-Stude-1024x576.jpg",
+    "bytes": 75446,
+    "sha256": "2486f532b521daca082d74491e7e7bd3b3739e06b0014d34add050c4aaf38cd7"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/10-Skills-for-Earn-on-Stude-150x150.jpg",
+    "bytes": 6574,
+    "sha256": "593ab90b24a87f01fc5d5a688d316ea6a507faeb234aeb7c7133882a596338f9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/10-Skills-for-Earn-on-Stude-150x84.jpg",
+    "bytes": 4369,
+    "sha256": "452f725021c6190bed45b0e531c1684e6508250a553a9c864b0c523e15c87f76"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/10-Skills-for-Earn-on-Stude-300x169.jpg",
+    "bytes": 12282,
+    "sha256": "f1b2edb212aa82c6a94d8bec37f457c0198d2517decc1265f97a7144b5523457"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/10-Skills-for-Earn-on-Stude-450x253.jpg",
+    "bytes": 22494,
+    "sha256": "c1c1e3b075384440fe6927884191ed1a641b6103845b58605c8e279938465102"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/10-Skills-for-Earn-on-Stude-768x432.jpg",
+    "bytes": 49571,
+    "sha256": "458ded4d400eb60463ec30307ae2cd9f60b6ca24ac6cf877a5fc0dbcf3752f5d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/10-Skills-for-Earn-on-Stude.jpg",
+    "bytes": 61298,
+    "sha256": "c37f77a6d7142e8aa5b3e9137f239a6756828aa0f9ae6d393b22b2a4d77908e6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/10-Study-Room-Essentials-1024x576.jpg",
+    "bytes": 66783,
+    "sha256": "ab689c2187ca4dae085ba53f94129a84faed673a10ae742a46926702e9f85030"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/10-Study-Room-Essentials-150x150.jpg",
+    "bytes": 5006,
+    "sha256": "a18fdfc1d57d80a771464bce789a9a3775f1214de463a078d122aaf1d9295c9d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/10-Study-Room-Essentials-150x84.jpg",
+    "bytes": 3756,
+    "sha256": "7f1ba2aa38ccbb7d5954799f08bfbf08855985b2272c6ea15e773cb7a4f86848"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/10-Study-Room-Essentials-300x169.jpg",
+    "bytes": 10884,
+    "sha256": "8d7fc80b080ce101f88b5867eca674b1be403a197c1ca088e9a58bf55c2cdf9e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/10-Study-Room-Essentials-450x253.jpg",
+    "bytes": 20004,
+    "sha256": "ed3f7b466191fc0e09e4bb15608ed9dd75c855eb295424a4e0a5c2697dc39af3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/10-Study-Room-Essentials-768x432.jpg",
+    "bytes": 43971,
+    "sha256": "74726656f90dab62e7cae4c4553d17e90e9caacf152fe727b6fe09402a2592bd"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/10-Study-Room-Essentials.jpg",
+    "bytes": 52117,
+    "sha256": "2d7f4ef0db95a5f5af0e5a0751552f8f6335c5c9fcc53d0b63186eafd5840315"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/A-Crow-drinking-water-1024x576.jpg",
+    "bytes": 122470,
+    "sha256": "38d5988699a8dc4ef97daafe5cf025d121a8f4034a385a0c2db65ffe35344d51"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/A-Crow-drinking-water-150x150.jpg",
+    "bytes": 7969,
+    "sha256": "6cc49cdb3a8ef4b975dddc9cae2545b5fb0efe62c1152673265c0ad3543e47dd"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/A-Crow-drinking-water-150x84.jpg",
+    "bytes": 5146,
+    "sha256": "b8bfa6dac4352cbb0a9cff8113de6c6152353ac1d519be479d2d157c7671ac4d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/A-Crow-drinking-water-300x169.jpg",
+    "bytes": 17178,
+    "sha256": "c51547c0bea7264a1802b1d7fe380f452c27fe2f09adb11e30115347fb276bcb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/A-Crow-drinking-water-450x253.jpg",
+    "bytes": 33383,
+    "sha256": "3b6e905bc7a2035874fcaec280c7548a2601ad995ff72107af0f59012f81cc3b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/A-Crow-drinking-water-768x432.jpg",
+    "bytes": 78179,
+    "sha256": "1b638642520c2dcd69ab16dccfea0906383adc6c63ca5b6c83e41f9da3f77b0f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/A-Crow-drinking-water.jpg",
+    "bytes": 104771,
+    "sha256": "0e8d3701a79fbdcce26c38cde7fb7cca060cd2e5fa7ad39d3edfe1658565835b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/A-Study-Room-With-Perfect-N-1024x576.jpg",
+    "bytes": 81814,
+    "sha256": "f7e7782953423529802f9323262eb0acea9043b8e133c181a4e514fb4ba0d54d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/A-Study-Room-With-Perfect-N-150x150.jpg",
+    "bytes": 5879,
+    "sha256": "99e44f3cce2154ec8693d52925d85710bafe52cede74f51e92c2b99c55ceebbf"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/A-Study-Room-With-Perfect-N-150x84.jpg",
+    "bytes": 3503,
+    "sha256": "08e17c23b43c8672a8c6d8edc30344cf5d7d05f2f0a8c87395993978dbc00b30"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/A-Study-Room-With-Perfect-N-300x169.jpg",
+    "bytes": 10759,
+    "sha256": "497fe41a1fc6f4652e0a6ea0055c6bcee5b405182dfce3dc6b06bff0db4104cb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/A-Study-Room-With-Perfect-N-450x253.jpg",
+    "bytes": 20924,
+    "sha256": "5b574f98607ade08816aa660aad6b2f67b2e11bc0e1177f8dc15d8d016b5e9f1"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/A-Study-Room-With-Perfect-N-768x432.jpg",
+    "bytes": 51199,
+    "sha256": "23c7ed6dbc4aeb13939d194cc99970adeab24934ea5eeadf4972b62af18455e7"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/A-Study-Room-With-Perfect-N.jpg",
+    "bytes": 68355,
+    "sha256": "dad702edec8ee273ace3b1093da2ea4013d5c9f25ca52f68baa4913242d8da60"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/A-Village-Poor-Family-Stude-1024x576.jpg",
+    "bytes": 91337,
+    "sha256": "7e5a449cdfb4aa3e7e38f88f3fcf402ab285a6fc6eb8d89e33e6bb3e2ace11ee"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/A-Village-Poor-Family-Stude-150x150.jpg",
+    "bytes": 6216,
+    "sha256": "b2d576d0ad735b3f57e713f9e5b7afea31fd95386e2b32ca764796911a86ef20"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/A-Village-Poor-Family-Stude-150x84.jpg",
+    "bytes": 3939,
+    "sha256": "b94ced3577437a52bdd76e5bcb30b332162f394afd2f6eac0ca34b1d98b8fda1"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/A-Village-Poor-Family-Stude-300x169.jpg",
+    "bytes": 12319,
+    "sha256": "1a1ebf8edb9f6f50bdd5bfd863446619c983fac7f09fbfdfc33ffe169d1e2a09"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/A-Village-Poor-Family-Stude-450x253.jpg",
+    "bytes": 24248,
+    "sha256": "5e517322cd98442446574503e1a1c0a97fb391cf7df6d521e60971cdea5d5b38"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/A-Village-Poor-Family-Stude-768x432.jpg",
+    "bytes": 57889,
+    "sha256": "73ea94d39903f650595456e5b84584b72841589e56a6e2ea4a1f03eeaf3ef4cb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/A-Village-Poor-Family-Stude.jpg",
+    "bytes": 74172,
+    "sha256": "75a02e140364b8ef259917584369f82f471c152f55f395f2d4942aea044c7340"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/AI-Generalist-Roadmap-150x150.png",
+    "bytes": 5658,
+    "sha256": "e1f1b7a7e92145dcd8d9a940668704d7ac8688901e71efbbf1963e22ca8e806f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/AI-Generalist-Roadmap-150x157.png",
+    "bytes": 5258,
+    "sha256": "44ccc5c14c0ed71b3515691abe1f316df9c7b2535a1c95b8440bc43c25d3ce45"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/AI-Generalist-Roadmap-287x300.png",
+    "bytes": 10285,
+    "sha256": "d582816685061a5ffc07fd27454bd2f88066b6b190de91344fa97fec0fea190b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/AI-Generalist-Roadmap-450x470.png",
+    "bytes": 17630,
+    "sha256": "318b2b9cfaee255328a0e6a6ae292f140b538fd41d8291701658f57db6d35766"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/AI-Generalist-Roadmap.png",
+    "bytes": 46607,
+    "sha256": "7cdfa06d21ddaf19aa9ae22fe0ab8fa38c7d54b7a9f3314ee45ec07fcd309d1b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/AI-Race-1-150x139.jpg",
+    "bytes": 4264,
+    "sha256": "e50979d0f5962f6feb1628ea5baa811f9a8293e545c2ae77dd9c76af87971152"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/AI-Race-1-150x150.jpg",
+    "bytes": 4426,
+    "sha256": "6dd06a298a5687cd7d46449e9d479bfecd0cdd318bed1cb625b1b5beed03fb55"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/AI-Race-1-300x279.jpg",
+    "bytes": 13032,
+    "sha256": "070c2ec44f4587a1df6a4a769437268bae5617e7dd2fdc142362aa839358a0c1"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/AI-Race-1-450x418.jpg",
+    "bytes": 23713,
+    "sha256": "c8ddef7bd10a8c892873a1ab2ba53396394c4f1886fcb44fd9fb74304e91d599"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/AI-Race-1-768x713.jpg",
+    "bytes": 49725,
+    "sha256": "3fe7dd719541473b955606b20214d572a65f004fc73d2f359bacfcb04f59c4d7"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/AI-Race-1.jpg",
+    "bytes": 52922,
+    "sha256": "59774d8236a1b91e5d23c4212da9e729133c3db83724955301a34bab9e8cc012"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/AI-Race-1024x576.jpg",
+    "bytes": 79920,
+    "sha256": "4cf0fd6bc964410c21f49f6fe9ef80e537fb7870a644ec9bfea84d8c1a813525"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/AI-Race-150x150.jpg",
+    "bytes": 5334,
+    "sha256": "78d0dae4378bc8b4e0ea6cdb5255dadd64b0082c1b96bc881850ab9359885694"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/AI-Race-150x84.jpg",
+    "bytes": 3305,
+    "sha256": "48f4f08447d825441d7b9d8da437a8c938538df160be4d3804ce3e73816cb7d2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/AI-Race-300x169.jpg",
+    "bytes": 10238,
+    "sha256": "e79bd93fac1049b18897c1216dde1986ebc7f9fa7267479a9734a282e2e75e33"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/AI-Race-450x253.jpg",
+    "bytes": 20584,
+    "sha256": "dad039d37d88ae66b60a3506bc29160a7503cb05e58825ab70a78952cc3e1130"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/AI-Race-768x432.jpg",
+    "bytes": 50353,
+    "sha256": "b08b0cb9f10571e4f3a28ce04416fbf0997583ff118569ba6725f709c6125943"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/AI-Race.jpg",
+    "bytes": 71720,
+    "sha256": "12b02224832bd573bf3e3919866fc3046ddca71560111d90230816eeed860bdb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Addmision-Problem-Handling-1024x576.jpg",
+    "bytes": 49397,
+    "sha256": "ebb0db72689477d7cb88d912ed33cded88cb6a4ddc9f04cc466a7948be0d7d4a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Addmision-Problem-Handling-150x150.jpg",
+    "bytes": 5277,
+    "sha256": "41a11210c4c11db796cc4e5b4b8b25bbb0ff6676713e3e39b5bc8970e9fcf9cc"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Addmision-Problem-Handling-150x84.jpg",
+    "bytes": 3046,
+    "sha256": "d4a413290991e63538da7bd2996dd53081d65236f7a16e556c91e752d9ece6f0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Addmision-Problem-Handling-300x169.jpg",
+    "bytes": 8219,
+    "sha256": "9a40e821a3a3a1e6e1746213334274332886d68f355c00a4413ffb50cf5e47ff"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Addmision-Problem-Handling-450x253.jpg",
+    "bytes": 15462,
+    "sha256": "5bcd24770b5eb2af0b10dfe7ae905a9f6a5b7199fbb806bbd6b6bdfe307afbb2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Addmision-Problem-Handling-768x432.jpg",
+    "bytes": 33431,
+    "sha256": "4ae53631be5e2ba7408afb57b3d2e04b97b70f4f5a85f5d6d1beeea92f2d50a9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Addmision-Problem-Handling.jpg",
+    "bytes": 48062,
+    "sha256": "3f03a77d9eb8066f779db953e1e8687d7890c51f57d4669bf97da8988e2865ec"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/At-the-End-of-Hardship-Come-1024x768.jpg",
+    "bytes": 137244,
+    "sha256": "7470a731ca340321a8ffd037818f119b098fec3d150a0658581a150776224fbd"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/At-the-End-of-Hardship-Come-150x113.jpg",
+    "bytes": 4964,
+    "sha256": "efc2576144654c3dd713ea1d645e177ec34fdfdbea68adb27f6b9febd0727c3f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/At-the-End-of-Hardship-Come-150x150.jpg",
+    "bytes": 6209,
+    "sha256": "e245a46a3a583185ac7fceffcec0cbaa04288d7dc548c36aa7bd0ba950c12127"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/At-the-End-of-Hardship-Come-300x225.jpg",
+    "bytes": 15794,
+    "sha256": "fc1281d152188449276121a61cd7a7baa5e20c1ecd8931a30f930f81bad458a3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/At-the-End-of-Hardship-Come-450x338.jpg",
+    "bytes": 32190,
+    "sha256": "9dca1964b0aef908579ad7d1cf91cec328d7e0814c7356180f521f5bc49a3c5a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/At-the-End-of-Hardship-Come-768x576.jpg",
+    "bytes": 83242,
+    "sha256": "6cd210a21cad381e7a5334f498d324cdb6be28b7bca06eedccbf445939e9d747"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/At-the-End-of-Hardship-Come.jpg",
+    "bytes": 119593,
+    "sha256": "582f396afac8a740039cec2f203ec3821a73e32f1d3a07735c75b970bee49c70"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Avoid-1024x576.jpg",
+    "bytes": 59281,
+    "sha256": "a7c4ab80e7c2f77dbdf9b19a7b42dd5c224bed81556f69c170161806009458b5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Avoid-150x150.jpg",
+    "bytes": 5599,
+    "sha256": "2f72f884268774c5f8e4d6dca8b42a24937f5e51aa201a20ff3d13debe53f751"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Avoid-150x84.jpg",
+    "bytes": 4017,
+    "sha256": "91efba3bc2953f56e75325a5bb16aa5b0895f65cef7cf6d35598f8e636847fee"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Avoid-300x169.jpg",
+    "bytes": 10792,
+    "sha256": "53a8bebad3f995653e0458b41232f6f893e28bf3dc99d3ed9b29e29cd91e00b6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Avoid-450x253.jpg",
+    "bytes": 19199,
+    "sha256": "f8aa68ec3285754da8304869a54612ba315af8e0672a8abd9603ccdc74b024bf"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Avoid-768x432.jpg",
+    "bytes": 39608,
+    "sha256": "6cc14afc2299a2f20ad6108eafa21bd8b3b1025bfebcea2fbab6ecb93c922789"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Avoid.jpg",
+    "bytes": 44173,
+    "sha256": "b376ecd8384935e8223e99b1ca112b2bf104f4e05e32e8e767a42d82ef7a6afa"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/BPSC-Exam-Hall-1024x576.jpg",
+    "bytes": 91696,
+    "sha256": "3132059062074ee1db4d52953f8e46329154488a263f67cc4a187335b8dc17b2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/BPSC-Exam-Hall-150x150.jpg",
+    "bytes": 6553,
+    "sha256": "8f958a41db71387020fd1684f92808aa88c85828f9108911d6f22a86f83ff1fd"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/BPSC-Exam-Hall-150x84.jpg",
+    "bytes": 4370,
+    "sha256": "ca8c779dc00726069c9801980ebf0643147ff6b11cdd783da87289b9e99c35bf"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/BPSC-Exam-Hall-300x169.jpg",
+    "bytes": 13273,
+    "sha256": "2ea1dff44fae62612e012ad67b22c32dfd0a748859d6c43b5bfd72b5e48a1ef5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/BPSC-Exam-Hall-450x253.jpg",
+    "bytes": 25349,
+    "sha256": "79c94df89975ce4f027a4fa85141649d3acf68c40657779f8f0918561e72b817"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/BPSC-Exam-Hall-768x432.jpg",
+    "bytes": 58823,
+    "sha256": "379ffd0ca3b06fc633a3ee38057a1d2cdcb6f50e1c5b249d8128ccf7fb05659a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/BPSC-Exam-Hall.jpg",
+    "bytes": 77302,
+    "sha256": "093d5f58673dbbf883dd669727aa56db730e94c181291ebe54fbe54abed35fd1"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/BUET-Medical-DU-Admissio-1024x576.jpg",
+    "bytes": 85331,
+    "sha256": "e2049db9853e0245a2e4e318cd6e24ae26c6eceec81f3b90ff0d835db83c2b2d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/BUET-Medical-DU-Admissio-150x150.jpg",
+    "bytes": 7461,
+    "sha256": "88877d79dd49c6cadc12efec1d09df9a4bc28f3d7c2b70fc4099be68c81d943f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/BUET-Medical-DU-Admissio-150x84.jpg",
+    "bytes": 4600,
+    "sha256": "71277a44113a150aee1196af85f29cb107516db75c293e3104a5c3a18833c191"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/BUET-Medical-DU-Admissio-300x169.jpg",
+    "bytes": 13190,
+    "sha256": "c21e042152bd9dcd96d9a04dd24ed2b38c99d72260b9baf8ad3bb609646b5489"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/BUET-Medical-DU-Admissio-450x253.jpg",
+    "bytes": 24621,
+    "sha256": "6fb0d01fa1e5933331e8f8de4a0058e10c636d64ca24005d387bdb2da22f6b44"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/BUET-Medical-DU-Admissio-768x432.jpg",
+    "bytes": 55508,
+    "sha256": "c58ba735941962a015640b090ce3e535aabdb22bbe72b8771a5f3c9076c74080"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/BUET-Medical-DU-Admissio.jpg",
+    "bytes": 73230,
+    "sha256": "d6e9e821a4e11db8e1d0e7d6bad37c3d348e7e93824d1f318cfaa6c1fc3d4b87"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Basic-Computing-1024x576.jpg",
+    "bytes": 60703,
+    "sha256": "5126d9d1ddd0b5dc30fe5c4620799f08d618c9cebd51a341176713f1b9e0077c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Basic-Computing-150x150.jpg",
+    "bytes": 3960,
+    "sha256": "00f765c53d29b6d3e5c2f461969b1a8613f7bd4468e3ec3e50caaa964c4a8d76"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Basic-Computing-150x84.jpg",
+    "bytes": 2720,
+    "sha256": "d4c44c6704c210dd48c4f6812bf354f66fda7924b847bda5efea58803b1819c0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Basic-Computing-300x169.jpg",
+    "bytes": 7598,
+    "sha256": "49b080b62d968087ebe8f6393ae377188839a0d829d4cf26bca16b3487588512"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Basic-Computing-450x253.jpg",
+    "bytes": 14646,
+    "sha256": "7d7d5f79c30ab21c4c8e7b60b4f86c0fa22d3c826cd1655f9589e905fb9d0630"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Basic-Computing-768x432.jpg",
+    "bytes": 37226,
+    "sha256": "f692cc267005b1fc8128fa23e54f10ae4aaa5cd46bbebdab9ef8580cfec858fd"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Basic-Computing.jpg",
+    "bytes": 60205,
+    "sha256": "e40ae4b6b1e0c864cecf22fb80c15f35a2d62a609b53c43e7bbe81af8963b233"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Basic-Typing-Skill-1024x576.jpg",
+    "bytes": 58237,
+    "sha256": "37eee730ecf3a2640ca45d4ee1af6aa9bdf051f02ec7c3bbf61b5c126a3cb496"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Basic-Typing-Skill-150x150.jpg",
+    "bytes": 5518,
+    "sha256": "77e8a6bfc617efc86eae548a2eb47a03de5e1bdf234bbc4bcd027b1f4136995c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Basic-Typing-Skill-150x84.jpg",
+    "bytes": 3519,
+    "sha256": "8c55641aed60095119fba22429ec9cea95f0ce5927eb99d8bce673e39bd06698"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Basic-Typing-Skill-300x169.jpg",
+    "bytes": 9665,
+    "sha256": "69682675090f30ad96854a5d8e504f1b567db3098707a1a1fc13ecb3cdddcf1e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Basic-Typing-Skill-450x253.jpg",
+    "bytes": 17456,
+    "sha256": "6174987884fc9c6b799a3f184ef00dd81dca09dd2c09fd2ceed3d7f9abdd0f89"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Basic-Typing-Skill-768x432.jpg",
+    "bytes": 37963,
+    "sha256": "0ec14d90324466377fcebd5df27cff259eb6ceba352b2566e6beb90e9584b5dc"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Basic-Typing-Skill.jpg",
+    "bytes": 46897,
+    "sha256": "d579a794a057d3c79c323ade95c0fe68fdb3011606411b91750b97f8af638fc7"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Break-your-goals-1024x469.jpg",
+    "bytes": 51813,
+    "sha256": "df80861e45bf339ce8c1a86d440454cbf46e57b54a611c3d134bb55e86eac1df"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Break-your-goals-150x150.jpg",
+    "bytes": 5315,
+    "sha256": "2dd9a1cedb33d210b32433bf41b6bb6ce409b86ddd17c106439cae2708324848"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Break-your-goals-150x69.jpg",
+    "bytes": 2953,
+    "sha256": "c901ab36d1e9986067e1ec9b6c621f36c9658f4a4b6629f006c5a92e3828feab"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Break-your-goals-300x138.jpg",
+    "bytes": 8340,
+    "sha256": "de9a642cad6e272948481b21ac9584c003b037c0430d3685f28f09eba7d191b0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Break-your-goals-450x206.jpg",
+    "bytes": 15587,
+    "sha256": "40c9b23a4d0e9b70d6e1bb3c6b45323739b671ed6289c7310fb60a41302af227"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Break-your-goals-768x352.jpg",
+    "bytes": 35117,
+    "sha256": "a63a73dedf855c3f7d9255e5e536b9e2dcb170d3058985dab0eedb3ab41ad9b8"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Break-your-goals.jpg",
+    "bytes": 51377,
+    "sha256": "31dafb1d0e7697ea8facfcb8bb624b22d7ebf432e38ed3f8c91e109a4173b1ac"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Building-Confidence-1024x576.jpg",
+    "bytes": 47990,
+    "sha256": "60df9e3687a786eed48b2be3d18e31dc61ea9e348699c28058210f0cbf8a8f51"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Building-Confidence-150x150.jpg",
+    "bytes": 5278,
+    "sha256": "50e194f33c8975d1d12598400919b424ae284b94c8abaebad5ab51844c1996c2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Building-Confidence-150x84.jpg",
+    "bytes": 3492,
+    "sha256": "c147d0a0295f581e1fca660b677e34a24e66c81839bef014fddc1dcda264112b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Building-Confidence-300x169.jpg",
+    "bytes": 9884,
+    "sha256": "45c2979eccd78017c2c370ba628a6637e3887139f99b227e07dfb0efeb8b8335"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Building-Confidence-450x253.jpg",
+    "bytes": 17039,
+    "sha256": "e2da1953987d063a2483f517b62135c07c33791bcc8f68358f0eb5d75137c7a9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Building-Confidence-768x432.jpg",
+    "bytes": 33649,
+    "sha256": "2c54ed18403b48cf6d7516067c97922f3a909a71309bd452658084c13930803b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Building-Confidence.jpg",
+    "bytes": 46405,
+    "sha256": "76381e393d526869b00856a265f66229b990ea10befd372b5b4068a1a54dd2d8"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Channeling-Negative-Emotion-1024x576.jpg",
+    "bytes": 36263,
+    "sha256": "221bef365b1872808f1da2aa72835431e601a06bcc9a1ee333bc0dae6f7f9f59"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Channeling-Negative-Emotion-150x150.jpg",
+    "bytes": 4577,
+    "sha256": "7e494252c72c6ec358971292269c249de86fc98d45be93caf14e8159a5adc372"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Channeling-Negative-Emotion-150x84.jpg",
+    "bytes": 2774,
+    "sha256": "6433915f7afbe1bb0f152f0ab20783abc6739310478ebd19867475b5c3d56e5e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Channeling-Negative-Emotion-300x169.jpg",
+    "bytes": 7218,
+    "sha256": "4178b8c2026efad6d297a3c861184113d27cc53da9a86a2282b2ddd6d0efc605"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Channeling-Negative-Emotion-450x253.jpg",
+    "bytes": 12493,
+    "sha256": "fbbd8436f3c672673ccc6c97272f8f7d664f35dd26cf2e871091cee8049fb30c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Channeling-Negative-Emotion-768x432.jpg",
+    "bytes": 26143,
+    "sha256": "a1e417436c2c7a314a302b50e34e5b6551194e1c8f3c22e588a3df036628b0a5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Channeling-Negative-Emotion.jpg",
+    "bytes": 35701,
+    "sha256": "7404a325fefa51732a61a42eaaff15d5165310027944d92681a4b8284374f97f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-1-1024x566.jpg",
+    "bytes": 38307,
+    "sha256": "32c88378e7b29f17cbcc6c5ebe043f08bc333b29148ccf78090f0e9d2388bfa3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-1-150x150.jpg",
+    "bytes": 3154,
+    "sha256": "71ce604c8f285af02797e2d45c79a77d1198359feab0951d326ae7344af50fd5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-1-150x83.jpg",
+    "bytes": 1716,
+    "sha256": "e190d7498a63d16c7d674754597a8925f6b7345af2e3cb41cf8d56c99eec268c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-1-300x166.jpg",
+    "bytes": 5209,
+    "sha256": "58cf194dee523f0f4d407ae3ce717cdfb90a72b6b3957d0f0936a3a509cc5e27"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-1-450x249.jpg",
+    "bytes": 11132,
+    "sha256": "3ce24292494f68ea290cb8c62407d60b951d2d02fd313c06402100d0c8827116"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-1-768x424.jpg",
+    "bytes": 25473,
+    "sha256": "0d6c6a3fad88dce431e7203f625a2d48315417418eba024a29d58b879b8ee851"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-1.jpg",
+    "bytes": 38337,
+    "sha256": "add0f2e0682736ac8f09b29f8bd01ae41391ceb11340a3f1f2844bbf3e8288f5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-5-Model-1024x576.jpg",
+    "bytes": 45753,
+    "sha256": "b33ea94e91a90dd6784312ca68a4f915715fc0db4c1fc0346ce6adf13d526248"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-5-Model-150x150.jpg",
+    "bytes": 5337,
+    "sha256": "caf79d1d4a247630b60f3abeffa5d511e4065aca36f1982e272255709e40680e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-5-Model-150x84.jpg",
+    "bytes": 2826,
+    "sha256": "d2c6683b4044bb0cdabbeddc9937473ea5cee371adb350f1e8cbcfb689e30e04"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-5-Model-300x169.jpg",
+    "bytes": 7699,
+    "sha256": "47bcb6f9cfb647559b429c0ec6690405019aea496683faffd247118b483bc187"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-5-Model-450x253.jpg",
+    "bytes": 13898,
+    "sha256": "c567d9c832284506b40935588254e4e0385643e7559aaebd442d955d39d5c07b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-5-Model-768x432.jpg",
+    "bytes": 30635,
+    "sha256": "a48a60ef659026d3b954b10d4199594162818c19aba4b710af1b173aa12b7ff8"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-5-Model.jpg",
+    "bytes": 37134,
+    "sha256": "77dd203339da29fb1ac1157af2c857fa57b293aa5d466ebf6355aaa3dba515ff"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-5-Performance-1024x576.jpg",
+    "bytes": 57924,
+    "sha256": "4db6b57ca7c238aa34e6176dfd986767cf45ba35901c17f70fabc713db6a609a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-5-Performance-150x150.jpg",
+    "bytes": 5254,
+    "sha256": "d0f4f2e0d7dac2a2603c09c5368c5f4df503a097b3912efda7e2ee763cf1437a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-5-Performance-150x84.jpg",
+    "bytes": 3290,
+    "sha256": "ea2c62043a8e133611a55bac66ac931d68984b20b32068ce062f590a4c5f93f2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-5-Performance-300x169.jpg",
+    "bytes": 9407,
+    "sha256": "518d64f19f888bf6f9b157225740af8365acd15a1d53112cc3fcd9cb23219ec1"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-5-Performance-450x253.jpg",
+    "bytes": 17898,
+    "sha256": "8effeee28a9afed40701da0832ff3da0ee02841e6dc4acec3f63b6d4e989f94f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-5-Performance-768x432.jpg",
+    "bytes": 38824,
+    "sha256": "5834364e737670c5632f8b351cfdd80348da420a8be7e1c92ce148891f31b311"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-5-Performance.jpg",
+    "bytes": 62093,
+    "sha256": "1ada82ebfb82c2f94812c98aba03840b8dc0a619b99c29b797c7f55bcbf98779"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-Learning-Model-1024x576.jpg",
+    "bytes": 37004,
+    "sha256": "0965c38b4dc30b4ff40ac92ea6078d07da4531d2f65a18c09de959d7827aa484"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-Learning-Model-150x150.jpg",
+    "bytes": 3380,
+    "sha256": "c541f963a0eb4ae7521a505b8d6b060a7b2ba8fcdf5dc7e820fede9fc2e0495b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-Learning-Model-150x84.jpg",
+    "bytes": 2019,
+    "sha256": "c0ead0e59bab67fca4eb36a4f5d19dc6d5d769a0c717b752e98e70d1af4291fc"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-Learning-Model-300x169.jpg",
+    "bytes": 5779,
+    "sha256": "9d377b83b583dcfdb02f8d7e7e6ab0fafb0bc5d9b85164276c1a8d18dcd07685"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-Learning-Model-450x253.jpg",
+    "bytes": 10873,
+    "sha256": "ff3425a285c161b093e9b0ab77b53189c469626a63d89042407fbd1f63f98d17"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-Learning-Model-768x432.jpg",
+    "bytes": 24140,
+    "sha256": "89222d3f720d90adca5b4b602800d6d50bc0bce3be4f9169591348f14909fc93"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ChatGPT-Learning-Model.jpg",
+    "bytes": 37476,
+    "sha256": "f2ad4aaa8d68622521971c9fc41892715127d574f9ac11f6759a942a9762db64"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Color-of-calcium-salts-in-f-1024x576.jpg",
+    "bytes": 48337,
+    "sha256": "5510a60f3dd9e32b036e6a18997dfe10bc713630ffd3cd68a6c9d53a1c946dd6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Color-of-calcium-salts-in-f-150x150.jpg",
+    "bytes": 4303,
+    "sha256": "9bc21dbc5e0d54ef54b4a03ec126043e664985055a692550eba461053184f3d4"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Color-of-calcium-salts-in-f-150x84.jpg",
+    "bytes": 2893,
+    "sha256": "080c8f38051dde4229d81a7ee5842f46411c8c694694a1cdc22c7b14c738979c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Color-of-calcium-salts-in-f-300x169.jpg",
+    "bytes": 7600,
+    "sha256": "13d8ce97960673bd95ccee30e9caff09815f39ee7f844b01db150966d97e265e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Color-of-calcium-salts-in-f-450x253.jpg",
+    "bytes": 13780,
+    "sha256": "c04e4420252b1713be238d33eb868b2631a98ef913d71420ee5443552e20b8b5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Color-of-calcium-salts-in-f-768x432.jpg",
+    "bytes": 31320,
+    "sha256": "a96d80b4b8fd6b4d5977e25ae02b0222df55311adf664068dc7c84edbcb35d62"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Color-of-calcium-salts-in-f.jpg",
+    "bytes": 33598,
+    "sha256": "967912f8835b9b90782eae834a81e061da5cb33737ffad6b16cc5594a14571d0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Computer-Skill-1024x576.jpg",
+    "bytes": 109101,
+    "sha256": "d02a8fa1435c68e0bf1c0445fb965e220ba540167a0626f76737cfac4bf586aa"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Computer-Skill-150x150.jpg",
+    "bytes": 6905,
+    "sha256": "6d1d417630b95c7c73b02bac1826a2499ed5ed5e5cd73eb449c479e1939b890b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Computer-Skill-150x84.jpg",
+    "bytes": 4470,
+    "sha256": "38f4ed7688ed6503a0f3aabc15f323c5fbc54a2a87a09f95818c4559a390cc3a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Computer-Skill-300x169.jpg",
+    "bytes": 13582,
+    "sha256": "b9754250be11c9ca9e09f56a6d7409f16a2bcc3e85616ed1564bc68ab0f3a092"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Computer-Skill-450x253.jpg",
+    "bytes": 26350,
+    "sha256": "387ec2240b60ea33048332b0493679acb14b16a2396972c4b5516f9eeadeb00a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Computer-Skill-768x432.jpg",
+    "bytes": 66342,
+    "sha256": "a760a4c7262291dd8c5cc9297a99bbed6aaaded44b74892a5f608f31579163d9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Computer-Skill.jpg",
+    "bytes": 104295,
+    "sha256": "c484dac4abafac2862b1ec0c1f65cd7058a633429aa47c0472b9ae59d3996d73"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Couching-Marks-150x150.jpg",
+    "bytes": 4496,
+    "sha256": "64f968e67524e627d02dcaa1d3aeda889fa1275b6aa28542c2e9b117dd9ccb66"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Couching-Marks-150x159.jpg",
+    "bytes": 4808,
+    "sha256": "feb18368fde9b8069319f29aa3780157c00fb135bbdc72032a64ab7781e3ec90"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Couching-Marks-283x300.jpg",
+    "bytes": 12671,
+    "sha256": "fad86255988ef275ccb25b4a16e29f1bc1b1145f4a7d0c3d73e4d90227e704a9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Couching-Marks-450x477.jpg",
+    "bytes": 24678,
+    "sha256": "7984cc3f4023932f181f9f8a2e87e7f128056118ba0bc73d0142f1c1b12e2a7c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Couching-Marks-768x814.jpg",
+    "bytes": 48914,
+    "sha256": "f1357839f98f780a32921bb1841d9c835f5eb0fd09387be72c0cd8d202e7b257"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Couching-Marks-966x1024.jpg",
+    "bytes": 65245,
+    "sha256": "46c047624158549984aef2bd409121512410ba950c01e8819a532fa743e0ff90"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Couching-Marks.jpg",
+    "bytes": 63979,
+    "sha256": "a2aacaf74f8023f5b7137cd0349d6ff60c262b601434eed5948c69c67396a64a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Daddys-Notary-Daves-Note--1024x768.jpg",
+    "bytes": 112511,
+    "sha256": "f45d6ea7e00db757c85b9afac71dc17d81c4665d73bb92aa7756ca6753960545"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Daddys-Notary-Daves-Note--150x113.jpg",
+    "bytes": 5511,
+    "sha256": "1650673818d8c06cd270667fdc3f259432628ce77e3c005e0d2b7b32e580ba42"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Daddys-Notary-Daves-Note--150x150.jpg",
+    "bytes": 6550,
+    "sha256": "3a5ca45085d209d845b9ffbcdc227e94ba4457fce075682207a2159c04172af4"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Daddys-Notary-Daves-Note--300x225.jpg",
+    "bytes": 16526,
+    "sha256": "bf3a3b46d7b2f5bd6e26a68e4c09d5eaea957fb2649bde2689537e09318992f3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Daddys-Notary-Daves-Note--450x338.jpg",
+    "bytes": 31532,
+    "sha256": "c9e53372d2826bcd5d17900d640e5453bda4e635f1a1cdd51f1b706cefb0312f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Daddys-Notary-Daves-Note--768x576.jpg",
+    "bytes": 71973,
+    "sha256": "7badf531ea6956e66477bf6a33d4fda290eebb93edb0b716bb1c4697e731428f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Daddys-Notary-Daves-Note-.jpg",
+    "bytes": 91311,
+    "sha256": "70d5d8479be82fca3d46064722691d09f2415b57551053950de4a6881f9ccfdb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Dhaka_University-1024x576.jpg",
+    "bytes": 153552,
+    "sha256": "5385b5b21cd9670529e29693ca2f692be07043840ac4ca859ad2c7c77280b117"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Dhaka_University-150x150.jpg",
+    "bytes": 7823,
+    "sha256": "a8a211f85d76b0039c134547c7dd994b39685e8bbaf1c30545dc922516af2927"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Dhaka_University-150x84.jpg",
+    "bytes": 4638,
+    "sha256": "feac20adf59255bd4f9f41666f238cc4fada7d20f647cade18861d5fe1907c69"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Dhaka_University-300x169.jpg",
+    "bytes": 15776,
+    "sha256": "eb9b5c6903bf650e94bdb590542bfd1542f2e0f852f993313c04958eea0bbd77"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Dhaka_University-450x253.jpg",
+    "bytes": 33043,
+    "sha256": "558a274eb80b4d0c40adbfe3d6e5d2609fe8c8fcfd6c408e4c8149689cd19b4f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Dhaka_University-768x432.jpg",
+    "bytes": 90162,
+    "sha256": "3305a179accf9efb56d94927c05984687b2b667b9243f91d57f02bcdea58cf40"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Dhaka_University.jpg",
+    "bytes": 158413,
+    "sha256": "c08e7fb84118bd0e452acf2ea19b2787bd9c1c6f8072d34ae4b7006aa602eb6b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Digital-Literacy-with-AI-1024x576.jpg",
+    "bytes": 46503,
+    "sha256": "44073fc66120e77bd1a2ff97501822d915263c6f38e064732047cf2603195870"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Digital-Literacy-with-AI-150x150.jpg",
+    "bytes": 4321,
+    "sha256": "3a7bebd984826fba44cb4a074d0d3ce8f46e4c7e2d1a8f1affc135d184043b26"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Digital-Literacy-with-AI-150x84.jpg",
+    "bytes": 2813,
+    "sha256": "2ee45b9f1cdee768781d9955aabf10ab7b85e9e93fa36a072705a8df50710f2d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Digital-Literacy-with-AI-300x169.jpg",
+    "bytes": 7779,
+    "sha256": "8e9df2dee230e1fe381ec822f74061ae0c14702e92a0c5c7e7a4918df04de672"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Digital-Literacy-with-AI-450x253.jpg",
+    "bytes": 14581,
+    "sha256": "cecb6fdccd23e5d264f8b2748997ad646b0391af36ea348095aa8785e07fb9ff"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Digital-Literacy-with-AI-768x432.jpg",
+    "bytes": 30507,
+    "sha256": "8368fd47cad21d5bafca5f2b2e80527a42bd9e67c7b8641943ef2ce7db02063e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Digital-Literacy-with-AI.jpg",
+    "bytes": 47281,
+    "sha256": "d9f6b62f2819ea5a947e959ab8a40708555bca3d9827d320b93610f50550ee4e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Digital-Marketing-1024x576.jpg",
+    "bytes": 67848,
+    "sha256": "f739ecce3c439839a98678db1ec595794559856ebea96bff5f8476a8650d2c01"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Digital-Marketing-150x150.jpg",
+    "bytes": 6186,
+    "sha256": "fbe58d89dd37f2c6ed367715edd654d2bcfd911e941956bf3dfd0e2f8a3981a8"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Digital-Marketing-150x84.jpg",
+    "bytes": 3299,
+    "sha256": "10559edf4b582669add37382040b7eaf2769484dbcc1e0b239a0c913a7a4f6fb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Digital-Marketing-300x169.jpg",
+    "bytes": 9844,
+    "sha256": "6ca031befd2afc836fffc483e9fb26d7f0298ecdcc76e0c41be9680df0facae7"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Digital-Marketing-450x253.jpg",
+    "bytes": 18885,
+    "sha256": "46b02c901c263c22cc5cffb9749b3af503b4552c252a1b0017809750602ecedc"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Digital-Marketing-768x432.jpg",
+    "bytes": 44243,
+    "sha256": "dce3fc8f6250c72d8ca5810d0be0406a9d0f1921acd306f9d8793c7cc0691ac4"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Digital-Marketing.jpg",
+    "bytes": 55014,
+    "sha256": "f632482b75da403f35dd9f115713b454c6c5a1f3d0e9a131e700f60893303c96"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Dont-Judgemental-1024x597.jpg",
+    "bytes": 115476,
+    "sha256": "827a024f6cd9ff8e6153fc42ca42fbc1009c029fb4c7659ec23251f9d5827003"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Dont-Judgemental-150x150.jpg",
+    "bytes": 8308,
+    "sha256": "5cebb93787eb22e501a174a68a784071d64665517779176ad639b5e9031123cb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Dont-Judgemental-150x88.jpg",
+    "bytes": 5413,
+    "sha256": "e384654ea430986ba020524cbe7225add7176e6059db24ffc7fb0ac6228054b6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Dont-Judgemental-300x175.jpg",
+    "bytes": 16650,
+    "sha256": "c93fff912696336291096a067c8199c3dd9bb0aa6a1bd1718aaf7dce69f84183"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Dont-Judgemental-450x263.jpg",
+    "bytes": 32076,
+    "sha256": "385aa62e9c526ed8bfc149a2ba7e29fd890e798d8bdae934681121c3c552b59e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Dont-Judgemental-768x448.jpg",
+    "bytes": 74089,
+    "sha256": "d47e74e17b35ea562b6eb75d7cdda8f3773dac28e0035b24dc57628b67b3eea6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Dont-Judgemental.jpg",
+    "bytes": 98375,
+    "sha256": "e2c2b529f54141fd873b707f84384d9aacb207f3ef669a476bc18cd3aa82bccb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Dress-Scense-According-to-P-1024x1024.jpg",
+    "bytes": 187445,
+    "sha256": "aa1caed60ddcc8083d80510f792a69ed7bbac0acd90ed2544c8c5d5870bfd036"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Dress-Scense-According-to-P-150x150.jpg",
+    "bytes": 8835,
+    "sha256": "29cf9b051b2147030ac036dd20f34cb3c8738cdedde07452755b668903dfe303"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Dress-Scense-According-to-P-300x300.jpg",
+    "bytes": 27747,
+    "sha256": "49136baccc7d6a39eb9f44139a3b987c124e1549b8364809a42bd069f569e648"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Dress-Scense-According-to-P-450x450.jpg",
+    "bytes": 52634,
+    "sha256": "3079eb74f0177368006b5ced2fc354137f5036e368d4a47a6326c5eac3a07422"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Dress-Scense-According-to-P-768x768.jpg",
+    "bytes": 121028,
+    "sha256": "b997278c30f6b70928f1b6410f8d585855cb580a9b001caa79dd356e1b943944"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Dress-Scense-According-to-P.jpg",
+    "bytes": 162766,
+    "sha256": "dfd5913a9cb4353106f327f8b7624610a92108bab4ca731261cd1b26a1dd6bfe"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Effective-Study-Routine-Bef-1024x576.jpg",
+    "bytes": 92691,
+    "sha256": "1000a1316733298521b8b86e25424f201430e612085bd2a70b728875c22effa6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Effective-Study-Routine-Bef-150x150.jpg",
+    "bytes": 6484,
+    "sha256": "6a5d9e5d9fbc624a9a5d95084369cf42eb8938405d444d98c7ce90324cb0f858"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Effective-Study-Routine-Bef-150x84.jpg",
+    "bytes": 4626,
+    "sha256": "1f0dcdf807115ac9ae046ebcd5e1d7f20cff70b6bde7f2c901c0633965032fd4"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Effective-Study-Routine-Bef-300x169.jpg",
+    "bytes": 14043,
+    "sha256": "b0cfc1f2eef96e74683ed1a080e69f0ddf10b1405976cfed8e22f91806e205ed"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Effective-Study-Routine-Bef-450x253.jpg",
+    "bytes": 26614,
+    "sha256": "10cd018f27337a872d701b6aaa21aac4e307134c1231d3ca8db5350c5b59b93b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Effective-Study-Routine-Bef-768x432.jpg",
+    "bytes": 60663,
+    "sha256": "2f0ed48a04cf6db1d8a2bf9ea579dd0769dd58b97ecbeb731d2688851bb37148"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Effective-Study-Routine-Bef.jpg",
+    "bytes": 77436,
+    "sha256": "133bf310845773075ca4b3450fd7cd52b73384443c5c193d3ea5abaefbb1b765"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Even-a-Dog-at-a-Buddhist-Te-1024x597.jpg",
+    "bytes": 75549,
+    "sha256": "274ddc5e82916c324254ddc219ed446cf6962145f48fd361790de9c07ec8cb18"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Even-a-Dog-at-a-Buddhist-Te-150x150.jpg",
+    "bytes": 5929,
+    "sha256": "209f278f624ebd6afc520e8bf5cd06f0eccf0eeb054be451cc5ed5531c42a44e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Even-a-Dog-at-a-Buddhist-Te-150x88.jpg",
+    "bytes": 3960,
+    "sha256": "ef9bb56fc44b4953d65900abd46c10c8a3d3a9ca2c271fa01800efeaf1855a28"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Even-a-Dog-at-a-Buddhist-Te-300x175.jpg",
+    "bytes": 11574,
+    "sha256": "91ef4c6b9537a78885bc0551ca01cba718620e54c5c940038fdaee0b8b53b27e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Even-a-Dog-at-a-Buddhist-Te-450x263.jpg",
+    "bytes": 21732,
+    "sha256": "5497645ce6d1dbd37354a39ddc15186a0217c71e03f008df7b670bad2e4a11d0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Even-a-Dog-at-a-Buddhist-Te-768x448.jpg",
+    "bytes": 48443,
+    "sha256": "1d881d34f3c02ffa73169c1b01a21bf9b665f8fc5f46b3233eb12a77479c4f12"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Even-a-Dog-at-a-Buddhist-Te.jpg",
+    "bytes": 58452,
+    "sha256": "7ff8d19726c732639dea900ca5656723761430e362e49b7444f8497c2aea9c0a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Everything-is-possible-the-1024x768.jpg",
+    "bytes": 98652,
+    "sha256": "fc905d1e4f22a06328746bd21cd3191ecce2ea75878096bf5f51d513433e8fc2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Everything-is-possible-the-150x113.jpg",
+    "bytes": 4354,
+    "sha256": "5ceb5a0dfbdbc087381e6571e9675d4ebff5e83b67258fc5fa5f2e2cfb1ccd20"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Everything-is-possible-the-150x150.jpg",
+    "bytes": 6104,
+    "sha256": "5e44e4aedef437016ad34b40e4d9daa39fda944b8f337f9f4b90f22530d4aa16"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Everything-is-possible-the-300x225.jpg",
+    "bytes": 13660,
+    "sha256": "b6deae8dbc28ccf2d54932f849b9e55c0191bfb2fd0ae5c5fc7addb53386d5fa"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Everything-is-possible-the-450x338.jpg",
+    "bytes": 26703,
+    "sha256": "56cff5aa631f0268eb17bc86a359e36c492c4b085badba12d01daf86c1f462ca"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Everything-is-possible-the-768x576.jpg",
+    "bytes": 63040,
+    "sha256": "48beaa278f14d24df688b0c41ae68eca7fad98d830fe234d37b891b49557b39c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Everything-is-possible-the.jpg",
+    "bytes": 78945,
+    "sha256": "64bc45187e644d0f4208da155cdceb1fe98af7283cc621235753ba01ae27509f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/First-Four-Months-150x150.jpg",
+    "bytes": 3492,
+    "sha256": "0e46c3800a5085a18ce0095ba59eb1e6a635b6585f6a6b5f3a6245992232a275"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/First-Four-Months-150x158.jpg",
+    "bytes": 3589,
+    "sha256": "905da505820e92e5d6ab517d604c658c93d61f73774f92b811eb7288f5f8a3e5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/First-Four-Months-285x300.jpg",
+    "bytes": 10880,
+    "sha256": "d402cb8f6d0047c5c31287d7049f8fb4a61405656c31350b80ab3d7e83a78862"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/First-Four-Months-450x474.jpg",
+    "bytes": 22579,
+    "sha256": "b1cc3d8ecbd3649655ec4cc23cd6637177d9ccbf66df446ee1eaa900d2b52e73"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/First-Four-Months-768x810.jpg",
+    "bytes": 47169,
+    "sha256": "faaf3678d01edd6318a56dfb6be8224dbdad4c332d52ea4e7738405dcc199988"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/First-Four-Months-971x1024.jpg",
+    "bytes": 63482,
+    "sha256": "c225b4c3c8fc0dead526c6a8456fcfce3faea35afad76fe292bf0295fd231637"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/First-Four-Months.jpg",
+    "bytes": 63692,
+    "sha256": "e77db82a2f47e59ee413f3e85e7ef78954d965863df661b339f7a7e09e99c065"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Framer-1024x482.jpg",
+    "bytes": 44911,
+    "sha256": "762900c1a663444e9d24e0e104ac6d35bc5a21b96e0ec528c5c4ed74f4f415ff"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Framer-150x150.jpg",
+    "bytes": 4626,
+    "sha256": "ca15f52d8e4b49f6e329379fe911008825505da26d38a5033b7c322d1624aac2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Framer-150x71.jpg",
+    "bytes": 3162,
+    "sha256": "9a7c8fde2d0d2929af359258ced78c813180c07bb26cedc68950897538e7adcc"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Framer-300x141.jpg",
+    "bytes": 8213,
+    "sha256": "173dfdd68d6ea364eebf1a3a89f068a1ccd2bfb79f63cb53481b085ffc6de6f2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Framer-450x212.jpg",
+    "bytes": 14502,
+    "sha256": "e06dce924e2035c2a4cbc1935f956efbb2a79594d42a07b7e2187ae623fe8a79"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Framer-768x362.jpg",
+    "bytes": 30099,
+    "sha256": "4e2270f393dac83bd8690c7b20fe01a7986467929e8c1193b831331aec9f485d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Framer.jpg",
+    "bytes": 41467,
+    "sha256": "659ee854ddc4406f98618f207b22711f5f0803ac4eaab5162231d581bd5e27fc"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Frog-in-the-Well-1024x853.jpg",
+    "bytes": 131224,
+    "sha256": "ab9629da8311698eba7f70f9381b08a7ad93f52608509c4c4d2822872d56df85"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Frog-in-the-Well-150x125.jpg",
+    "bytes": 5246,
+    "sha256": "15b86c654ffd2f3bcff8d4a0925fc349b69bf8c29010a9f057400905e5739a80"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Frog-in-the-Well-150x150.jpg",
+    "bytes": 6245,
+    "sha256": "53ee6616ca216d1b696661a773a98fb541a65c04d52a5b4fa14ed6bb885faa1f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Frog-in-the-Well-300x250.jpg",
+    "bytes": 17086,
+    "sha256": "e01e9ecd9dfffc7beb786c21928d22990c38031cc694bb72f0ee71d07c69abc4"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Frog-in-the-Well-450x375.jpg",
+    "bytes": 34221,
+    "sha256": "16c537b82bba13d404ae5cd4ec0d2c785c8d1e40756ec62c4de7fdbc4ed53c9b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Frog-in-the-Well-768x640.jpg",
+    "bytes": 82867,
+    "sha256": "0683e970c8d72e5a7776eab708f634eae60cd1e8f7f33b56acb142bd440c0bb6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Frog-in-the-Well.jpg",
+    "bytes": 104435,
+    "sha256": "4fa0ff473e5e8801ae2e9b5991004c2087498a6b8f4b3f2a3163fbf673f4c0c3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/GameDevelopbyChatGPT-1024x488.jpg",
+    "bytes": 51734,
+    "sha256": "762523a52e5d04420652e6d298b1f8441cdb7f047e23383d8e20186ff39d619e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/GameDevelopbyChatGPT-150x150.jpg",
+    "bytes": 3239,
+    "sha256": "445ea48ca786db5088f35bdf695f0f98f1ee1428e1070565f859fedd8fe367ae"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/GameDevelopbyChatGPT-150x72.jpg",
+    "bytes": 2415,
+    "sha256": "4f51762de5afafed71c21f3bc7ccc42d8432341a5d9f5d24282ef39980abf67b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/GameDevelopbyChatGPT-300x143.jpg",
+    "bytes": 7198,
+    "sha256": "5728b5e169b86c3e4e68c721637de9b19919398c33fbb02dd79936061dc17a4f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/GameDevelopbyChatGPT-450x215.jpg",
+    "bytes": 14181,
+    "sha256": "e985909307f3c90c70d98baa76c20260afec442e0fb4186bc481277120b13173"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/GameDevelopbyChatGPT-768x366.jpg",
+    "bytes": 34402,
+    "sha256": "539b22f504c32b74d4195fe26c28048c7d23bb42741a2a28a762e60d73d0ab59"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/GameDevelopbyChatGPT.jpg",
+    "bytes": 51974,
+    "sha256": "f41d8ba0ceb0601345cd34367eca4cd007c7f2461bdbac7f431a8a02482b9b69"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Gen-Vedio-Using-Veo-3-1024x576.jpg",
+    "bytes": 77100,
+    "sha256": "f4805c9e2db37dd97cd52bb3ccd45a642c762115928c8865930482b62a6e89d6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Gen-Vedio-Using-Veo-3-150x150.jpg",
+    "bytes": 6159,
+    "sha256": "97d08585443653436a9a9f60c09daf80ea30f7ce31d5682b95202ecdc6e9d48b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Gen-Vedio-Using-Veo-3-150x84.jpg",
+    "bytes": 3851,
+    "sha256": "e135c8c9f6f60b2f08b29af53bc32faa19e0061dc8bac1926dc57c26a10f0625"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Gen-Vedio-Using-Veo-3-300x169.jpg",
+    "bytes": 11619,
+    "sha256": "387469f44ab77567c6d28ca56daa03035b5b28c352a67a6416fcb79735248414"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Gen-Vedio-Using-Veo-3-450x253.jpg",
+    "bytes": 22330,
+    "sha256": "7dff741b160452dc5dd7cb09730b1613a3de2e7a91f5ad97890c5081eae468e9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Gen-Vedio-Using-Veo-3-768x432.jpg",
+    "bytes": 51018,
+    "sha256": "422a01563c41b84cba1ac550fadbf0ca0394415a6fde2715813311676eaa07e7"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Gen-Vedio-Using-Veo-3.jpg",
+    "bytes": 62322,
+    "sha256": "76fa9772f6b1696c146ae38cba648a0f8ae879056c804892a34baad0e8de3310"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google-AI-Studio-1-1024x452.jpg",
+    "bytes": 44313,
+    "sha256": "d70cb6d2289bedb69916baf1bc48ab38ad584b7760bc930275ef5a890894ebf2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google-AI-Studio-1-150x150.jpg",
+    "bytes": 3764,
+    "sha256": "4edcf58fe258c383f6b2d8d7d92d041dbc46b88fd650140a4f47f1797349095b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google-AI-Studio-1-150x66.jpg",
+    "bytes": 2172,
+    "sha256": "c450a5ff7a17052bed68190e6c38c9b5a986c41d8f2ffa1481c0589a6edb23cc"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google-AI-Studio-1-300x133.jpg",
+    "bytes": 6384,
+    "sha256": "a0b6d98f1fbadf1b100980d73bad7784b43a5a27fc04bfaa1cc549e7b4551490"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google-AI-Studio-1-450x199.jpg",
+    "bytes": 11871,
+    "sha256": "dfdb5b169482cd2d95012a07cbe470223ac7e2cdbd34b8794f041725e3b8747e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google-AI-Studio-1-768x339.jpg",
+    "bytes": 27058,
+    "sha256": "400bb6a6c82a7ce15eff50f2fd118a3cde833933ba235b4f0bc267adc87101aa"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google-AI-Studio-1.jpg",
+    "bytes": 44306,
+    "sha256": "955887bbb24f74f17a2f460385bad40dada2a08433239ee242c47711dba8181b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google-AI-Studio-1024x576.jpg",
+    "bytes": 14627,
+    "sha256": "385ab6886f7a84a3fa28e9c2315ea48032c8a26bf61e03cce876218ac0924a00"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google-AI-Studio-150x150.jpg",
+    "bytes": 3014,
+    "sha256": "5dbbbeab41e8b1d89b2e43cd7bc978d682800ce265a073196352a7899ccfea08"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google-AI-Studio-150x84.jpg",
+    "bytes": 1860,
+    "sha256": "26dafe42a461b8e6d22901192806e321d9884bbb07c4d4949f2d11aa2ed99daa"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google-AI-Studio-300x169.jpg",
+    "bytes": 3671,
+    "sha256": "295fd7a5c668f21034c0eae800a03a12ccc54b0e82eb7cd52a79f434277ce834"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google-AI-Studio-450x253.jpg",
+    "bytes": 5642,
+    "sha256": "9cff34355ace962ff4cbfef9b3af08ce286b1ae87777e478a3c18dabbd1d16ef"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google-AI-Studio-768x432.jpg",
+    "bytes": 10314,
+    "sha256": "5ebafb01757fb9a3a968c404fc5d797368606ffee6be8a8cf511561a195e2b50"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google-AI-Studio.jpg",
+    "bytes": 13946,
+    "sha256": "31ef2b9bf059633be458d40e18384b772c32c140c31324845733dc86a98fca6a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google-IO-1024x576.jpg",
+    "bytes": 39673,
+    "sha256": "fc5931a811ef630f7e7b27d5f1e17d675aa907c7e0d77596304a37d132cdab30"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google-IO-150x150.jpg",
+    "bytes": 3767,
+    "sha256": "0151f711d6a77a6c6d3ea2b7c10db1c50ab146ca06bc687f06aab41de8caf852"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google-IO-150x84.jpg",
+    "bytes": 2858,
+    "sha256": "0c542c08333e1679a49851e8daca40e6b144678cb97a4d3cc14ca513f1154b57"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google-IO-300x169.jpg",
+    "bytes": 7607,
+    "sha256": "8c42a2a93e36660a90dcee4070ba6769b9452c4c16e088bc33676ed73a8296c4"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google-IO-450x253.jpg",
+    "bytes": 13353,
+    "sha256": "071f3d7388b0b20a52537855ae79280cf1d37b8e228bcd362eae56ca71054cce"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google-IO-768x432.jpg",
+    "bytes": 27384,
+    "sha256": "44a509b5c50699c60f1c2cdcaad4eb951bc5a61348edced9efbec587916123c0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google-IO.jpg",
+    "bytes": 38327,
+    "sha256": "02f4ba9efdb6955da8a410267f18bc6307f0471ae805971eab39affb10677ac9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google_AI-1024x576.jpg",
+    "bytes": 19943,
+    "sha256": "ac0dfe2697a259c184fb55af02df947fe56da6a6fa33cf89c28f14fff96406b7"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google_AI-150x150.jpg",
+    "bytes": 2224,
+    "sha256": "546c0e021120617994a091f1ce2e457e43a7181fdd051498027950538605a9cf"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google_AI-150x84.jpg",
+    "bytes": 1694,
+    "sha256": "f568bb822a695992b3a7c37cb5aaddc08941180977ca6134c8c7c543bb8b3dc1"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google_AI-300x169.jpg",
+    "bytes": 4061,
+    "sha256": "ea5b667b50c2442527797c34027906cd522f7c81c8f1ce3efc3b0bbd63acc31c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google_AI-450x253.jpg",
+    "bytes": 6928,
+    "sha256": "27dcd434fcaab8775de9b5621b8312cc8f3fa1450e1189dab20355beb73e67c7"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google_AI-768x432.jpg",
+    "bytes": 13643,
+    "sha256": "9bb4296267863585cd7472bf626e8d0a471207902100a3601e1c19842802175b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Google_AI.jpg",
+    "bytes": 19334,
+    "sha256": "53eb1f5e1d6628d9cc35c5920a24700c9b67225bfa3eb1aedc20241db13ce077"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Govt-Job-Achive-150x150.jpg",
+    "bytes": 4659,
+    "sha256": "da6782d67d1ae6a9b9af81c3b77084bb4ac6e557a02d596426e18573614f07d1"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Govt-Job-Achive-150x168.jpg",
+    "bytes": 4817,
+    "sha256": "dbcda9f9d0afa509e8cd7ef907edf38bf63a73d52ed0be346dc223cdea46bcbc"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Govt-Job-Achive-268x300.jpg",
+    "bytes": 12973,
+    "sha256": "0111a4b38cf8d62e4882cfbbb620eb0c7b5fe630efe8e0ad8e90859fd15e53fe"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Govt-Job-Achive-450x504.jpg",
+    "bytes": 30265,
+    "sha256": "076d806f5288dc7c481cd355a927b97aae36c142a788ac7939585a5418d1939b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Govt-Job-Achive-768x861.jpg",
+    "bytes": 65279,
+    "sha256": "2e3cc27fd947aeb939237fbe09eedfed77bbf5e1310fbd9622c0fdb4c04fc13c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Govt-Job-Achive-914x1024.jpg",
+    "bytes": 81658,
+    "sha256": "ae7f7b58750e61401339ddaecb825812f0c3d383bd3db9e97a345c0f7eeb97a7"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Govt-Job-Achive.jpg",
+    "bytes": 91621,
+    "sha256": "9b1e8f13ed54f31dcd57b43d96c8181306ff5df8c331683c27a9e570d3b23241"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Govt-Job-Strategy-1024x576.jpg",
+    "bytes": 99840,
+    "sha256": "183f62cb0b60b752d92ca5b8754a2b652e33692826b6a3252eaeabe7dce720b0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Govt-Job-Strategy-150x150.jpg",
+    "bytes": 7204,
+    "sha256": "1d1147c5c08d8febfb8e6fe8cbcd62a3eb0aec94876f732caa250f82c805c552"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Govt-Job-Strategy-150x84.jpg",
+    "bytes": 5211,
+    "sha256": "118673f108b390ea85c6af78ac175fa24cb32ea25a23c260b093c18994286740"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Govt-Job-Strategy-300x169.jpg",
+    "bytes": 15707,
+    "sha256": "55215d868624bdb352bb93113ff57f3c6a996f6f049d8b9aca6bf9ea779fddc9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Govt-Job-Strategy-450x253.jpg",
+    "bytes": 29147,
+    "sha256": "1b6fe89a30baa32998e1c414341a63ccde5d162f7f056af2a4ee2285d5fcd656"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Govt-Job-Strategy-768x432.jpg",
+    "bytes": 64848,
+    "sha256": "de8dcb00a1f0ea7d3d2a6f9181881fab1d303882b4cbc07df9bf47a8529e17a9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Govt-Job-Strategy.jpg",
+    "bytes": 86422,
+    "sha256": "aeafc26541da64ce3ecca2f5c743cefd05637918a0f07c057e34821f086d7d38"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Govt-Jobs-1024x576.jpg",
+    "bytes": 109235,
+    "sha256": "e8f8eb74b44251dc45c7773a43acbf4dad5a27219e170b8149793eced502e056"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Govt-Jobs-150x150.jpg",
+    "bytes": 7470,
+    "sha256": "409b9a880a601f41b2c3e71a6ae5a62c57f2dbfc2319d0075e4c0d24f8009319"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Govt-Jobs-150x84.jpg",
+    "bytes": 5252,
+    "sha256": "74661cd22a83551a29f2be590ae5d3d07a2ddab016e3d40df10b1e6fd139f29a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Govt-Jobs-300x169.jpg",
+    "bytes": 16049,
+    "sha256": "80c96e5d483e39e16dc52c899c94b6ef3ce925a283fc9d5026fcb221acacaf25"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Govt-Jobs-450x253.jpg",
+    "bytes": 30599,
+    "sha256": "ebc91a598af345ceb6617d7787cee290b26d5d0d8b3bd04daa40edf4666022e0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Govt-Jobs-768x432.jpg",
+    "bytes": 70607,
+    "sha256": "bf12b9922a0aa01cbc1288eef0cd10a95807f8a1f6e8907670cd1560ce4b4194"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Govt-Jobs.jpg",
+    "bytes": 95876,
+    "sha256": "bff9314deede8081486db8283f33ec782336432778d7b933fef7d66f7486dbda"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/HSC-ICT-1024x576.jpg",
+    "bytes": 56869,
+    "sha256": "1e628faaec9ee83fcf565cd1448cf93bd61510dba922c85763a54126b9a05107"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/HSC-ICT-150x150.jpg",
+    "bytes": 6200,
+    "sha256": "42d88d22ba19fa7a4266a06fec347e578dfbda88575dbb6f6ebb5d96c056dd07"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/HSC-ICT-150x84.jpg",
+    "bytes": 3254,
+    "sha256": "4e00f2c8df4eb7ce324fbe80d5d9e25615bc0e8ac10c982a7b9e3835d1956f82"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/HSC-ICT-300x169.jpg",
+    "bytes": 9390,
+    "sha256": "57fdc0517cb361b67a3c7790275a0a5da97806213c0837bf3e104bbb8373e285"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/HSC-ICT-450x253.jpg",
+    "bytes": 17483,
+    "sha256": "ed4991a7188d29eca39be9ba0a709a06aa739e3c251654d01854f7ad79536d52"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/HSC-ICT-768x432.jpg",
+    "bytes": 37988,
+    "sha256": "d0ccf21bc7904f422588e6e795bf917b31c02b0446a53340bc918e97c1ac0fda"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/HSC-ICT.jpg",
+    "bytes": 45187,
+    "sha256": "09f93bae9a68625d7fc4f58439a620428833dcc2e3fb2c4ca1f4eed9b46b44ad"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Japanese-Secret-Study-Techn-1024x576.jpg",
+    "bytes": 51923,
+    "sha256": "649bc2194c97099bf66a6d77bb4c6301772cf225111d0b5f19ed8ed2654e1b8b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Japanese-Secret-Study-Techn-150x150.jpg",
+    "bytes": 4097,
+    "sha256": "d7b3171c51780e06f9f97a8f49534e8424c60359bcd8560088c4506f639d9a5a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Japanese-Secret-Study-Techn-150x84.jpg",
+    "bytes": 2705,
+    "sha256": "ea4b9101708027e19ea378451882ad65fded9122c6c417099e2c1e5fd7535c9f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Japanese-Secret-Study-Techn-300x169.jpg",
+    "bytes": 7855,
+    "sha256": "65c630a5f0f8c60bceb5e13148de707bb40741744c653817e506e1227e2004c2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Japanese-Secret-Study-Techn-450x253.jpg",
+    "bytes": 14821,
+    "sha256": "298c01f184a2df73271d443e194a4c6984ef83935689586981f489af7e9a0a90"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Japanese-Secret-Study-Techn-768x432.jpg",
+    "bytes": 33433,
+    "sha256": "8435563cd5ff362f6294bda96f3c46f5c3c34927c4bed905a030dfe44ed83ad3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Japanese-Secret-Study-Techn.jpg",
+    "bytes": 36978,
+    "sha256": "36616cb7a7b5017837917bd016aafa337d9afeed518853d70ee62c100a5c0600"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Khairul-Alam-128x128.jpg",
+    "bytes": 3825,
+    "sha256": "fab4de81021015aabeccbbe8142f3b60c8aba34d77e08f516218706ec89c6a93"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Khairul-Alam-150x150.jpg",
+    "bytes": 4849,
+    "sha256": "0a29a418e87be75fbdbedfac1c8532760f25582c234194c4d9132a5e1d47b93d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Khairul-Alam-190x190.jpg",
+    "bytes": 6646,
+    "sha256": "8266ddd0cece0c1daf7ecd0b7ee0fa709c3d558cca04e9ef3865f6687f9dfc73"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Khairul-Alam-192x192.jpg",
+    "bytes": 6595,
+    "sha256": "8c572f11d27e6dd6d5d2b15f805bbdeee5fda16fe4dd95114773c3999e6963f1"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Khairul-Alam-21x21.jpg",
+    "bytes": 562,
+    "sha256": "3a268925630a129aa1f817f4b6ffbdd871c7bd2e2013ed13a09fc670e053d5d4"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Khairul-Alam-24x24.jpg",
+    "bytes": 577,
+    "sha256": "f273fad960879a7deb08a4ed56b0f43d636427ff1b7415e67867df33add2b28b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Khairul-Alam-26x26.jpg",
+    "bytes": 658,
+    "sha256": "e951302a2ca2ca6362193db02a6aba94a026e35ee9ec56c23c67c269d3c05db8"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Khairul-Alam-300x300.jpg",
+    "bytes": 13224,
+    "sha256": "4381c8a9bee9ebd08a498bc4f3e6ba847c43b3ff45bfc474e944bf82a4824151"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Khairul-Alam-32x32.jpg",
+    "bytes": 698,
+    "sha256": "82a6646cdb0ce3a384f33d24e1294ccd5a489159eaf48f569fd94ec11b11c000"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Khairul-Alam-42x42.jpg",
+    "bytes": 1002,
+    "sha256": "4f0ab527e4805cdecbe8878fb60b2bc42c7b813983b143bcba35417ceaa0b005"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Khairul-Alam-450x450.jpg",
+    "bytes": 25148,
+    "sha256": "4a0218948b32873d663bbfec9269de153be057a1f3f9c99a26960dd447b8a95c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Khairul-Alam-48x48.jpg",
+    "bytes": 1092,
+    "sha256": "e2ea65613f93c92b0241418e00b6f6b0cd230902780149305add75b239c8bae8"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Khairul-Alam-52x52.jpg",
+    "bytes": 1298,
+    "sha256": "642dbcfcc73079df3f71dd2d009f2790640868b302813e59e0e6cf1a0e4d8af3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Khairul-Alam-64x64.jpg",
+    "bytes": 1536,
+    "sha256": "76e9497dc42fa8be061a747e254696b77954793f985ef18a5fddef4fddc0ce26"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Khairul-Alam-95x95.jpg",
+    "bytes": 2551,
+    "sha256": "b09b46fd8510be6966682a3409a682f0d705fe9085febbb29fabe1d6c278ea11"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Khairul-Alam-96x96.jpg",
+    "bytes": 2552,
+    "sha256": "550008937412459a717a71c7b7e5b257f0fe55e07ee6b2c5c364e7ced65087c5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Khairul-Alam.jpg",
+    "bytes": 19081,
+    "sha256": "96d89f15679bf3ef1bacc63b5e20b09f607aa6fa5e7e2c5ef02d21a29139e8ed"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Korean-Proverbs-1024x576.jpg",
+    "bytes": 134999,
+    "sha256": "305553c294412e68403284fb13807bf7255248cad4c2661004ceffef99b5fbe6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Korean-Proverbs-150x150.jpg",
+    "bytes": 8200,
+    "sha256": "59f464a411509ab649c5e219bbd39445dcf5d18f4c37c4f238b5fd13c66666b6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Korean-Proverbs-150x84.jpg",
+    "bytes": 5313,
+    "sha256": "39cd9aa4766639bda9a1a19459dbd646730f73372e1bdcc53a71ecab9c1b6258"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Korean-Proverbs-300x169.jpg",
+    "bytes": 16797,
+    "sha256": "52349d6e57e87dfe096688e86b3d77f925246fc5860c3ae66e49978c50ae00b6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Korean-Proverbs-450x253.jpg",
+    "bytes": 33086,
+    "sha256": "6fa41838a8cd51c6f95b95699a541f7e8c8f3515e78a994ef00f5fe736830ff1"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Korean-Proverbs-768x432.jpg",
+    "bytes": 82367,
+    "sha256": "7600a94e7099a462d7f19406c2d74380d380d95621f3953eaa95a8d06792a0c8"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Korean-Proverbs.jpg",
+    "bytes": 125106,
+    "sha256": "cf297c8aa171439a5a668fccaf4268367137935e6771ace6a02782505be682bc"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Kotha-for-Sawab-1024x576.jpg",
+    "bytes": 56549,
+    "sha256": "4758282038af39ad0ff7f98f905f7b88377a5ea6a82748648a374322e6957afd"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Kotha-for-Sawab-150x150.jpg",
+    "bytes": 5070,
+    "sha256": "fd26145c08e45e5eb8ab76ebe4f5698ab1b9fb533bd20ad7353c62ecd51af149"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Kotha-for-Sawab-150x84.jpg",
+    "bytes": 3413,
+    "sha256": "324014e8a549b7337b9916eb3aa154ce0742e98726a6258505e1547def8f449b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Kotha-for-Sawab-300x169.jpg",
+    "bytes": 9217,
+    "sha256": "062e650ba6aa28564b5308ddfbc2db5dcfbcd045fbbb166bb9c0bce078867620"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Kotha-for-Sawab-450x253.jpg",
+    "bytes": 16527,
+    "sha256": "bdd557e8f420c97d37c72a65950d2cf203d5e7e7ac7fffc44bf5b396b24762ad"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Kotha-for-Sawab-768x432.jpg",
+    "bytes": 36504,
+    "sha256": "2ee09b82dceaa0fd5be2dacab6af704f6a427bb8e95e9936175edb8d52b00dd3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Kotha-for-Sawab.jpg",
+    "bytes": 43678,
+    "sha256": "4c9e86ea9832ed54e0fb10332ad24073e3721f46f343c5d5155499414bf59c4c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Log-in-to-ChatGPT-1024x543.jpg",
+    "bytes": 34193,
+    "sha256": "e7a7edf22cb9566077ce2db68e23944c630b8c36eb820beaaf6543ab46b85626"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Log-in-to-ChatGPT-150x150.jpg",
+    "bytes": 2543,
+    "sha256": "f00962fd09e524ee58aeee423ab0554b83134108b8dc5e76613161f6cd559db4"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Log-in-to-ChatGPT-150x80.jpg",
+    "bytes": 1891,
+    "sha256": "fb5b8e8bf49f4e6670743cb7f3b13ea82431f206f40279bf24affb305f28f4f3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Log-in-to-ChatGPT-300x159.jpg",
+    "bytes": 4934,
+    "sha256": "a91421efd34f5928fd6e2c953e5a30f00a91242bb661aaff6a5e105b31d83bb0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Log-in-to-ChatGPT-450x239.jpg",
+    "bytes": 9695,
+    "sha256": "9f50223bb6a95bc1d6213f25b555e093068bf7eda2bc5e058e62db6d99374ebe"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Log-in-to-ChatGPT-768x407.jpg",
+    "bytes": 22409,
+    "sha256": "4e5c6af617a8556fe42791a8fef90ec303e499eaf6f69cf7c51ad25fc7b0b600"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Log-in-to-ChatGPT.jpg",
+    "bytes": 34477,
+    "sha256": "8af53eef6fa1b1d02a4ae43e9136f83e52d922d7caf2a0a04cad6e2eb5a58fe0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Make-Strong-Basic-1024x576.jpg",
+    "bytes": 65215,
+    "sha256": "24078517378312bdf8915135a87fb0a7e519bb6bc4a44f808fa7f28930eab2af"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Make-Strong-Basic-150x150.jpg",
+    "bytes": 5244,
+    "sha256": "94debb1dfc01ccc69d27541dbeadeab1a1afa7a3d4794556a750b50e029cc78c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Make-Strong-Basic-150x84.jpg",
+    "bytes": 3652,
+    "sha256": "a117c31f6154866ee44430f05f3c62687644f354aa9f6910232fa26925c8ff50"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Make-Strong-Basic-300x169.jpg",
+    "bytes": 10624,
+    "sha256": "3f3bb392febd7760b04e6df3917ccd08c99f05310969b7a2797eff6f85b35555"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Make-Strong-Basic-450x253.jpg",
+    "bytes": 19434,
+    "sha256": "b5ec0cef532033743d86b5d7afa1e3d5e0f48168b5a17c8012f71ffac72b1fb9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Make-Strong-Basic-768x432.jpg",
+    "bytes": 42594,
+    "sha256": "b2ed9968f85f8aa2f78fa1ff3917cb652a58687d858bf770ab11e222664d9f16"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Make-Strong-Basic.jpg",
+    "bytes": 50794,
+    "sha256": "036988a029a9d79e1bb99635739aa84936567bdbb816b1a7e2c113d29d486b48"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Medical-Admission-Test-Biol-1024x576.jpg",
+    "bytes": 110957,
+    "sha256": "14d9f88a7facef329ffc54d851d802b4688ca8995c82bece3d7d95c3aca23e66"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Medical-Admission-Test-Biol-150x150.jpg",
+    "bytes": 6529,
+    "sha256": "c79056c8649da013d5d62f102aee63da95401c3ce9c21109b284866c1ef8e045"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Medical-Admission-Test-Biol-150x84.jpg",
+    "bytes": 3954,
+    "sha256": "df72b89f4a36eeb1bdda301e3a44a927faf288ee35673b28271ba0e673537744"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Medical-Admission-Test-Biol-300x169.jpg",
+    "bytes": 12534,
+    "sha256": "92f14af58446f730fbc1965a840199bfe381d957c119a86d979778ca03d13f72"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Medical-Admission-Test-Biol-450x253.jpg",
+    "bytes": 25339,
+    "sha256": "4d36ac967e32cf82e9da95a4a927b9837ce657d1f4b546ad5f3cd60cc68cacf3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Medical-Admission-Test-Biol-768x432.jpg",
+    "bytes": 66815,
+    "sha256": "203e0572ad7e333d718953beaa1de9c0fa2a3c2a2b0e81082a16e2e6a46c68ea"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Medical-Admission-Test-Biol.jpg",
+    "bytes": 98683,
+    "sha256": "5c176a33d82b0b576e99603b75850dc85cdea30a8ff5363767a9fe35645cb676"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Medical-Assistant-1024x576.jpg",
+    "bytes": 40819,
+    "sha256": "1c8782b4f62ac2efa412288d5da882b0d04e05049fcc55806a8b22e8532ab9f5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Medical-Assistant-150x150.jpg",
+    "bytes": 4387,
+    "sha256": "3bf84bcb988a1843789231491df37c7cca2672de78ec6eeae6d90953e3a9c27a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Medical-Assistant-150x84.jpg",
+    "bytes": 2972,
+    "sha256": "d3267cdf42cc2b48783ec437dfd16c929aa301906f7d6210bc4a5bb6007015d9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Medical-Assistant-300x169.jpg",
+    "bytes": 7282,
+    "sha256": "a48bcc6f4632068a6109ef22d1e50561afb2c65f64062612dea0adbfac304459"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Medical-Assistant-450x253.jpg",
+    "bytes": 12745,
+    "sha256": "d3655c3bde3edd9f70959612bb9b6f85ac32aed4441e02737756fe4b29fcf7eb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Medical-Assistant-768x432.jpg",
+    "bytes": 27153,
+    "sha256": "c8240e17fc539170ae864f2333b0f21b30297ae91fa396b3b0cda53b08fa9226"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Medical-Assistant.jpg",
+    "bytes": 33610,
+    "sha256": "89ab531aae301704bcbc85ad1890f22e55fdf2d1baa6123919531b6ca9d3a9b5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Mental-Strenght-1024x853.jpg",
+    "bytes": 60854,
+    "sha256": "3e0fb8238be098c77edee96e314a33ba097d1eb94bc75428f9f7416552c9a289"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Mental-Strenght-150x125.jpg",
+    "bytes": 4077,
+    "sha256": "49d1e82a830edd920693040e1b824d1f18380d8e7434bde7c4e12ee19887ec8e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Mental-Strenght-150x150.jpg",
+    "bytes": 4897,
+    "sha256": "a8cbdd842b154f72b34da2749c5e1ae2655291d2eb40c4a6fd1640b0aecda4ca"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Mental-Strenght-300x250.jpg",
+    "bytes": 11442,
+    "sha256": "38a669a5747dd56d98e7813b10a5889aef02cd41aa26576c61f86951229e81cb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Mental-Strenght-450x375.jpg",
+    "bytes": 19969,
+    "sha256": "a4c4fd9db44694767da93d71f2c349ea24cb614ca5cf1679f62530792c6e5ba0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Mental-Strenght-768x640.jpg",
+    "bytes": 41306,
+    "sha256": "23e04a00a42385b24864cca7fb24d6dc32902deaa86c36e39fab1fc8257cdf9e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Mental-Strenght.jpg",
+    "bytes": 59014,
+    "sha256": "71cc9779167b3aeff5ba5f12ca0093ad789ba4d28de6a2bbe3fc9cb148c43db2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Metal-Color-Memory-1024x660.jpg",
+    "bytes": 57919,
+    "sha256": "6e97ba5a6e89099eba64c1b9d572f66faf6887b21d94c87da4539e99cde6fa84"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Metal-Color-Memory-150x150.jpg",
+    "bytes": 4793,
+    "sha256": "719dbad0230a2bb4a3392351794820f394a8565884cd0dd1efa1b4ca595a539b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Metal-Color-Memory-150x97.jpg",
+    "bytes": 3068,
+    "sha256": "4b14bb0d259052b252e6f8a4e54aa2aae05deba6c9960153e320f986b5882514"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Metal-Color-Memory-300x194.jpg",
+    "bytes": 9538,
+    "sha256": "38281567f190823a2cfeb79c369f1615a5142ea6d53a43d5a386b3fde10d5448"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Metal-Color-Memory-450x290.jpg",
+    "bytes": 17389,
+    "sha256": "ebbacc7552229f6a8bb58e7a45a013db15ac1a386c25570f7e60e154ef5d4f83"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Metal-Color-Memory-768x495.jpg",
+    "bytes": 38864,
+    "sha256": "5e4ad19a797019822093d4507eb0aa8f258b0ca3c726443354113cc5c540379d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Metal-Color-Memory.jpg",
+    "bytes": 60229,
+    "sha256": "06cdb448816d42100e6e883cd79985501fb9109447035fcfe866465ef5c99181"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Mirroing-Effect-1024x597.jpg",
+    "bytes": 75822,
+    "sha256": "546a0c0cb34be71ef21ff6249705ef9e3aca59622f51b35425f3edbf9879667a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Mirroing-Effect-150x150.jpg",
+    "bytes": 6285,
+    "sha256": "20dd482e7a401733cc81e103b5ba771bfbbbe9e0590e6ad8780c406081d17002"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Mirroing-Effect-150x88.jpg",
+    "bytes": 4472,
+    "sha256": "b135fd1a63405efab4757d91168567d3a7708e0e8551061cc5582c548b3dcdde"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Mirroing-Effect-300x175.jpg",
+    "bytes": 12165,
+    "sha256": "4cea6935b2c2b782a92c72fdab40a242b905bb682e59cb88ebe74b623f3a8ab3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Mirroing-Effect-450x263.jpg",
+    "bytes": 22252,
+    "sha256": "b01b69b5ecec61d6cb024d4a4b17caabf4c251336312fb3440cde319119d1756"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Mirroing-Effect-768x448.jpg",
+    "bytes": 48863,
+    "sha256": "cb35eab5f19036a0a1e994a0dbc8e6303f127d9a22730b7925d95824a1306bae"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Mirroing-Effect.jpg",
+    "bytes": 57888,
+    "sha256": "90d89fbba4949ac69fb31ba769f4c6476795c332da791c7b126cc5660eedf1ec"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Must-Have-Computer-Skills-1024x576.jpg",
+    "bytes": 79023,
+    "sha256": "a9c3db3be7510b30a5affceab61a27e36eaeeb4dc671b5c71016d904636ba8ac"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Must-Have-Computer-Skills-150x150.jpg",
+    "bytes": 6951,
+    "sha256": "edeaebe0d2479cad50e806b9b30c68746d6fab0900ee46f005801eea8a4ff159"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Must-Have-Computer-Skills-150x84.jpg",
+    "bytes": 4789,
+    "sha256": "f792539a6ba87b55736d1bde935bd92ce40bc17eb1f997889798f956ddc69c65"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Must-Have-Computer-Skills-300x169.jpg",
+    "bytes": 13520,
+    "sha256": "c9b51e2ad5552e72c74b623c18a997b27d35389b2d395b303e0cd09d2a24279d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Must-Have-Computer-Skills-450x253.jpg",
+    "bytes": 24345,
+    "sha256": "fae2ac210571f10c8927dd9301fa3fb42b4b00fc21866f8f7dbfa395bfbf8945"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Must-Have-Computer-Skills-768x432.jpg",
+    "bytes": 52765,
+    "sha256": "464d48a80da90772ae535efa68d7b5e3bf6a248825c567d53e4fc992e2623371"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Must-Have-Computer-Skills.jpg",
+    "bytes": 66900,
+    "sha256": "add3e32f457218f973b9dcb96f5101c66c6b501cb8b0a242ba0411ebdb7e71a0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Networking-1024x576.jpg",
+    "bytes": 58037,
+    "sha256": "2ca89468bf1aeb56c1bf291f5e58558722368021a69fce237f7bf032a28581df"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Networking-150x150.jpg",
+    "bytes": 4800,
+    "sha256": "eeda3f6394130ccf45ab9b40ca1ce1d8a965c7ae262c2767cbf2f49cc0de04c9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Networking-150x84.jpg",
+    "bytes": 3445,
+    "sha256": "1fc35a475eab3556d7c2aba24c5536c5263591f215afa9c35c1c0704e159e7a9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Networking-300x169.jpg",
+    "bytes": 10056,
+    "sha256": "4cc5aa5a182e28504b74ca9bc9e118d9c081b05f40000276b6a939a8e0790316"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Networking-450x253.jpg",
+    "bytes": 18101,
+    "sha256": "44f35e5052db39422c58191ac34b97f8122004b5713116401ec1809d95fd4a5f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Networking-768x432.jpg",
+    "bytes": 38480,
+    "sha256": "9b3dc7d91e3d96a6081d284a741892893f72f4e028b078c784d2e9b56dd0731b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Networking.jpg",
+    "bytes": 41331,
+    "sha256": "f9cae2c59b22303593e6fe16f0fd4415711622d0454ddb53eca62b9ccdc78b19"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Notion-AI-1024x514.jpg",
+    "bytes": 44008,
+    "sha256": "c62313dec3add13b0f44ee6d37d513fb595a968c63d3bc5a6da073a553168fcd"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Notion-AI-150x150.jpg",
+    "bytes": 5681,
+    "sha256": "e9cefb9aa01f40a55c9d0b4d34721848d6048466daa0dd89c27cb318b3d77afb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Notion-AI-150x75.jpg",
+    "bytes": 2420,
+    "sha256": "41f861f1ce5f0b2c6509c8ad427f003ef32219bd4eb8592bfe4d907be1211789"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Notion-AI-300x151.jpg",
+    "bytes": 6829,
+    "sha256": "2e876cb91dcd3cdfd6c84dea973cea1afcf2d435c3604c77d0a9f23fa293629e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Notion-AI-450x226.jpg",
+    "bytes": 12982,
+    "sha256": "afdf7434ee370d49d8407e221fc2ede730ff847e43828b8a41a71ff26e057f49"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Notion-AI-768x385.jpg",
+    "bytes": 28667,
+    "sha256": "99b21088204dd4c39f5aa94de3439e14d52cc80acbb2169724583a00182d8d55"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Notion-AI.jpg",
+    "bytes": 45046,
+    "sha256": "9661bb8f1465fe29eb94919aa93622468db9ab7c267887fe6adc6fabbcb05bb5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Number-systems-1024x576.jpg",
+    "bytes": 35826,
+    "sha256": "c43c67bad7021f301438d0349de0dafac048fb2a67e8732476fa9ee10d7145db"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Number-systems-150x150.jpg",
+    "bytes": 4612,
+    "sha256": "d4ad92f9ecbcec228de0d2bafbd2e4a5bbb43206781bcd5b08098259d2a34689"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Number-systems-150x84.jpg",
+    "bytes": 2914,
+    "sha256": "df43293faf78b46603d9cc729d73786e08107d7abdeb97f6a992e7d2627b0690"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Number-systems-300x169.jpg",
+    "bytes": 7152,
+    "sha256": "3012f8f55e817c84dca34e82cad88247f76b2dbea13cde2a491186db81c9891a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Number-systems-450x253.jpg",
+    "bytes": 12266,
+    "sha256": "2354229b3d8c6ee676dc39b78f21fd65d7bca61f9440b44d910a8f5cdba3ba45"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Number-systems-768x432.jpg",
+    "bytes": 24624,
+    "sha256": "b520af090eaeba1621de05837375eba9405e982c987c3bd91769b08da5d74b8d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Number-systems.jpg",
+    "bytes": 33536,
+    "sha256": "903eea4d80382d08a3ba140b5bd2916c98d75538fe08c21553d48196be389590"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Nursing-Admission-Preparati-1024x576.jpg",
+    "bytes": 63231,
+    "sha256": "7b00a4ccd27ab762cd868cf8f88c1bb367dea2a92c55aac048880b6194c7f5b5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Nursing-Admission-Preparati-150x150.jpg",
+    "bytes": 6183,
+    "sha256": "5049f593c5912fbade00b9b1d37c97573def580052b151a530c70e12aece48ad"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Nursing-Admission-Preparati-150x84.jpg",
+    "bytes": 3714,
+    "sha256": "7ff567a17272a820a272ae1bdee00f41564fb6325b9d47b777d44208a4a96d97"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Nursing-Admission-Preparati-300x169.jpg",
+    "bytes": 10164,
+    "sha256": "2bdab4d47dacb559a5fff75d9ba996950f3697dae2bd9f92f935170875b046b6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Nursing-Admission-Preparati-450x253.jpg",
+    "bytes": 18552,
+    "sha256": "43dca4409eaf8b407ecf0783847058638bfe6265aa120ffdc6a846794ade83d3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Nursing-Admission-Preparati-768x432.jpg",
+    "bytes": 41197,
+    "sha256": "4b9bc4e09503df4e2251de6f01769b9de04a320b2746e54ebe153365b1c8179e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Nursing-Admission-Preparati.jpg",
+    "bytes": 50403,
+    "sha256": "28a99f912a7355c57604de77483a3533af8b3765717a6845615c2bfb779bd17d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Nursing-Students-1024x576.jpg",
+    "bytes": 93615,
+    "sha256": "b24f79f4ef5e46ae6fae4d409a9e3d60a7d48f192f31c4565068b2212015e2cf"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Nursing-Students-150x150.jpg",
+    "bytes": 6643,
+    "sha256": "40caafd15e046f2adace2d2e821832b07713511efe66698ccd03a8c6948ee566"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Nursing-Students-150x84.jpg",
+    "bytes": 4622,
+    "sha256": "49333a3eae0cabe99c7325b8ee441bd09dc48685ed25223d3e5bff2ae87fc99e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Nursing-Students-300x169.jpg",
+    "bytes": 13882,
+    "sha256": "344cdfe3ab63e424a0d5b08e5d3947010bd5c1ae4ce966bdfc3ca515652dea4a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Nursing-Students-450x253.jpg",
+    "bytes": 26151,
+    "sha256": "50d8dfb53d7226e043795852633805439366fec197396901afc0bad37e63ffeb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Nursing-Students-768x432.jpg",
+    "bytes": 60535,
+    "sha256": "336e51116697928e03e0566b530f55d5feacd28daafab188feb0c0dc6af2805a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Nursing-Students.jpg",
+    "bytes": 77041,
+    "sha256": "d91f4737e7e9df1974f1ca5b4871b2cfd87994e3207b30ae43c4a7a66b57b190"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Online-Earning-Skills-for-S-1024x576.jpg",
+    "bytes": 78620,
+    "sha256": "0e330ef31b99c68647ec242b0dc2cfc88d52340e702c72a36b119823b8213fee"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Online-Earning-Skills-for-S-150x150.jpg",
+    "bytes": 6765,
+    "sha256": "a3b224ed33ed0eb5f320dedcdffdc277047011ba21779361433fda6b699bf793"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Online-Earning-Skills-for-S-150x84.jpg",
+    "bytes": 3810,
+    "sha256": "d1b990faddf969f82389915487f2bdeefe2f81776e8810ba647d991a2846ba5a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Online-Earning-Skills-for-S-300x169.jpg",
+    "bytes": 10721,
+    "sha256": "c33bfe67ca7f6f178b60401321e93306564731c67862e965d832a0b34334012d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Online-Earning-Skills-for-S-450x253.jpg",
+    "bytes": 20393,
+    "sha256": "21cdc677d8c8637cb06fcc6cec46eb724ee9269f2bbf838666a6bb9ed039e81f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Online-Earning-Skills-for-S-768x432.jpg",
+    "bytes": 48830,
+    "sha256": "d22eff31eb4d9289629e566aede2c31b813f74d927ff57480de590a4aedaee5b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Online-Earning-Skills-for-S.jpg",
+    "bytes": 72933,
+    "sha256": "64de7666119222582591c1d9dba74f66e181d5b29638e017cccb41d0f0bb7bca"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Other-peoples-rice-cakes-a-1024x597.jpg",
+    "bytes": 90034,
+    "sha256": "4d8f706d83a7d1a36a88ff76d59781a3f4920ae2aa43d8433a27e0411b3f2b43"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Other-peoples-rice-cakes-a-150x150.jpg",
+    "bytes": 6526,
+    "sha256": "d5c39ba2d23983c96c7b6abbdf8cee29a2b102b8f597b7bbf356e3580a6d1b93"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Other-peoples-rice-cakes-a-150x88.jpg",
+    "bytes": 4836,
+    "sha256": "d7755480e7c4b5442ccc515a9340018c1ea4f9a3269c966173c02360516c66fb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Other-peoples-rice-cakes-a-300x175.jpg",
+    "bytes": 14315,
+    "sha256": "cefc6d54c79e6bbfdf302070a767dbc8824407b93d2c33750b15ff25a161bf85"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Other-peoples-rice-cakes-a-450x263.jpg",
+    "bytes": 27040,
+    "sha256": "d0373027a6622c17c3d0ddeb257741d0dfe2fb5d91868be90d7f696174e8c1ba"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Other-peoples-rice-cakes-a-768x448.jpg",
+    "bytes": 58799,
+    "sha256": "97719c4741266d49afb7f81e0856f01b16002791d26df3b1bf04ec4ff86f8fa7"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Other-peoples-rice-cakes-a.jpg",
+    "bytes": 71692,
+    "sha256": "42c4530f998ce7fc78a84e5cb20a733c436dbde7ebcf87d4425e1f5b3a93d018"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/PSC-1024x576.jpg",
+    "bytes": 76093,
+    "sha256": "daa5d253995365b9220972092db30a1c824f9c65278b45e39c6572c2febf9d55"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/PSC-150x150.jpg",
+    "bytes": 6376,
+    "sha256": "67391d9bbf995bde9f610d63bb4c6a65f54cd6291329c18b7b0f58f5f4efb5f2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/PSC-150x84.jpg",
+    "bytes": 4234,
+    "sha256": "537b72381251f2c47b2029576a8e8575fc0fcd36569ad509f8d19e7d556f343a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/PSC-300x169.jpg",
+    "bytes": 12058,
+    "sha256": "07a7410946ccbd4e2b65f1aafa312d83a21c865ee38f0d76e43ea8f8a25c7117"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/PSC-450x253.jpg",
+    "bytes": 22178,
+    "sha256": "147527f4f9171ec39cb3bbdc48cf5808067a62bb851530fc626acd3ba0307791"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/PSC-768x432.jpg",
+    "bytes": 49378,
+    "sha256": "fe30ca35caf0ac92a83c673977353415350026c13a30476d3afe8727576e3936"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/PSC.jpg",
+    "bytes": 60002,
+    "sha256": "33d3d0445f6d355e93e06055c6ad61d51010db101854635c17c30f2284797d1e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Panda-Eating-Bamboo-1024x576.webp",
+    "bytes": 104000,
+    "sha256": "464f9bc649043fb159a1ed14e356f7d428c3b1fc4c00487633a6c6e9575b7468"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Panda-Eating-Bamboo-150x150.webp",
+    "bytes": 13900,
+    "sha256": "5c9a4d3904890abe6c5ba8d9323f5c516c616c624d948ce9cf34cf067fdc2126"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Panda-Eating-Bamboo-150x84.webp",
+    "bytes": 11944,
+    "sha256": "10973d40ae1a55e11591ba2be650150b59af6bb645346b22bd9175247f54acff"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Panda-Eating-Bamboo-300x169.webp",
+    "bytes": 22724,
+    "sha256": "8bc063f1f43604452e9fa3e7dabe296a5e5a494f26c5b29df91fd29794be2107"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Panda-Eating-Bamboo-450x253.webp",
+    "bytes": 36450,
+    "sha256": "4c58b5fe5173b84fa438bfe201ce1daedea08cd6508243e770c515f150a04131"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Panda-Eating-Bamboo-768x432.webp",
+    "bytes": 72006,
+    "sha256": "857f6b8df7b6f7651b2dd8509b8b2751c21831ddc7af4b94be1580f357bd038c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Panda-Eating-Bamboo.webp",
+    "bytes": 97478,
+    "sha256": "20d955433d9886791ae2f73f615c5df069522a377b521c06635529dfe5daa548"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Path-to-University-Success-1024x576.jpg",
+    "bytes": 45864,
+    "sha256": "08d9e7bad636f5df79d553056ed4971b6293d5992f82eb72759aeec088f54847"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Path-to-University-Success-150x150.jpg",
+    "bytes": 5328,
+    "sha256": "8e82711806ecd25c424e8b475d65262a81fca91ff241fdd378ad6708c5585083"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Path-to-University-Success-150x84.jpg",
+    "bytes": 3275,
+    "sha256": "aa01395b11265ffd1ff1298382858198563faae7c01002f62a823da0cc398358"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Path-to-University-Success-300x169.jpg",
+    "bytes": 8882,
+    "sha256": "7d0951384879867c01eb22da0c14eec35932ec7d884f94dd95e42d515cccee3e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Path-to-University-Success-450x253.jpg",
+    "bytes": 15580,
+    "sha256": "5a87c5b9d8c764725f9e8e53f94545b5addaaf544b3a12f5c3f548057ef5a441"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Path-to-University-Success-768x432.jpg",
+    "bytes": 32439,
+    "sha256": "42495940682c22b998be2b5c1b725f3ba1127f4b5eab8d8fd57d10269150eb92"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Path-to-University-Success.jpg",
+    "bytes": 43472,
+    "sha256": "18b1e2e4e52da33c1c7007445345b29a187ac6924407ae94817caf57ae060ee5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Pub-Uni-1024x576.jpg",
+    "bytes": 116372,
+    "sha256": "549e4fe9a8ea74b1aa4b0e1fce05fa1b0b26c53346dd97f2c8826f99d294af83"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Pub-Uni-150x150.jpg",
+    "bytes": 6861,
+    "sha256": "a6d1f3cf4952af86cd3705b07d5e54ede7ce39c86e1a644a1b15ccee255e384d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Pub-Uni-150x84.jpg",
+    "bytes": 4675,
+    "sha256": "918f3d0a3020668cac5135edbf7ec69ba55c7a08882477b2a0716e950c75f118"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Pub-Uni-300x169.jpg",
+    "bytes": 14896,
+    "sha256": "4e682b933637d2bd37dee9f2c222047b71c435da179d992f4e18fb1afce21461"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Pub-Uni-450x253.jpg",
+    "bytes": 29493,
+    "sha256": "c58978a484f5741bbafad3dc9cadd3624ac183e4e254a4f927535ae2fad5938c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Pub-Uni-768x432.jpg",
+    "bytes": 72492,
+    "sha256": "74e87e4b789e4facedad3147164c0461acc6b09cd890248ca13c7ca8f7fc1c97"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Pub-Uni.jpg",
+    "bytes": 108446,
+    "sha256": "618e28a59b5cc296d3507ce8e3caf574bb313232009549c7d65094af532bb560"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Reset-Brains-Baseline-1024x576.jpg",
+    "bytes": 33353,
+    "sha256": "1d4f1b8be23d903ceef76e419592c058c8625d11b831aa275cd213ec48fb5850"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Reset-Brains-Baseline-150x150.jpg",
+    "bytes": 3355,
+    "sha256": "1773944db08a150520ce529412d9b520572bd2c5a85c4d176e226ad721bf6d28"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Reset-Brains-Baseline-150x84.jpg",
+    "bytes": 2225,
+    "sha256": "b2937496ddd711ab3975839a8979f6f019716d1bf3a759f42e0ca7c804d4b5b1"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Reset-Brains-Baseline-300x169.jpg",
+    "bytes": 5850,
+    "sha256": "7b854b343a7395fc6ab9ffaa56c020af79ff85b9aaabac5be69592b6a3a5d360"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Reset-Brains-Baseline-450x253.jpg",
+    "bytes": 10896,
+    "sha256": "1c2dae73eddc4526c24202ee1c863e1dddcbc6057230b7e7ed8df8b5fddf7693"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Reset-Brains-Baseline-768x432.jpg",
+    "bytes": 22994,
+    "sha256": "ff1897e709adb2028d753628b381a627e4fbebacb0a5a6d049c98c72d13d956f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Reset-Brains-Baseline.jpg",
+    "bytes": 32325,
+    "sha256": "173773f189e267e860cda5072ec5fca21cbf488901f5b34a7de5acb10253d2e7"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Results-from-faith-1024x853.jpg",
+    "bytes": 139089,
+    "sha256": "96cf5c6850ee3cb901de279bf7381bf183d362b55b062b73dfe71f3506e3eea9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Results-from-faith-150x125.jpg",
+    "bytes": 5446,
+    "sha256": "d093cee688826b19490d02049508ee48dc285913aa6c59e221f1e6d9597101e3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Results-from-faith-150x150.jpg",
+    "bytes": 7082,
+    "sha256": "ec9535bfc131c8f8b7aefb17f03c7afa7300be5c2a9e9a270cb37cbbbfbd3391"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Results-from-faith-300x250.jpg",
+    "bytes": 17913,
+    "sha256": "bbc53eac153c529fe98cbb00bf6bcca5f18b96979e97914aff103e4b4e62d269"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Results-from-faith-450x375.jpg",
+    "bytes": 35979,
+    "sha256": "099bfd6d9c0b8b8ac9613f7df93ae9536c550557528d62e4c4643a799a2a77b0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Results-from-faith-768x640.jpg",
+    "bytes": 88224,
+    "sha256": "c8821234374382459b5f7a66d26dc1990d4c96912bb76151c8607fbdb3ec70ab"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Results-from-faith.jpg",
+    "bytes": 116820,
+    "sha256": "092cb542e441076aa9e25d612ac512be8bfed5e6ee02411a7427539b11a048c5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Shikha-Exam-1024x640.jpg",
+    "bytes": 53241,
+    "sha256": "671428bec92d24652a0cc327d3d8dc9fa28ad27b965540d3f72ec98aade3003f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Shikha-Exam-150x150.jpg",
+    "bytes": 5546,
+    "sha256": "8bbc5d611f1c9655e434592db3de994a6da09a6c5ed111d5f4742a2d04d2e432"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Shikha-Exam-150x94.jpg",
+    "bytes": 3733,
+    "sha256": "128ba6cde4d8465a3a27107cc7682ae3af7c6d1222c168f951288d24b17cbe07"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Shikha-Exam-300x188.jpg",
+    "bytes": 10493,
+    "sha256": "45c2701e9270c46fe489112a2da2710d0eac7a99fee9bfa8b6b88803ced850cd"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Shikha-Exam-450x281.jpg",
+    "bytes": 18767,
+    "sha256": "282c3516cc12d2bfa9585f53beed7cbda2a47a194f35f86fa3d0f325ccd73ad1"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Shikha-Exam-768x480.jpg",
+    "bytes": 36261,
+    "sha256": "3a5cdcda3e12170055d8f62be6d8c805be699ea2387b3b43b05397a211563e35"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Shikha-Exam.jpg",
+    "bytes": 44961,
+    "sha256": "1bbaabfe6d9e95afba20bc7fc36785b9a42e79ef53b54a6ccc385c32faeb071a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Skilled-Student-1024x576.jpg",
+    "bytes": 81771,
+    "sha256": "ea15dda91b5f484c313d053415da8efa24bf6eb4ceed0ddc5ae08b1eb0eb532f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Skilled-Student-150x150.jpg",
+    "bytes": 6238,
+    "sha256": "0ca86c7630e7526fb50669c31cc717bdab79e446d0bb1fd39ba503882765ef33"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Skilled-Student-150x84.jpg",
+    "bytes": 4267,
+    "sha256": "76aa2233f78557c796ae97a3979fe4d6643960075503487f86b75d4a7156f393"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Skilled-Student-300x169.jpg",
+    "bytes": 12513,
+    "sha256": "8bb858360f2690f389714bd4cb8c95b4758d96022ea8fa141938a971f0b91819"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Skilled-Student-450x253.jpg",
+    "bytes": 23308,
+    "sha256": "d290eea08400ab8a4696e2b9933ab89c25d3c075918924c6e29dcbda7a7f0223"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Skilled-Student-768x432.jpg",
+    "bytes": 52859,
+    "sha256": "28e3fb77b379ddef899f8c586a1a16a765fdb94465ecd2dec72602831717a21f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Skilled-Student.jpg",
+    "bytes": 64444,
+    "sha256": "3ef20ae1d372b4de49d64121dad8b66ec2df8193a9691a476a97c01a73a52239"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Sleep-necessary-for-academi-1024x576.jpg",
+    "bytes": 80179,
+    "sha256": "a55db32b0b5969dda457f83b4190eba784f09172c9cfdc5d4093b1c934634339"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Sleep-necessary-for-academi-150x150.jpg",
+    "bytes": 5526,
+    "sha256": "0412d84ee12df2057d63c6a9853f3a818246a95618d3ffc25244fc3a08e8d091"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Sleep-necessary-for-academi-150x84.jpg",
+    "bytes": 3962,
+    "sha256": "b75f092d7803eff08f17e524d758a2ef58c0055553ffb6cded3d4a85127cb27d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Sleep-necessary-for-academi-300x169.jpg",
+    "bytes": 11377,
+    "sha256": "62757af93f9ca21810064fe009710ed2cedaffa23b791f6b013cbc9e7358f709"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Sleep-necessary-for-academi-450x253.jpg",
+    "bytes": 21527,
+    "sha256": "26bb22071d656600dc0c6393cb4edaf2a317257cfec84bfff3b267fd4dce745e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Sleep-necessary-for-academi-768x432.jpg",
+    "bytes": 50729,
+    "sha256": "02659c1a12453b60bfaba07b9ca76e1b3a2764413d07d1c8ed82ca6f8ad3dadc"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Sleep-necessary-for-academi.jpg",
+    "bytes": 63536,
+    "sha256": "04712ea2957fed7ddf501d4b659b334a4e2ddede1241c7d99f08f508e29f35bc"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Smallpox-epidemic-1024x576.jpg",
+    "bytes": 53486,
+    "sha256": "a4d912dc6e181756d84b61ac7feba6df07df2de75aabe1c4206dc350ad64a8b9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Smallpox-epidemic-150x150.jpg",
+    "bytes": 4452,
+    "sha256": "ade5eaf070b3df33e2d1207a873d1d410306db983ea261f90cee4a476ac1ed43"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Smallpox-epidemic-150x84.jpg",
+    "bytes": 2793,
+    "sha256": "f94c953e6584a92efba7381c6d3d2920ba5d6be0573d7ae9f0886d57e04f48ba"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Smallpox-epidemic-300x169.jpg",
+    "bytes": 7837,
+    "sha256": "4ce8f85a9e999ef4d6dd4c9ed3f5e280b688ff5618ad0cdeb8ba8be066393f21"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Smallpox-epidemic-450x253.jpg",
+    "bytes": 15126,
+    "sha256": "07173aabbc462d84fbc9521c8494c1e989b06fc338bfc4fab53dbc53c7181049"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Smallpox-epidemic-768x432.jpg",
+    "bytes": 35035,
+    "sha256": "9f4d4de089af8bb3678f375c5dc8d6b37c1c726c057b4bc2c676b475841fc680"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Smallpox-epidemic.jpg",
+    "bytes": 38166,
+    "sha256": "8cc6b3f684d7a6cdd4f1800dfa1cd6e028caf4fee1e2eac8f5f0ce959f9b2da7"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Snake-and-Antivenom-1024x576.jpg",
+    "bytes": 64559,
+    "sha256": "46b6958df107fa2d66655c5d8fa9d5c50b975805349d36e5a5178ed9f0091d23"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Snake-and-Antivenom-150x150.jpg",
+    "bytes": 5151,
+    "sha256": "437b5ba17bf472c68655d4e7ace912d8c5f59b38ad8ae9fcb64040a593927880"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Snake-and-Antivenom-150x84.jpg",
+    "bytes": 3478,
+    "sha256": "f4dea5805db983615b8431140194a6d8bb577b60445f83b61d604366a12597ec"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Snake-and-Antivenom-300x169.jpg",
+    "bytes": 9479,
+    "sha256": "4ac9d54506bcdc18e02dfea2bbe6dc95f23841a06a6476dcabf0df2577a7d649"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Snake-and-Antivenom-450x253.jpg",
+    "bytes": 17713,
+    "sha256": "1e7f7adbb26d8f5fbae04f7b8c35dccffd37349ac351e9e0d84c136df53888f1"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Snake-and-Antivenom-768x432.jpg",
+    "bytes": 41277,
+    "sha256": "847af2965f3b4a585655a2d381276ec482f1deb8cd3593778435ef23ca2e998d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Snake-and-Antivenom.jpg",
+    "bytes": 45368,
+    "sha256": "15b89609699ac8875e23b66d6a4bdbe663c9616c9abb373f27bc886ed4f4b475"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Social-Media-Manager-1024x853.jpg",
+    "bytes": 107009,
+    "sha256": "62501c55ba0cd77579619da9a58c17e313619c82d87a0b110b65c2668e71aa1f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Social-Media-Manager-150x125.jpg",
+    "bytes": 5936,
+    "sha256": "9af9fe29232fedf3040bbf3419cd85b8d887bd3f4223f9c69bb9c5e321f7d6bb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Social-Media-Manager-150x150.jpg",
+    "bytes": 6599,
+    "sha256": "966a2303bf027ea09e6cbad54ad72086b612bc76f0f479bd0dff52fd209af9c9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Social-Media-Manager-300x250.jpg",
+    "bytes": 16558,
+    "sha256": "471af4ba5b2d75fb842815a9197895a8e5654e2e3133a7788ba0ab48dea4be8d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Social-Media-Manager-450x375.jpg",
+    "bytes": 30208,
+    "sha256": "94152a13bdc36154e14366aac20ec7c1818d5a5c8f6e7bb5ed6e4c80afa37ec7"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Social-Media-Manager-768x640.jpg",
+    "bytes": 68208,
+    "sha256": "cdf37f9c95edb9a5a3965620a6f2f0175e5c23ede386f4196cdae51c3c4a543b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Social-Media-Manager.jpg",
+    "bytes": 87256,
+    "sha256": "72da6a4d51dcc37535a0c65452ba1e0e835588a870e201320c41c18b7e501e85"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Social-Skills-for-Home-Even-1024x576.jpg",
+    "bytes": 92617,
+    "sha256": "dbbdd82cf66b4c97f373d957b61f376482c3cd21376a9e9a4e088a7b0af8b9b9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Social-Skills-for-Home-Even-150x150.jpg",
+    "bytes": 7364,
+    "sha256": "43fe2ecccfce0c6d6bb6f962a0b635beafbe6178e4c00300a54fcb50e8cdffa1"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Social-Skills-for-Home-Even-150x84.jpg",
+    "bytes": 5208,
+    "sha256": "3e2d71158de5dc74e70fe86fdd1d360405e93e595b5ca21cdf6ddd0950f39176"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Social-Skills-for-Home-Even-300x169.jpg",
+    "bytes": 14964,
+    "sha256": "f9130f18d4a605dee1425575dfc31a3f93b66236e21c2d8187f4cff8d571f990"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Social-Skills-for-Home-Even-450x253.jpg",
+    "bytes": 27402,
+    "sha256": "f1ad54d489e8605637f27b47d94b81d4e0b5ef4508d869cf5ba538a181e63a09"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Social-Skills-for-Home-Even-768x432.jpg",
+    "bytes": 60491,
+    "sha256": "5bc6f9bd5b9edef1d9a1d48770c82e4730c415c2cefd150db2d0738702c4fb65"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Social-Skills-for-Home-Even.jpg",
+    "bytes": 72644,
+    "sha256": "4cfac2f39283a71e9d471e433150b48c62bcc4c7feb5d870310eff944979c32f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Spotlight-Effects-1024x597.jpg",
+    "bytes": 105579,
+    "sha256": "b726cf76059cf355058e9cceebd0857b45070f8df7c955781c69834060ab8707"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Spotlight-Effects-150x150.jpg",
+    "bytes": 7956,
+    "sha256": "914a1fdf5628c260cc2cd89ef6c7518dad1d27dda1a5bb55c0990c7f2f393ace"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Spotlight-Effects-150x88.jpg",
+    "bytes": 5571,
+    "sha256": "113a109c49d9dad03dee8c0af86aa8137436319eb3ec0afa7fea952ad5f15796"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Spotlight-Effects-300x175.jpg",
+    "bytes": 16676,
+    "sha256": "46793001731ed83ff6f033fdd5dff4768b0d52d5acdbdbc97cb5d7035f9c000e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Spotlight-Effects-450x263.jpg",
+    "bytes": 31246,
+    "sha256": "7d58723c79034984c0872649d0eb15d2126420e11376534d8c5d72975b93860f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Spotlight-Effects-768x448.jpg",
+    "bytes": 68514,
+    "sha256": "2f0dab1aa8647b9da95ebdc89cc96121e93450db3fa2c2f6ecc2b980ced472b6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Spotlight-Effects.jpg",
+    "bytes": 85320,
+    "sha256": "cd644ec037afeed49bd3b0bc66e169feaf7ebd76395f3b62b0e8b451b943c838"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Student-Reading-a-Hard-Topi-1024x576.jpg",
+    "bytes": 93737,
+    "sha256": "138436b5f6ff567bd9bd30467e8fb5eef3d29d0cbd10abefbb3741be060c2a43"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Student-Reading-a-Hard-Topi-150x150.jpg",
+    "bytes": 6630,
+    "sha256": "a8cd9080d3e9de734264f6a590bbc39ee93d967775dbb850d2577fa7527a758d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Student-Reading-a-Hard-Topi-150x84.jpg",
+    "bytes": 4453,
+    "sha256": "e926ea01bbf4d6a048c229909f82e9d966a138c2928d0dd6d3e873a53cb4249f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Student-Reading-a-Hard-Topi-300x169.jpg",
+    "bytes": 13166,
+    "sha256": "bd4f96d50175468a9effc11f2c217634168a42b25a943680303795e8b431a6fd"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Student-Reading-a-Hard-Topi-450x253.jpg",
+    "bytes": 25445,
+    "sha256": "1688cd759fa2be0775c1bd1c50ca8f73fe5896795cced979d73433b94346ffb5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Student-Reading-a-Hard-Topi-768x432.jpg",
+    "bytes": 59304,
+    "sha256": "0e60b88cf430cc176f7e97ec2a616125fe8676351097adc26e633a0f4e76bd23"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Student-Reading-a-Hard-Topi.jpg",
+    "bytes": 77662,
+    "sha256": "33601953763382cdcf64329fdea1b25daff55b1c83569706678fb417f2687b88"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Study-Room-Essentials-1024x576.jpg",
+    "bytes": 62695,
+    "sha256": "2df5ec687987e4bee417898e7d96ca2deddcf1fbc8b45295ebe9398ad183c3c6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Study-Room-Essentials-150x150.jpg",
+    "bytes": 4892,
+    "sha256": "b765b37da560f86584e72fa9c1bff2e885a2a5575053e9d60fd331cd877c3214"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Study-Room-Essentials-150x84.jpg",
+    "bytes": 3641,
+    "sha256": "ad60867f4bab132282d4e24888eac9e83c5c108a80cbb83e51a97331f563b367"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Study-Room-Essentials-300x169.jpg",
+    "bytes": 10269,
+    "sha256": "68326f2d801cf8918182c468677eca191f189b6bf7c2240ea7d99f19804900d6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Study-Room-Essentials-450x253.jpg",
+    "bytes": 18464,
+    "sha256": "1407942d7ae2b12a16f7ea1a1a89df143c862535e12b2617de59329093affe1e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Study-Room-Essentials-768x432.jpg",
+    "bytes": 41332,
+    "sha256": "2894211cb10436a5d8fb2d114fa0c12a204855d3448c92a09828d6d2339d86b8"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Study-Room-Essentials.jpg",
+    "bytes": 51064,
+    "sha256": "dcd083281125491dbce12a4d91daf894dfad548dab120392e29fb5401f9b3b9e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Talk-to-yourself-1024x576.jpg",
+    "bytes": 97826,
+    "sha256": "3d6cefae503aa6a23e5bd40284468d3de28abd6ef6e359578133818bc5ba1aeb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Talk-to-yourself-150x150.jpg",
+    "bytes": 6547,
+    "sha256": "67a5d6ae8afe45e07fe8cd13803a56d6f9b926f2c36f80f9aa81966504a7ad09"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Talk-to-yourself-150x84.jpg",
+    "bytes": 4644,
+    "sha256": "f875fdeee71d9ba8750c41cb723f536c541995572b4045be6d6a18ea66690cbc"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Talk-to-yourself-300x169.jpg",
+    "bytes": 13973,
+    "sha256": "fe392fb4a2a7d3628c36129822bd1e578a3fc7475229284497203b1d29b7455f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Talk-to-yourself-450x253.jpg",
+    "bytes": 27069,
+    "sha256": "b37800102825b380840cc6cff3225950afa4c842c8de2c1746b00aafb86ede1f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Talk-to-yourself-768x432.jpg",
+    "bytes": 62599,
+    "sha256": "708e477c652b30b6bb31bb466bcf1dd5181c19176d0842709b5df166e6b799e0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Talk-to-yourself.jpg",
+    "bytes": 81533,
+    "sha256": "15661a369a83f44e838286c004c301ff34616d21a4b239b234ea681e31af9c3b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/The-top-5-programming-languages-1024x518.webp",
+    "bytes": 64176,
+    "sha256": "27dbe4555d59bd3ead412006fb918569c95e0493a4428dd888e5a5d52802b3cf"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/The-top-5-programming-languages-1200x607.webp",
+    "bytes": 85960,
+    "sha256": "565f5fda09d89bb58818188d5927b9c5d159b639ccb37ab84ce7436728457033"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/The-top-5-programming-languages-150x150.webp",
+    "bytes": 9578,
+    "sha256": "4fe478ab9663091a02181b29e2663dcf51939341e809530646db5868af0a000b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/The-top-5-programming-languages-150x76.webp",
+    "bytes": 3862,
+    "sha256": "910c05c39bcc2b76b16cfeba4694b944587c103f2b78d094ff5e52854976a7db"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/The-top-5-programming-languages-1536x777.webp",
+    "bytes": 130388,
+    "sha256": "e774aa92462523a17dc626253a594d9c909963df978aa369f5249d3e3cee3d0d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/The-top-5-programming-languages-300x152.webp",
+    "bytes": 9940,
+    "sha256": "00186eb574c6288e6ff606e6633ed2d2039737f1d9df82ef3b5c0b6ee55416df"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/The-top-5-programming-languages-450x228.webp",
+    "bytes": 17490,
+    "sha256": "f79c198a3ecdf9467dd4dd15ec70f83f29c5e15f3d65c9df0ac4b1a59d058820"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/The-top-5-programming-languages-768x388.webp",
+    "bytes": 39782,
+    "sha256": "77dba45b40449b456cfc149a48427a8da73de2ff192e770f22c1140ec6800551"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/The-top-5-programming-languages.webp",
+    "bytes": 94192,
+    "sha256": "5d8e09b07c648bea4621a1212dbc668e39042eb01389556fbb1633aa90d629da"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Triplet-Admission-Guide-1024x576.jpg",
+    "bytes": 66399,
+    "sha256": "e69e24c2aa3ed6c3334b577b43e31588a7eb413915eca38296778c71c8d48ede"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Triplet-Admission-Guide-150x150.jpg",
+    "bytes": 6131,
+    "sha256": "452db276f15538828e39568ae565613b8bc71770aec08a5e0dcf8b6e56e2572c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Triplet-Admission-Guide-150x84.jpg",
+    "bytes": 3955,
+    "sha256": "612fb1e87d8deb269205c58ff589517451aaebe604e0371d993e1bcc70008d5b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Triplet-Admission-Guide-300x169.jpg",
+    "bytes": 11270,
+    "sha256": "de05139613b2180bab0a6625cf8f31db29a45b5a9a1cb2535c23227c36073f54"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Triplet-Admission-Guide-450x253.jpg",
+    "bytes": 21541,
+    "sha256": "a2525064a67ddf5e45f31fce3c758f2aa50d5bf181420223d259e6970fc5064f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Triplet-Admission-Guide-768x432.jpg",
+    "bytes": 45002,
+    "sha256": "051f26b14fcfc4414eb0e618a6b5c5b4f8bb03058eb0f63aecb4757c198c0768"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Triplet-Admission-Guide.jpg",
+    "bytes": 64913,
+    "sha256": "73f192d296f53a91fd2d5845d2db730a2e0f5350c08b391609b3ed5c1eea781f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Two-Persons-Good-Conversati-1024x576.jpg",
+    "bytes": 87248,
+    "sha256": "00639fe45f11f4b90306143426c66d3de032eb137602cab3511c442fe892ac40"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Two-Persons-Good-Conversati-150x150.jpg",
+    "bytes": 6956,
+    "sha256": "2be2631d69984ce762d4bc23a3082a362e7f2c2a6bc3d2396573d62a13629323"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Two-Persons-Good-Conversati-150x84.jpg",
+    "bytes": 4805,
+    "sha256": "687218b385854798f9d68cfc843cdc2db79d2cc267078e8edb322f2d4e97d3e9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Two-Persons-Good-Conversati-300x169.jpg",
+    "bytes": 14332,
+    "sha256": "955697e15bb1b2956f79818e3532f9f3a267da5729192705d6564fcecd169413"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Two-Persons-Good-Conversati-450x253.jpg",
+    "bytes": 26470,
+    "sha256": "b4f931b777712ed0140457edaeda2cca7d005e65d5a40bf0cc7b0bcdf5addfc3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Two-Persons-Good-Conversati-768x432.jpg",
+    "bytes": 57509,
+    "sha256": "49db95cda86aae9ed8ae15076801a9fe52cd8000f35f4d60bde050d1c3725d89"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Two-Persons-Good-Conversati.jpg",
+    "bytes": 69850,
+    "sha256": "4b8bb1b6661f7ae0b83b365654e2cef8c8eabd1a073bf8a2a017c39002d94bed"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/US-in-AI-Race-1024x576.jpg",
+    "bytes": 63131,
+    "sha256": "e6ce4d3074f3936f14bf677a5ce3d670e0a52797d9b40f127b2377b1f5f9c239"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/US-in-AI-Race-150x150.jpg",
+    "bytes": 4518,
+    "sha256": "55875bcc62ff74935d3f30e1abb66a1d585b51a2151085851126d488f844828e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/US-in-AI-Race-150x84.jpg",
+    "bytes": 3507,
+    "sha256": "5fd8cffa8698951847d9b6a05139de65ffa499a88740de7968b5c4da3e620dbb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/US-in-AI-Race-300x169.jpg",
+    "bytes": 10544,
+    "sha256": "87c868c5e2ff42aaa8b3e5007cee77e0b75f1d8e30e438aa6f387e3f5c458c53"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/US-in-AI-Race-450x253.jpg",
+    "bytes": 19217,
+    "sha256": "c70fdac183e94ab6a3a68a0e09f4d19d9ca90a0cec291ad63fb6296a9662aad0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/US-in-AI-Race-768x432.jpg",
+    "bytes": 41732,
+    "sha256": "313eaf606d0432f883d9653b671c6fbe4f0c0f0fade678ce089287d13fce4ae1"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/US-in-AI-Race.jpg",
+    "bytes": 55190,
+    "sha256": "e91c762766c4b7eb90bba82ae5b60c0792d2b40fad963c7e75fd663efb6ad98d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Uni-Test-BD-1024x576.jpg",
+    "bytes": 136504,
+    "sha256": "dad9b893a5f208438defb579d63224213ff464bad692f5709932e4980d33aabc"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Uni-Test-BD-150x150.jpg",
+    "bytes": 6285,
+    "sha256": "a249643fd231a2f9e6e2dfd3f402ad1dcc242d7e35a5d490af1bad2039674760"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Uni-Test-BD-150x84.jpg",
+    "bytes": 4141,
+    "sha256": "c6a6bf246bf7f262abadd8118c9b28bb2615070ab187821ed2dc9dc805c8c3d3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Uni-Test-BD-300x169.jpg",
+    "bytes": 13286,
+    "sha256": "e00d00b7649a8925701f59b83b68e469e9c7635aacd4df7216bfed2cfd39899b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Uni-Test-BD-450x253.jpg",
+    "bytes": 27782,
+    "sha256": "6f545b5949f3b1224850a6426f71951ed313b6531543ee7caba131840d5c836f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Uni-Test-BD-768x432.jpg",
+    "bytes": 78784,
+    "sha256": "cf02cd10da1cc654504dbb100c938881fedf72b507f8caffc8b05debf3485123"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Uni-Test-BD.jpg",
+    "bytes": 146253,
+    "sha256": "3acc1cdb006c7f4c522814275316284510c1f6444b6aa8b10c1af6ea4604b14c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/University-Admissiom-Prepar-1024x597.jpg",
+    "bytes": 56400,
+    "sha256": "f4032297f2ea5e6b728d330fbc8824266a19da5740f06ee9c42ecb436e4ced1e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/University-Admissiom-Prepar-150x150.jpg",
+    "bytes": 5275,
+    "sha256": "e76d3d273a55a4d97c34424a6b74782f0d976607d8323cbe5c6e70ec22d25379"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/University-Admissiom-Prepar-150x88.jpg",
+    "bytes": 3377,
+    "sha256": "6edd582e5151ccb2348a3104b750c216d32c88897a423ab325828e2371c367d8"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/University-Admissiom-Prepar-300x175.jpg",
+    "bytes": 9624,
+    "sha256": "ee3a9696227fa54527a591c150750fb5a778327308a63e78e97e3ebff7de57fc"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/University-Admissiom-Prepar-450x263.jpg",
+    "bytes": 17401,
+    "sha256": "1b35a62ea7dcf5426dd032e966de0076772dfacbd954ce746af909064e7cc6a6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/University-Admissiom-Prepar-768x448.jpg",
+    "bytes": 37595,
+    "sha256": "d30a7ba0973bed3da78658ac67619c32ea1acccc9d381997cc1b5878dcb5c479"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/University-Admissiom-Prepar.jpg",
+    "bytes": 53919,
+    "sha256": "7ae6ec8b394d77cbccf4f79abf4809902fc070d06d1d43ad3a82f1a359a7ac39"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/University-Admission-1024x576.jpg",
+    "bytes": 77328,
+    "sha256": "1a449765a0a4dc037dbfa059424e8911f9d887fca3efe5518dcf7bf625ca237c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/University-Admission-150x150.jpg",
+    "bytes": 5600,
+    "sha256": "a47900589a6381df9cab0246376c400a03517e0e802cb7d7c53edf2a656b769a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/University-Admission-150x84.jpg",
+    "bytes": 4067,
+    "sha256": "a96a5bf63ef2808b4b430e99167a154ede64771d7b4a4e47e1c653007db06cc2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/University-Admission-300x169.jpg",
+    "bytes": 11751,
+    "sha256": "5ef97e87c98fcd7abf3fd6ffd08135e2c2be1975810aa7fa246b2932b4d8e315"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/University-Admission-450x253.jpg",
+    "bytes": 21706,
+    "sha256": "bf726c83aaebf07fe68a09e8e5afffba2754f4436356884b0ca74ec05f64c563"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/University-Admission-768x432.jpg",
+    "bytes": 49577,
+    "sha256": "3ac07830420d975fc457645bd9347bb8be2a6580b7a23cfae6a27b52a99bd347"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/University-Admission.jpg",
+    "bytes": 58908,
+    "sha256": "dad28d5c352f228cd6487267239649fa077fd294c5f3c5ca4f04798acee78427"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Video-Generation-1024x556.jpg",
+    "bytes": 70462,
+    "sha256": "49da2e7963be71323b7b5d4bb4aee8557a881db9f4456baa616b001d6e7d7d71"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Video-Generation-150x150.jpg",
+    "bytes": 6183,
+    "sha256": "c8e86983e9ff9a81189f428e6fb60603d049ea793aa916808cdf340d46ba8afc"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Video-Generation-150x82.jpg",
+    "bytes": 2781,
+    "sha256": "301aacc633efb4efefe1361f489c84a1a505fce27adef55f5fca96cd973eef98"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Video-Generation-300x163.jpg",
+    "bytes": 9178,
+    "sha256": "970a5755cdeb31c9a996fb457de084754f6f3f4434c8b1e458b751e8edd02eab"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Video-Generation-450x245.jpg",
+    "bytes": 18738,
+    "sha256": "c753e495c3c1a57fa161c189ee1567a54b066c29f11cff833d5d18664c637cfa"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Video-Generation-768x417.jpg",
+    "bytes": 45084,
+    "sha256": "cd0ac42b7faa32e6b5490e0063d89571e421b6a6bad1cf67dbbe35a3f38b2754"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Video-Generation.jpg",
+    "bytes": 72913,
+    "sha256": "27c178aa46508f4e303c59d8ed78285b11b60a8441aa8d7368bbe1bb23c97343"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Where-theres-a-will-there-1024x597.jpg",
+    "bytes": 99191,
+    "sha256": "8646191b2b331652c89fe7eed07a20d42f5759d9e24182e010bfe6ebc41bc375"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Where-theres-a-will-there-150x150.jpg",
+    "bytes": 6235,
+    "sha256": "aa0c11f430e0748e5008d59f6816e8123d7498dadb523f43f73318a4930be503"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Where-theres-a-will-there-150x88.jpg",
+    "bytes": 3990,
+    "sha256": "d049a8fb98d85bd01d20ea8062d46104ee5573121d7acf4c93890a9a898df13d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Where-theres-a-will-there-300x175.jpg",
+    "bytes": 12639,
+    "sha256": "790a54b49ae2192ce763d9a6156804dd1c2f9a60b8a69e9e2a5f17b049ac4cd1"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Where-theres-a-will-there-450x263.jpg",
+    "bytes": 25239,
+    "sha256": "2d5dc3b027391d31bdfbcd2852639624d544cbaa7f99475f8de8c56846bfab59"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Where-theres-a-will-there-768x448.jpg",
+    "bytes": 61811,
+    "sha256": "98700bee2ff3da842dc480ae661d5172ef9524347683bc1cb4fdb52db0de346f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Where-theres-a-will-there.jpg",
+    "bytes": 81924,
+    "sha256": "0a1bd294ec69fe21d64fd5529c6dbc8992d8de8578863ce287d2d31d0fa03db5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Which-preparation-is-the-mo-1024x576.jpg",
+    "bytes": 82396,
+    "sha256": "bceec0eff374e49cd75194df03b333d1c80bce27cd90c4e048fb0377fc63abfa"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Which-preparation-is-the-mo-150x150.jpg",
+    "bytes": 6449,
+    "sha256": "b57ae9f2a3453144df38acd9c57b66d3170f54bf282883cb080159101977c919"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Which-preparation-is-the-mo-150x84.jpg",
+    "bytes": 4218,
+    "sha256": "8e2d203ccb9da550ef6b248b57505194ca1200d71cee8cef685cc76d0b9ef5b7"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Which-preparation-is-the-mo-300x169.jpg",
+    "bytes": 12300,
+    "sha256": "099293e62e03b2520c57fb1b9f37b9bfe1417f32ea4b6d8572fe03a8b70e892b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Which-preparation-is-the-mo-450x253.jpg",
+    "bytes": 23138,
+    "sha256": "357a6ab47eedd2679bc78ac5a16424b4135ce35ea88e9dd518d4568723aff0ac"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Which-preparation-is-the-mo-768x432.jpg",
+    "bytes": 53263,
+    "sha256": "289eb90492ad6f8126eca82c0acb280c8155c393c2e4cf281cd2cfcfc8abacdb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Which-preparation-is-the-mo.jpg",
+    "bytes": 69226,
+    "sha256": "823bec7caea450cce405bab1aa49d1c77b2e5e24c02c6c4716710a5ad91352da"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Working-Students-in-a-Shopp-1024x576.jpg",
+    "bytes": 105820,
+    "sha256": "266da715216a97e7392a20d3d331e350e186eb90e827e279f61a767584b4af3d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Working-Students-in-a-Shopp-150x150.jpg",
+    "bytes": 8524,
+    "sha256": "509693915b59ad83b03646185761e62f09097d58919011a66197cecb9a19b97a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Working-Students-in-a-Shopp-150x84.jpg",
+    "bytes": 5680,
+    "sha256": "58a5c577ad78701ad40f0b67d1d912fdb96431e2c22bff225fcbed4454ae5cda"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Working-Students-in-a-Shopp-300x169.jpg",
+    "bytes": 16626,
+    "sha256": "d34db3d27744edf9a1f7a49495c4e80c1c5d96701be515772917d7d618aa24ce"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Working-Students-in-a-Shopp-450x253.jpg",
+    "bytes": 30951,
+    "sha256": "fc9cce15c1b50e552194d5f66a04f775229f60004a45bc94b61848c46400a848"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Working-Students-in-a-Shopp-768x432.jpg",
+    "bytes": 69014,
+    "sha256": "4d4bd244c8f649736d709c7a7a6224d12371ebbfeef7e39de06171328f17f879"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/Working-Students-in-a-Shopp.jpg",
+    "bytes": 90529,
+    "sha256": "1efe4f3362090fd783de4a539de5ee8674e5684512dadbdd13aaf8999e0c8ad2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/WuilBolt-1024x511.jpg",
+    "bytes": 50645,
+    "sha256": "60e63ad40aa0ec485d9dee5128c14d281d2cbd42f487bd8f555b1cc7eedf3161"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/WuilBolt-150x150.jpg",
+    "bytes": 2705,
+    "sha256": "f0948b8a0d98ee73b1703d6a47efcc5251a32292434a7b878dce462aff12814e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/WuilBolt-150x75.jpg",
+    "bytes": 2438,
+    "sha256": "7942b9a87130e99098774130b9f89ac2f5eeebdd1bc701ead0eaf56d20baa425"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/WuilBolt-300x150.jpg",
+    "bytes": 7126,
+    "sha256": "de0ae927bbb12a258bf882c372f2baec4551d4ca9a5bbceafab6652ff80640df"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/WuilBolt-450x225.jpg",
+    "bytes": 14238,
+    "sha256": "5a7693e42fb2b1498a6c88e469022233bedbfc8b42801b5022c3b523be09c2c5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/WuilBolt-768x383.jpg",
+    "bytes": 34048,
+    "sha256": "f5dcdcc2bb9b3a516b8c8296a46e87f89aa6a22b889be1febd56358d427751cb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/WuilBolt.jpg",
+    "bytes": 51554,
+    "sha256": "ff52b55fb03ad28fd9feb93a0d74b431b81e953b6dbfb49d0c83e26ca3896d49"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/YT-Video-1024x576.jpg",
+    "bytes": 63387,
+    "sha256": "c2a6850f96f2f0e9f10872140af479a6b8e17a6f3e5f014f6c13cc4416d1bb90"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/YT-Video-150x150.jpg",
+    "bytes": 5643,
+    "sha256": "0f349aa4629de08c1558ccfd5367b419347ef7fa35f603914d01d03cc09441e8"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/YT-Video-150x84.jpg",
+    "bytes": 3762,
+    "sha256": "9c783aa34b9eff50a91e59eff4c654bb0071d566d66dae737af9c5a44d5829fe"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/YT-Video-300x169.jpg",
+    "bytes": 10252,
+    "sha256": "6ecee6bf7149a37817a762cac9587bc4bd547aa6315c275430e7ec497e5b1962"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/YT-Video-450x253.jpg",
+    "bytes": 18749,
+    "sha256": "682a5ae061c9b5c000d0bc7336ba07e77cb7122c8ea2b5d0c743444146adf439"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/YT-Video-768x432.jpg",
+    "bytes": 41527,
+    "sha256": "932d880fe54ee7d52fbabd9d92d152c3154764430d3fe539bd2dad15b3ee5b8b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/YT-Video.jpg",
+    "bytes": 49713,
+    "sha256": "1e75a38c3fdb8016e8881394c28f32f55f2a18fcf143a416fc4430496af462f2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/You-will-flourish-with-your-1024x597.jpg",
+    "bytes": 93984,
+    "sha256": "5518b7a0626ef7dbbc1185c57cc9384fc9da4c4ce39ac4fa1fb12d360f3f7743"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/You-will-flourish-with-your-150x150.jpg",
+    "bytes": 5537,
+    "sha256": "63e28489842dde6685d67c1e269c63bac08cb5bc1c2cda82ff4b418f0c114cd9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/You-will-flourish-with-your-150x88.jpg",
+    "bytes": 4079,
+    "sha256": "6aa6fd3153ae16a7ad192bb963a265a268d1ed28a69de2dde17240b450c84ebb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/You-will-flourish-with-your-300x175.jpg",
+    "bytes": 12525,
+    "sha256": "b21ab5d5353a3a76e4ffccdfb3b3a0320c2b4bdb2f5d92039b5aa09760cc954a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/You-will-flourish-with-your-450x263.jpg",
+    "bytes": 24947,
+    "sha256": "33e3c52e9b2cb2b61e04b3c803caff991c62e24d0eecc19991f772e9248ec6f9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/You-will-flourish-with-your-768x448.jpg",
+    "bytes": 59467,
+    "sha256": "1308a366b27cb0696685a40a75328058c8757cf2e02e8899ce9dd1c20f5623ae"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/You-will-flourish-with-your.jpg",
+    "bytes": 75609,
+    "sha256": "a45ca202740f1dd12e4df854eb135c8efa711313b8b36c59a27fad24dd4e3f0c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/YouTube-Video-AI-1024x753.jpg",
+    "bytes": 56223,
+    "sha256": "7ea9de126233823dd0e1f2ffbd4ffb0dad37a6b23f78ace783f97f1c5483c8a5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/YouTube-Video-AI-150x110.jpg",
+    "bytes": 3257,
+    "sha256": "5f43619d942f860ba13706d3f2babb1203cffd6b9885909b6a59c8062db56c9a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/YouTube-Video-AI-150x150.jpg",
+    "bytes": 4297,
+    "sha256": "fc6f73650dcc93e53673060256f55aa62fea8b182298d155065d1cc02f92d212"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/YouTube-Video-AI-300x221.jpg",
+    "bytes": 9314,
+    "sha256": "b62869353844c4d260b22020998319dbd00b6a4b028b1a0bc63e63eefe9f1e33"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/YouTube-Video-AI-450x331.jpg",
+    "bytes": 17743,
+    "sha256": "f9d69feaaa2e85d46cdc954da85b3fde2693d58565151ea727eb4b53e09a0224"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/YouTube-Video-AI-768x564.jpg",
+    "bytes": 38119,
+    "sha256": "b5f8bb0a33c07c3dadd1b027a7dbd5bcd556e5743402fba7caac19d774cbb22c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/YouTube-Video-AI.jpg",
+    "bytes": 58057,
+    "sha256": "3a5b110620186e0ac173ea15380b016154a83ae5a0d24680571682e3974a9f13"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/a-Table-with-Study-Room-ess-1024x1024.jpg",
+    "bytes": 110308,
+    "sha256": "c69b48d79c171555f4e879d888ca760fbdcb2fb28072f402e9d3405039b83194"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/a-Table-with-Study-Room-ess-150x150.jpg",
+    "bytes": 5108,
+    "sha256": "644f773738a2a9195fa4e8ba81fe663451890c846f42dfae88472101b6e5a11b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/a-Table-with-Study-Room-ess-300x300.jpg",
+    "bytes": 15115,
+    "sha256": "b97e9bb36a6f7ccb2547d329d1dbbe6f918c57f6a1c83ace6616a981ad465e1a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/a-Table-with-Study-Room-ess-450x450.jpg",
+    "bytes": 29382,
+    "sha256": "1ab0a9b3db5848c0dc18678a7adee63e19d310c07925eff05dc2ecd415fa1fb2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/a-Table-with-Study-Room-ess-768x768.jpg",
+    "bytes": 69366,
+    "sha256": "7edff0950c82ca1852a2781a025abc4841520ab1b0ae5c9f77969de1ddbd608c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/a-Table-with-Study-Room-ess.jpg",
+    "bytes": 90263,
+    "sha256": "888de1a7dea8e25d8450c6a0f011fb7a5e485f23f831b908868888d69534ebf6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ai-for-ss-1024x576.jpg",
+    "bytes": 94526,
+    "sha256": "df3dead5af8bfb873c8305a0f79ffefd0b9b03d33cd14e65ac09ea61c1c0f8cb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ai-for-ss-150x150.jpg",
+    "bytes": 6473,
+    "sha256": "35190d604851df6be6e4d5b7f98fe6fa50232468cdc8445a92ef60e378a34dd7"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ai-for-ss-150x84.jpg",
+    "bytes": 4482,
+    "sha256": "dc31659a941b99c78ffebfd2407d0dffd39ee76e24ea1f5ff83dc27a2d41f6d5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ai-for-ss-300x169.jpg",
+    "bytes": 13800,
+    "sha256": "f9aed877b90aa9d6a51edb954c7c0ef94e0efdaf51cafa25bec7b0bcfc19e30a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ai-for-ss-450x253.jpg",
+    "bytes": 26466,
+    "sha256": "30c5f084dad6631e86cf5228553be21199ecd10b5a94d677779e8c04acd920ad"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ai-for-ss-768x432.jpg",
+    "bytes": 61412,
+    "sha256": "cee1cb0ab12767a5445b31e12b28adef6674f48814d07cb6f3b5ffd36e5d3983"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/ai-for-ss.jpg",
+    "bytes": 76293,
+    "sha256": "8a8be87abbe7c8c995e9ed9598e8549594f82960e90d16592a744f81860d0388"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/bsc-study-guide-1024x576.jpg",
+    "bytes": 77169,
+    "sha256": "21fbf92b139ccc004e524ab1ae3b170c74f03a77c08bee446ff04c81f5bc5037"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/bsc-study-guide-150x150.jpg",
+    "bytes": 6505,
+    "sha256": "a01d2947d1f8005297d4703734562d2dd6e8a6b2d08b18777ebe557f4f490bac"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/bsc-study-guide-150x84.jpg",
+    "bytes": 4487,
+    "sha256": "9ba84fb4ff7e41924387397aa00f5022e4a37b2585c3c994353e2202e3a5e416"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/bsc-study-guide-300x169.jpg",
+    "bytes": 12771,
+    "sha256": "13e0c12e43d2ca175f9cac5a73a39bdce08f6e6ca5665abc524f195031317258"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/bsc-study-guide-450x253.jpg",
+    "bytes": 23172,
+    "sha256": "d7c7068c980836345a85b337c63efbfccbc67fdea309c78326c4f7a0895039cd"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/bsc-study-guide-768x432.jpg",
+    "bytes": 50955,
+    "sha256": "7fab8126825dda61f7c5e1ed8962c226d47e3af5bd4b63adba0634aa5b3c304b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/bsc-study-guide.jpg",
+    "bytes": 61032,
+    "sha256": "58314e1e278bcee0f5a860454628d1178110247fb318d64c9aeaddd984a500f1"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/chatgpt-1024x576.jpg",
+    "bytes": 47664,
+    "sha256": "cd241b76088ea3a95827868fee0c10f175e9aa0a49dbf5371ac841fe18e8ded2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/chatgpt-150x150.jpg",
+    "bytes": 4641,
+    "sha256": "328bec568804fcfa879085cf102c8b31b89232e695252ee9864ba8fc4db0c6b1"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/chatgpt-150x84.jpg",
+    "bytes": 2673,
+    "sha256": "9a1c9a925684f237dc2b6b8436d79864979387c9d32f247d98b576ff95d6c285"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/chatgpt-300x169.jpg",
+    "bytes": 7243,
+    "sha256": "3daef1a65eabe4ceff9918c13bd5a71fc095a7bdac00237f660af0b2e21e473f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/chatgpt-450x253.jpg",
+    "bytes": 13322,
+    "sha256": "1d3c07092ea4824792749e485a618a8696f55de2b97a14b2760080d7b5b00290"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/chatgpt-768x432.jpg",
+    "bytes": 30661,
+    "sha256": "7b530c7663149d37cc108f4b3bc0a6c187cf3ae1f09018aebb10080207e53ab5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/chatgpt.jpg",
+    "bytes": 40238,
+    "sha256": "123a66307e263e0ca63709d9c285c377e37c68b99998eb655f8ce170489d0632"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/cropped-Social-Media-Manager-128x128.jpg",
+    "bytes": 4299,
+    "sha256": "a34fe3e5ab8b5948e6b22623a3c8bc7c83dce2cd39bdd0836ae49fd7a7698bfd"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/cropped-Social-Media-Manager-150x150.jpg",
+    "bytes": 5566,
+    "sha256": "cc0d4cc49499da4d73873596edbfca26164c9d6b8953457cd5a4c2c46ee656e9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/cropped-Social-Media-Manager-190x190.jpg",
+    "bytes": 7869,
+    "sha256": "f9c19ea2c7c256f5cd7ce3c9a98b6df4a71f63bf233e786376ca25fbd616dcd8"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/cropped-Social-Media-Manager-192x192.jpg",
+    "bytes": 7878,
+    "sha256": "a743df1e18f817c71055d5134ae5cae76b95ba0913f50c6dbe958053a514a9eb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/cropped-Social-Media-Manager-21x21.jpg",
+    "bytes": 559,
+    "sha256": "64b8e0a9d1331f787b745505d1639748a0b4078203df1aeb05971e084ace0429"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/cropped-Social-Media-Manager-24x24.jpg",
+    "bytes": 578,
+    "sha256": "05936d0a32cfc0db4ea4ad33af4731573c6de62e9c9727530c8219e3889fc7ea"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/cropped-Social-Media-Manager-26x26.jpg",
+    "bytes": 678,
+    "sha256": "369356f9088ace5e647914048f3def088945753cb1705827e841db8b6c8cd4a9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/cropped-Social-Media-Manager-300x300.jpg",
+    "bytes": 16229,
+    "sha256": "eaf2f302d63a115bfbaa3b840453ea9da6f7cfcd971c78a67b7fbd439cc6a1f5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/cropped-Social-Media-Manager-32x32.jpg",
+    "bytes": 716,
+    "sha256": "3b5a041ce50de6eb8545eab3f46cb3b6763e2c10eba5249d85f6e334d29af04f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/cropped-Social-Media-Manager-42x42.jpg",
+    "bytes": 1062,
+    "sha256": "9087b7101d67a0ad19d456a48580bd70842f779c3bc480aa2af695c8297e06a2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/cropped-Social-Media-Manager-450x449.jpg",
+    "bytes": 31900,
+    "sha256": "cd4473c6a21caf704fa19d51ffc6c947aaac51f19a91f0c94b339fccb91ba4a6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/cropped-Social-Media-Manager-48x48.jpg",
+    "bytes": 1122,
+    "sha256": "50b877c8d58711b36197013f3eff84ccc35f64ca80929a1f019eedab17ac3b90"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/cropped-Social-Media-Manager-52x52.jpg",
+    "bytes": 1378,
+    "sha256": "62488056c9775f8626df148be0f0c743c70d56f370f3e7697c2407e1e2c2cd59"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/cropped-Social-Media-Manager-64x64.jpg",
+    "bytes": 1616,
+    "sha256": "40ae9b9eb01ee125ddfd09ac1d56f17e0db49410044474d256df03e237b8a7dd"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/cropped-Social-Media-Manager-95x95.jpg",
+    "bytes": 2859,
+    "sha256": "21d7e3d359e4c08b81ccbff5e770ca478d1646f8a4812a72510a12901dc9cbc1"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/cropped-Social-Media-Manager-96x96.jpg",
+    "bytes": 2869,
+    "sha256": "759d90f4d43c83829fc8c87f85a8ddf11e62e49c8edfeef93fda8a7152e19095"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/cropped-Social-Media-Manager.jpg",
+    "bytes": 66742,
+    "sha256": "cbae3484765548d5edfa79323e28ac135eeea30b799f193c2939ea3811ee547a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/design-with-canva-1024x576.jpg",
+    "bytes": 75521,
+    "sha256": "6c7a3426089d19fe609aa6bd5d51075e2fa4afe08b9b59b61c61bb75297f69c0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/design-with-canva-150x150.jpg",
+    "bytes": 5092,
+    "sha256": "288babba9b437948d141da02e15a81c980bbb8976f1c8fda61bc19e8b00ad46f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/design-with-canva-150x84.jpg",
+    "bytes": 3790,
+    "sha256": "7a99d49d4e916714935b6ef460a48d128e6b995cfb27bc36c7434152a8a2559f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/design-with-canva-300x169.jpg",
+    "bytes": 10931,
+    "sha256": "f0e1c66efa41c18c0b9dcf02778d2711974e8a7a7fc983dfedf9111969df2e1c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/design-with-canva-450x253.jpg",
+    "bytes": 20716,
+    "sha256": "15433cbe9e49f6285454db1e7c4fb7f64076d5d0a47b189b557ae20893c522c6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/design-with-canva-768x432.jpg",
+    "bytes": 48408,
+    "sha256": "8ad5e78d95748f3ffca7ce7baa37217f91e8d10fa9ce818c3dc8053cc598a7b7"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/design-with-canva.jpg",
+    "bytes": 65183,
+    "sha256": "da4bb5e6147497d1be619931dc0a18f618ce8e9fc15f787cb0c62ced65212332"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/friendly-conversations-1024x576.jpg",
+    "bytes": 89662,
+    "sha256": "1793d4780be5a3addb962d83e892dfee30ce48d76ed064ce278eca900080df91"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/friendly-conversations-150x150.jpg",
+    "bytes": 7100,
+    "sha256": "9d284f466d24d85dec17528e7ed47bf70c5e117462092fcc8d29d135533926f3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/friendly-conversations-150x84.jpg",
+    "bytes": 4895,
+    "sha256": "35d747e947d29f32272685fb8385ad7bcdeb32601f602c2ad1ba3e3f5103dc5d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/friendly-conversations-300x169.jpg",
+    "bytes": 14181,
+    "sha256": "803102df65a8cfeac83a423adcbc95020c421331cb25ddc419840c427adc1bca"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/friendly-conversations-450x253.jpg",
+    "bytes": 25899,
+    "sha256": "6bca55c743c42e864d502ecbb9a4d208bd0d4781e3899a7f35f20dfad9ac6199"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/friendly-conversations-768x432.jpg",
+    "bytes": 57836,
+    "sha256": "d30979d8b50a845e68f9bdf4fd08ebd28eb73598b7a8b620b8e023fbb16e6615"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/friendly-conversations.jpg",
+    "bytes": 73736,
+    "sha256": "3c86c72126a9629a04e37e192942c34d04f4560b8cf7ac82d67f666fb8b0cd4e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/miopiya-1024x576.jpg",
+    "bytes": 40756,
+    "sha256": "6ad144dcdc2745d08fe1541d09f42244cb9c4f78d5b0b69f569bd27c4c1d1cf2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/miopiya-150x150.jpg",
+    "bytes": 3629,
+    "sha256": "578473fea2c257e2cf4f032587cae3ea18880a47e4f53d9665579d4012a0f6f2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/miopiya-150x84.jpg",
+    "bytes": 2904,
+    "sha256": "f7a079f77ac0e72754faf0ae7871deca8d8dc8b5df0a1ed1c20af710e149a15b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/miopiya-300x169.jpg",
+    "bytes": 7115,
+    "sha256": "152097cd8fdeb9a1a09d3e434d79b4ce3a7caae62efd7929ee7fd3aed08fb785"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/miopiya-450x253.jpg",
+    "bytes": 12427,
+    "sha256": "e6a669343d8365c99a307b37812a359bc259a862e62274734a4ba5581e8c13b3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/miopiya-768x432.jpg",
+    "bytes": 26766,
+    "sha256": "3c886b7595520c1a3c92a82e3ada9a37e59fe0fdea15221a3fcd0f68bc4f25bd"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/miopiya.jpg",
+    "bytes": 31993,
+    "sha256": "36a864bd268d77d5db435672400a63f54edb53e4661e2eb18952444a8cf03d7b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/replit-1024x465.jpg",
+    "bytes": 41047,
+    "sha256": "f1602e6c90e1142ac9006dae66e3af212ff95abc19bc97944f7b6f62b70a48dc"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/replit-150x150.jpg",
+    "bytes": 4501,
+    "sha256": "77d72dfe20decf4232f990f9c2a5943f1c7a7b14a0d87a2c610d4a95745b5045"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/replit-150x68.jpg",
+    "bytes": 2056,
+    "sha256": "e6ccaf10887a3e7508c4e5ed697e319e19c1d43e92642cb655be5a4f7cb5c0f4"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/replit-300x136.jpg",
+    "bytes": 5856,
+    "sha256": "4413169054bcfa151b156aa43bc4fa7af26e508f4fb317635ae6e1f8aea8a687"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/replit-450x204.jpg",
+    "bytes": 11878,
+    "sha256": "970702208b1d1039d0f649a5e5c77749f83fd4a78a108757aafb0ad937d61967"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/replit-768x349.jpg",
+    "bytes": 26996,
+    "sha256": "b73e7ab5ad1c97ce4f9156a65e75fd5427a227630a869e8e2c9d7939dddf1c84"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/replit.jpg",
+    "bytes": 40225,
+    "sha256": "c55a6d6d6ca203a37ba1a2aa716d9801fb7fe42b2aa9550b2c3030bd1d742b81"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/talk-yourself-1024x576.jpg",
+    "bytes": 75171,
+    "sha256": "c6e53da780f5307308f5b84370cd1aca59f57af50412eb9fb7679fba0fd21ee3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/talk-yourself-150x150.jpg",
+    "bytes": 6653,
+    "sha256": "ea5d5c96c34d248b9e27dc4b0fc78060774fe6e6ba59e012919a2173bb7171ab"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/talk-yourself-150x84.jpg",
+    "bytes": 4878,
+    "sha256": "d273b2e23d75ce404ffa0a40d0f5b114846c77471907e10b4e8aeafdc06ed1e1"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/talk-yourself-300x169.jpg",
+    "bytes": 13654,
+    "sha256": "7942a190f40caf84c476c8c01a050cb383f55cc5fa19d25b0c8c3178a618c2d3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/talk-yourself-450x253.jpg",
+    "bytes": 24089,
+    "sha256": "92d1e42813a11ad66fb669ac82cfa50fc3fc65c02defe8b1e4b4812a374808d8"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/talk-yourself-768x432.jpg",
+    "bytes": 50508,
+    "sha256": "db91c97375e4eef9746742607f8e22debbceb665ff745da8acf9a12cf658adbf"
+  },
+  {
+    "path": "/wp-content/uploads/2025/09/talk-yourself.jpg",
+    "bytes": 60846,
+    "sha256": "4608f4b16eb50c25596fdc1fba6e9ae13ceb44f0c7582a438b5270345737b05b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Apply-for-German-Opportunit-1024x901.jpg",
+    "bytes": 87365,
+    "sha256": "09578129e2dc40216d4493d2456ac3aed50f0006ad0b107d19cf52c5c05021c5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Apply-for-German-Opportunit-150x132.jpg",
+    "bytes": 4167,
+    "sha256": "1eead126b4d33b8aa6daa523f7b52cbe9d0a94d703169898a15821b065369d5b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Apply-for-German-Opportunit-150x150.jpg",
+    "bytes": 4546,
+    "sha256": "f8ce5cfbfae8f8a6afddc6c74dad62fed0950aef2bccd6419778ee86e0563ee3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Apply-for-German-Opportunit-300x264.jpg",
+    "bytes": 13328,
+    "sha256": "a4ac2d931dcbb8d2e0f97ee97934ff3f99755d266f4e34eaecfd5a7b8064458b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Apply-for-German-Opportunit-450x396.jpg",
+    "bytes": 24372,
+    "sha256": "0e141ad08f7c5f78ef72554874f0fae73f69bd8d20b802bf28dd5cc553e5415c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Apply-for-German-Opportunit-768x676.jpg",
+    "bytes": 55600,
+    "sha256": "0cde2fa659440628616fc8ad677aa055f8832d509690a767569768c692f2862f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Apply-for-German-Opportunit.jpg",
+    "bytes": 89117,
+    "sha256": "0d0ceb224061451603037d3295afb381d52f7d77d066117e64c2c8dd90d65d2b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Bangladesh-to-Croetia-1024x576.jpg",
+    "bytes": 86724,
+    "sha256": "6c373bb4606280855dab76ba2acb987142698a3475cbe3d30e54e56627285e15"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Bangladesh-to-Croetia-150x150.jpg",
+    "bytes": 4890,
+    "sha256": "0789bd96149d83a4f4be803debe782cdd35e12a04a3b6adc80c8f44dc037c511"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Bangladesh-to-Croetia-150x84.jpg",
+    "bytes": 4069,
+    "sha256": "25f7b3b1e1eb456feba523b6587bc4e98e035348ef0e44c292ac7fcbed0a7a3f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Bangladesh-to-Croetia-300x169.jpg",
+    "bytes": 12026,
+    "sha256": "ce4d785575af6cd2aed5efa5b1d4fff60d4a699dd602c424305ce54325b4dc48"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Bangladesh-to-Croetia-450x253.jpg",
+    "bytes": 23370,
+    "sha256": "c8ebd9dbbfa0efba38e3ea970197dfe1e577c420134660690518f7275d173f70"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Bangladesh-to-Croetia-768x432.jpg",
+    "bytes": 56109,
+    "sha256": "946265e0a513eb05eedef104013e18e0108d2da65501c012e264c4d573e43169"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Bangladesh-to-Croetia.jpg",
+    "bytes": 80562,
+    "sha256": "d9f398c0f7a46d0e2ec10341df8932e36deec6dbdaf135ca376ea7c2d667686a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Boost-Brain-Power-1024x576.jpg",
+    "bytes": 66563,
+    "sha256": "4e63e3dd5c9c851f0852e0690048db331a7282c7bae694f6a0ed8d0c243b7e19"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Boost-Brain-Power-150x150.jpg",
+    "bytes": 5704,
+    "sha256": "d64b3fc53daa884c91e669dde72365123d40b7af6f6a6c651e8c48ee5a50b6ae"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Boost-Brain-Power-150x84.jpg",
+    "bytes": 3813,
+    "sha256": "697e4f7ed55ff603161cf6ea203d9f8b2593993b7499b4e026bbddf0b69d2e02"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Boost-Brain-Power-300x169.jpg",
+    "bytes": 10735,
+    "sha256": "9d242afd840d8268f3024ecfd169560bc5537368931c07db8fd685de8dba377b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Boost-Brain-Power-450x253.jpg",
+    "bytes": 20083,
+    "sha256": "e4332f74f3b51ee0f43b010501f428ab5e938f31e6e0166435b5d53815047834"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Boost-Brain-Power-768x432.jpg",
+    "bytes": 43980,
+    "sha256": "4d8399198b79726f519191a66a2eb4022448690853f9ed989c6497ca351b26d6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Boost-Brain-Power.jpg",
+    "bytes": 51677,
+    "sha256": "c2583c1607faf86550b524b46b942c5d815abd01f1b430c838555b353e33533c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Citizen-in-Europe-1024x779.jpg",
+    "bytes": 96317,
+    "sha256": "1028902cfeb86e481d0245eb0a8360aec88575cb4c6244816f1b21cdf8045dec"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Citizen-in-Europe-150x114.jpg",
+    "bytes": 4797,
+    "sha256": "1303390fb5fd2aa4fbdfc1b9ca20ef5f3c953bf3687f74942c8079807c55f6e3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Citizen-in-Europe-150x150.jpg",
+    "bytes": 6025,
+    "sha256": "843aa438c8bfb97d2aee66ab1b64a23766af8643f7004a8ac1428286b54bf6a9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Citizen-in-Europe-300x228.jpg",
+    "bytes": 15771,
+    "sha256": "4b649e99077fb5a44c99ba48dd8350289cafd5e9d80bf3df948ff0976b0e208e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Citizen-in-Europe-450x342.jpg",
+    "bytes": 30790,
+    "sha256": "40a7f5d9fdaa3e1f2decb547d8721f0c6820793c9eca28e2a5091bca092a083b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Citizen-in-Europe-768x584.jpg",
+    "bytes": 65166,
+    "sha256": "ef77dd44c8beca0b8eae072809621afc0e4fef38d4ed33afe7b3c867fa9fc53c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Citizen-in-Europe.jpg",
+    "bytes": 94529,
+    "sha256": "93c6b95cf2d5c8dd28bce7f93af2925266f69e08d5e8ddd8bc2e1b48843c1008"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Citizenship-in-Europe-1024x576.jpg",
+    "bytes": 76288,
+    "sha256": "888130a60a9325ae3fdc1ca3bb499d4fd7a860164b5f330aa075fe4fd3f17ddb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Citizenship-in-Europe-150x150.jpg",
+    "bytes": 5445,
+    "sha256": "e89d801e57ba919b3d17228b1d9db6c1a0e951d15d598a69d1c2466716669985"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Citizenship-in-Europe-150x84.jpg",
+    "bytes": 3642,
+    "sha256": "8b068ae078beaf9aeefe2bab9729b590d2c8b63fa0e612bf428306d95dcc2f7b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Citizenship-in-Europe-300x169.jpg",
+    "bytes": 10725,
+    "sha256": "310523781206492f7ac405e8fd4c4459ca0541a0b1a8d8e07cd6b9e7496c72d9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Citizenship-in-Europe-450x253.jpg",
+    "bytes": 20451,
+    "sha256": "9d223de6794c72494b4d2792ba34744e46c6cf8915ead468519310c974e84259"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Citizenship-in-Europe-768x432.jpg",
+    "bytes": 48425,
+    "sha256": "bb36f8e35192ba7e079de28830b337ad82c90ad6d7798360b6d479aca40aa5c2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Citizenship-in-Europe.jpg",
+    "bytes": 62955,
+    "sha256": "3a4fba24f9ac4bf6e5c74a743fac98c9ee42fff61797fcc3dce0bf03d0a287fa"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Croatia-Visa-from-Banglades-1024x576.jpg",
+    "bytes": 82536,
+    "sha256": "958ceb5c47c1274b7e339fe3c4b66deb81d6e66607bf5e262e96578258ccba0f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Croatia-Visa-from-Banglades-150x150.jpg",
+    "bytes": 7221,
+    "sha256": "f6605e2f4c34156c7ce39979e223acc6a4e8b552322b78e8fa0c50a6c7781721"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Croatia-Visa-from-Banglades-150x84.jpg",
+    "bytes": 4376,
+    "sha256": "4787cb3f4e8d4039cf8d6581e1d50ef70c10c42d8efbf0346d73ed9bc05d94bd"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Croatia-Visa-from-Banglades-300x169.jpg",
+    "bytes": 13131,
+    "sha256": "9609b7c42686cd5fdb0fce5786091bbc619ad4d0fab066ad8549001dbdf2778f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Croatia-Visa-from-Banglades-450x253.jpg",
+    "bytes": 24602,
+    "sha256": "84c02254191800584c69145b9ebb0b43105d9b2190d5714782640fcf05430d9e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Croatia-Visa-from-Banglades-768x432.jpg",
+    "bytes": 54625,
+    "sha256": "719797327a616324df2c5a05d4bf043d0920f83fc63c940cb77ee910cf687412"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Croatia-Visa-from-Banglades.jpg",
+    "bytes": 70401,
+    "sha256": "bfcda79d69ea0b9bd6026aa6e3bd735d5b400c8edda22319190c195308b70bbb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Croatia-Work-Permit-Visa-1024x576.jpg",
+    "bytes": 141497,
+    "sha256": "92a404be902b9e71cd6ed6c8042c1453e5f1f3f770e0df3483716c332b2bf729"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Croatia-Work-Permit-Visa-150x150.jpg",
+    "bytes": 8836,
+    "sha256": "0ca74e815cf4d8a1ccff329e404a9d2cfe2d2191dee9f3316152caabb6909cc0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Croatia-Work-Permit-Visa-150x84.jpg",
+    "bytes": 5581,
+    "sha256": "e05be30c1c063a186212ab35f308e6dbd6a50d219f99cdc8efd995f1f0d8c1ba"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Croatia-Work-Permit-Visa-300x169.jpg",
+    "bytes": 17938,
+    "sha256": "992202239e969d23e96361ff4df97910b38269d82c76bbfb766882bd5ae34f5d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Croatia-Work-Permit-Visa-450x253.jpg",
+    "bytes": 35682,
+    "sha256": "8cdfcbf35add02d9ccd1ae36e04a268190275fdacbd0f4b1dfdff9260d739e5c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Croatia-Work-Permit-Visa-768x432.jpg",
+    "bytes": 88113,
+    "sha256": "d1946488ef294c754c48997d9e62db46c8c6a9bfc3e4856b0d6a0645480dbf50"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Croatia-Work-Permit-Visa.jpg",
+    "bytes": 135344,
+    "sha256": "aca11673ced022bcd943ea7f1b32341a7f5178aad4ed3c97414b4142122f70df"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Current-status-of-Croatia-w-1024x576.jpg",
+    "bytes": 52321,
+    "sha256": "4510a198e766bca2e58b31b0394130c355b0781d5e42901ec4644863aed6c1dd"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Current-status-of-Croatia-w-150x150.jpg",
+    "bytes": 4937,
+    "sha256": "99d3bd254ffb040aacc8d58c6a14da5c4bf0c9942c87b98a4a24b46516498a56"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Current-status-of-Croatia-w-150x84.jpg",
+    "bytes": 3113,
+    "sha256": "5d5666665c1ce239928e37b64d7b6284dc809d913f300f13fadeeca108d21185"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Current-status-of-Croatia-w-300x169.jpg",
+    "bytes": 8927,
+    "sha256": "8e3e0f99b341dcf0ea5cb466961f5d169a8a72e973f1d3dcd75e76054e809be1"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Current-status-of-Croatia-w-450x253.jpg",
+    "bytes": 16816,
+    "sha256": "b5c150a2e5a5e736c8ceed4a8cee042961900edc2d42f47246f1220c382fcd02"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Current-status-of-Croatia-w-768x432.jpg",
+    "bytes": 35419,
+    "sha256": "d0f2a89cb0d8eb39fcfa0cfa3fa36246b0b3c853c8cba909b2600d059de9563b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Current-status-of-Croatia-w.jpg",
+    "bytes": 41695,
+    "sha256": "5a1c45a16f7fbe8e09c86699fb77945665f183134eda4925a7b2c7c01f9c5154"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Deep-Focus-on-Work-1024x576.jpg",
+    "bytes": 70510,
+    "sha256": "ef3a9dfb88d42e7da99972e6a154679745d0ccdbeb478521a328aac9f9d7d504"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Deep-Focus-on-Work-150x150.jpg",
+    "bytes": 6487,
+    "sha256": "059c36253942c4c4a5de960760d00d28efd65a8aee934943c2c55f8379584c28"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Deep-Focus-on-Work-150x84.jpg",
+    "bytes": 4093,
+    "sha256": "0897f8f0475ba302693b93f6a7864257fca6df5948b5bf135bd78d25ea090bf7"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Deep-Focus-on-Work-300x169.jpg",
+    "bytes": 11297,
+    "sha256": "bac192720a2e5e1d00fd689e33972b99b2e7ff818a6f71a7efe149f64100d08f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Deep-Focus-on-Work-450x253.jpg",
+    "bytes": 20561,
+    "sha256": "3a0de6d7a93fdccaa9d80c67b870006460d6aec9ac24f4e6139e9283e0913359"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Deep-Focus-on-Work-768x432.jpg",
+    "bytes": 45722,
+    "sha256": "696a874f165ffb704020729a14a584d97570ad3d3b5cdda71410752d72e9c508"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Deep-Focus-on-Work.jpg",
+    "bytes": 55161,
+    "sha256": "36d602abbbe6584eca08df8bc3fbbad8cff69748fc6af7c922af8f0e66cab4fb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EB-3-Visa-Benefits-1024x576.jpg",
+    "bytes": 59534,
+    "sha256": "28f3019f54e7a840c4a6f94d752d5eb7dcbd63afe6bee94fd9d9e97a7725e2a7"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EB-3-Visa-Benefits-150x150.jpg",
+    "bytes": 4951,
+    "sha256": "c97e0f06ecada3a0bfb6881e2aecaff1f7eb28f979c67010d458f07a3e9f567d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EB-3-Visa-Benefits-150x84.jpg",
+    "bytes": 3388,
+    "sha256": "1ae4d18c101e963f429066a026e96056ff21857f537a10433689e3c5e8a400fb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EB-3-Visa-Benefits-300x169.jpg",
+    "bytes": 9700,
+    "sha256": "5b465a2693d358e5c6187ca7e592c49468da0c238470895038a934853b4ea955"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EB-3-Visa-Benefits-450x253.jpg",
+    "bytes": 18338,
+    "sha256": "59d851d018552b04cdd00cd31aea43e6c67fff197fb45d53f04b5b7a208cac9f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EB-3-Visa-Benefits-768x432.jpg",
+    "bytes": 39172,
+    "sha256": "9c9b54667d8de8717292180825a0b9b17b466378f115357fe74ed759cf547c54"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EB-3-Visa-Benefits.jpg",
+    "bytes": 58864,
+    "sha256": "ede8c941523fe7991b80e7ad8c93151ed057e77b8430d1164e1bbd47077cb891"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EB-3-Visa-Process-1024x870.jpg",
+    "bytes": 53256,
+    "sha256": "4aaa986a2d042147524dc962d421d9f095eeea2bf0e1cbb62d06c6765cb746dc"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EB-3-Visa-Process-150x127.jpg",
+    "bytes": 3068,
+    "sha256": "7b639e683c8d52a329a6bf3e7d811523de2364b999205eee0ce67024511e52ef"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EB-3-Visa-Process-150x150.jpg",
+    "bytes": 3660,
+    "sha256": "f9ed02f67fd2ea53c776199c2973a308255c9ee762fd8eea74f7b2ee3a467c6f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EB-3-Visa-Process-300x255.jpg",
+    "bytes": 8749,
+    "sha256": "6f4612cc2272d0863b8456706d8d3a6aee2c10fcb533995ffed84d7e01704df3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EB-3-Visa-Process-450x382.jpg",
+    "bytes": 16739,
+    "sha256": "29f4b93c9b59f65ed90cdba739ef17ded7f449bc141be422c672650b0c6c9729"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EB-3-Visa-Process-768x652.jpg",
+    "bytes": 36275,
+    "sha256": "e67bfdb0458dfcb92eec03f1cdba92e431ccc31c7593cf3b751102c9cd86372f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EB-3-Visa-Process.jpg",
+    "bytes": 53722,
+    "sha256": "c1fee6e1dbf3e30fbb57ff968ed52f4de7eea4eecd39101fe13cf592585c34e3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EPOS-Employee-Registration-1024x467.jpg",
+    "bytes": 44510,
+    "sha256": "06eefe04d54e8ecbcb273537572a7eb1c6733c90b478c98c1265c08fa1a7a4fe"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EPOS-Employee-Registration-150x150.jpg",
+    "bytes": 3926,
+    "sha256": "0305e3421f8d525be82a3e3c2660a78ccaddaeffa0b15e7bc9f2972b57670b32"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EPOS-Employee-Registration-150x68.jpg",
+    "bytes": 2161,
+    "sha256": "f6bd3f1d7292d5e1822942d7e6147714500526ec3bc2d1558adca118ee533615"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EPOS-Employee-Registration-300x137.jpg",
+    "bytes": 5903,
+    "sha256": "70c06176ba91e4ce98936e8d77cb4afc54e29b8b4b3685f7edb4b0d87d0eea83"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EPOS-Employee-Registration-450x205.jpg",
+    "bytes": 11176,
+    "sha256": "0df818e2179c9a401c6324eed9429762d0eb90d5370e79c2beea4d177f15dfa0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EPOS-Employee-Registration-768x350.jpg",
+    "bytes": 27224,
+    "sha256": "560d420c2c2504b9be2b13b23e424067de937525695e94e4f62d57b0058587ba"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EPOS-Employee-Registration.jpg",
+    "bytes": 44236,
+    "sha256": "1b2bca0cc32e3fe18d2c024879758054af989c09fdb145656539675a581a1357"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EPOS-Home-1024x513.jpg",
+    "bytes": 77325,
+    "sha256": "9df7f2cf993b2abca5b389d0362b004d8abcac1f708abd7f2a5902b6d8673396"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EPOS-Home-150x150.jpg",
+    "bytes": 5586,
+    "sha256": "802da0f5b7700f1110a7c56724e487e3c816195c864e6b28a871d5814f95ce04"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EPOS-Home-150x75.jpg",
+    "bytes": 3423,
+    "sha256": "56f251fffb6ad064471b1e0cac5acb1425f55656bb277f446fc5f943190f41d0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EPOS-Home-300x150.jpg",
+    "bytes": 10524,
+    "sha256": "d06e80802b88cc0872376d93aadfac7cf0815f179806005eff0bcaed4c4c07a8"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EPOS-Home-450x225.jpg",
+    "bytes": 19605,
+    "sha256": "174ef76b29a864f70f2fe71108c39508a4c7b5c5c71a9a5fb46fc3258525fbb4"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EPOS-Home-768x385.jpg",
+    "bytes": 49751,
+    "sha256": "1a1b854b6bc2d1afdc26edc37814389dc2d0b55ab69779596b642fa6640e8d40"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EPOS-Home.jpg",
+    "bytes": 78489,
+    "sha256": "f8fd65ebfb3fd47825b5f0afa95f4893f445a3ed682a63eff3bd3581827a25f5"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EU-Citizenship-1024x538.jpg",
+    "bytes": 64209,
+    "sha256": "ac9ca6c7c63428fffc55b9ac4cf17c6fb8535f3833c69b7e30c30d42e47337f8"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EU-Citizenship-150x150.jpg",
+    "bytes": 5541,
+    "sha256": "1e7eeded72cd891d834a3ab16be4850ad70cff39963780d773275180d4644f05"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EU-Citizenship-150x79.jpg",
+    "bytes": 3589,
+    "sha256": "042c9bd29a4737ad2b6a20c407be9765fbba3398b3805427dc59212287e419ff"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EU-Citizenship-300x158.jpg",
+    "bytes": 11007,
+    "sha256": "5ab8b36840d441905984447a3058fdd5bbb6850cfba19c134cd0873bb7ea93de"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EU-Citizenship-450x236.jpg",
+    "bytes": 20453,
+    "sha256": "3c40c7b1131f2767cf91770851018d1c28d2aa7553de3f447ad9a350663dd057"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EU-Citizenship-768x403.jpg",
+    "bytes": 43703,
+    "sha256": "cff639e15f9ebb085aab294b27f0c8189972298fdacae7c5834f19830e03ce72"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/EU-Citizenship.jpg",
+    "bytes": 61269,
+    "sha256": "bf1c0ac1ff93173cb9150963a1bd3d000132e38431610561149f19dc8f48bdae"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Efficiency-1024x576.jpg",
+    "bytes": 98866,
+    "sha256": "be60be5b591343638447a1c3402dc2314626f1e22387424fa8c3f2bd0851f781"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Efficiency-150x150.jpg",
+    "bytes": 7461,
+    "sha256": "d4d176cb5e1eefca48943f22a95e549e4a74ef5047a80b557dc0b8734ed2160f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Efficiency-150x84.jpg",
+    "bytes": 5127,
+    "sha256": "a332998cbfbb0f560c03ada4a3d70b1ec5ce2e14eca9e46119e530b80069cbd7"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Efficiency-300x169.jpg",
+    "bytes": 14758,
+    "sha256": "92d191467568046727d781a32679f0cc4730e3f7bf700a15f41f16844e503113"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Efficiency-450x253.jpg",
+    "bytes": 27810,
+    "sha256": "fb20d7a6fcc3e75c2551def3898a2772d0b33109bf47027a7df6a18304b961b4"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Efficiency-768x432.jpg",
+    "bytes": 63837,
+    "sha256": "3d33172aef4ce6cfe7e8ebd1c7c64a0f58ec7f8c4b32b268738aa1447fd5acf6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Efficiency.jpg",
+    "bytes": 86110,
+    "sha256": "765253abb5f2d1afb49aebd5d10fed83ae5890147aa39f1a77be01dca0038461"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/German-Opprtunity-Card-1024x576.jpg",
+    "bytes": 99631,
+    "sha256": "075bf73b9f97a1fec284760405e1229ede8342993ee4620733146fa35d911872"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/German-Opprtunity-Card-150x150.jpg",
+    "bytes": 6942,
+    "sha256": "36214a668e9095edf349a1d159fabc2eec4a4ad1a13e43100f41aa3758356076"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/German-Opprtunity-Card-150x84.jpg",
+    "bytes": 4638,
+    "sha256": "07604bdf37e9615e2ca70267b39acb17b1ffb3c252620471af63fa240a1f48d3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/German-Opprtunity-Card-300x169.jpg",
+    "bytes": 14073,
+    "sha256": "289dbd0df9886c640fa6fcc9b04a070f371fb75366aeaab0b6e649cc428a5f62"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/German-Opprtunity-Card-450x253.jpg",
+    "bytes": 27276,
+    "sha256": "2fa199aea834b91e10ad7160b1cc5ed380130e7297e44feacdad6c96d9895b01"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/German-Opprtunity-Card-768x432.jpg",
+    "bytes": 63999,
+    "sha256": "95ea19d3d26723d1e29564381805ec55aab2b58a00012544c166bf06faf00a0a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/German-Opprtunity-Card.jpg",
+    "bytes": 85817,
+    "sha256": "7a6bf8afbbd50ef4dfd6e007d836725c6214c626c055b9719e2e526347171d68"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Imperfect-Sleep-1024x576.jpg",
+    "bytes": 63518,
+    "sha256": "5a2566aa97106827f2f66458846ca7c0810092cc40d8cd72db3ce59a9d33e268"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Imperfect-Sleep-150x150.jpg",
+    "bytes": 4868,
+    "sha256": "b10a5717b8fd9ba5b15d6cb733effe73df0c3ffcee1332662fa023707bb3ea05"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Imperfect-Sleep-150x84.jpg",
+    "bytes": 3548,
+    "sha256": "b8376061a80f10163c4a0288071133bddcdf3f29b87540b7418130b47899073a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Imperfect-Sleep-300x169.jpg",
+    "bytes": 10049,
+    "sha256": "e40f5c9899650e2860b5ddc11d1beafc4b05dc4227a61765ef4e3bd21329aa4d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Imperfect-Sleep-450x253.jpg",
+    "bytes": 18449,
+    "sha256": "37a05742051bc13071fa4498c91a3948a2a56b8ecb984569a6a7143bdcb2a6ff"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Imperfect-Sleep-768x432.jpg",
+    "bytes": 41029,
+    "sha256": "8349b53ad199bfc48455cf34a016fd9a62b38b5e81341f1e01a1a99d52822f6d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Imperfect-Sleep.jpg",
+    "bytes": 48109,
+    "sha256": "da2dae44c96d57651e67478bd7fe58a3d8eadc1546ac9b7126e1632374cc5041"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Ireland-Govt-Official-Websi-1024x518.jpg",
+    "bytes": 77809,
+    "sha256": "dba3869281dad95c29faf602cee0e11fb937a44fd22b0d74125bfbf28a9dba12"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Ireland-Govt-Official-Websi-150x150.jpg",
+    "bytes": 5917,
+    "sha256": "0c6fb46a090e7710492e06d8036ad989973423990b7cd75e8151cf8aa6cd230b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Ireland-Govt-Official-Websi-150x76.jpg",
+    "bytes": 3454,
+    "sha256": "9b47cd6ae51f0db8a93dd223ca746fcc666f13dd4d702787db46590be1c6e74a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Ireland-Govt-Official-Websi-300x152.jpg",
+    "bytes": 10761,
+    "sha256": "375a972a069c41c5ffec85d2b7531eeee6a102cd5c994a4bb1bcd827b08bd99b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Ireland-Govt-Official-Websi-450x228.jpg",
+    "bytes": 21545,
+    "sha256": "51d554dce0342f6a44a4cbc3b5ce01be849858ee12e55d8cdfccde0b7cff33b4"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Ireland-Govt-Official-Websi-768x388.jpg",
+    "bytes": 51753,
+    "sha256": "b84b90532df70d15aac3ee574e122130b6292a2eb26cbd866a910445c6c47590"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Ireland-Govt-Official-Websi.jpg",
+    "bytes": 76669,
+    "sha256": "1d7af2a9caa8137fef0632629eb4b61c45c6e077293e05df65715899eb911cda"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Jobs-vs-Career-1024x576.jpg",
+    "bytes": 72023,
+    "sha256": "83783f717e8f4bce3fc8ce23774fea9bc4172db27d2682c3af0c3b52f400593b"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Jobs-vs-Career-150x150.jpg",
+    "bytes": 5923,
+    "sha256": "bbf135faad8e7358f77c75eab7bb8b9d01f4ac1142028b02e9f76b6c35e407ab"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Jobs-vs-Career-150x84.jpg",
+    "bytes": 3742,
+    "sha256": "ae85f676f3328584cae66d9c53233589f0c636414b4cc7d57b29d0b7d28a34db"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Jobs-vs-Career-300x169.jpg",
+    "bytes": 10941,
+    "sha256": "da64646d46a0d6c5102754c423ed6970ee78d9cf07accb2420dc0c8b0b7a7c16"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Jobs-vs-Career-450x253.jpg",
+    "bytes": 20367,
+    "sha256": "b7a1021f2b0b688927cefe8e0439f0ed1b7433f919baf1ac02c4d17812585d36"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Jobs-vs-Career-768x432.jpg",
+    "bytes": 46379,
+    "sha256": "b2fc582821f081ddb79d9b854a204916393d15c0306fb6c01898427238e952c6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Jobs-vs-Career.jpg",
+    "bytes": 58784,
+    "sha256": "01eb3d0d7b290a1e86821ac519041cd7ee0542f70d55b10523ac43c2b76afd64"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Malta-1024x574.jpg",
+    "bytes": 83630,
+    "sha256": "05606a18eb842d3775315cacf81b0a8797e5772a56a252ac7b9629aff9c91226"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Malta-150x150.jpg",
+    "bytes": 5042,
+    "sha256": "26f8126caddeeb84d32ab157c76ea6b8c2804c2d968bbd9c7bf7d3ee3b635e27"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Malta-150x84.jpg",
+    "bytes": 3545,
+    "sha256": "d748aee1bd401ac4ad2276027d6b2e9ae25bdae7d725df8776ba875b94ee8741"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Malta-300x168.jpg",
+    "bytes": 11385,
+    "sha256": "7bf248e363fd7f2b25d326eaa3411226e1a5087b8fd24517b61a2258fc845414"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Malta-450x252.jpg",
+    "bytes": 22801,
+    "sha256": "a5f91973eb4af5e16c532d669e00655fc1bc091f094ffe6ac16fd75c27a2d40d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Malta-768x431.jpg",
+    "bytes": 54172,
+    "sha256": "df09c6dcf5d702087829bf865b4595cf3d25855fa48d412924fdf0f4102e2300"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Malta.jpg",
+    "bytes": 76033,
+    "sha256": "227fc5b29e8d9c9e0f4b1243347da9b95ad7b8f7d90913404d8566d9083b1934"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Perfect-Time-Management-1024x576.jpg",
+    "bytes": 57626,
+    "sha256": "581aebef1ad8e21885dd511dbf185970b7fb15ca5265583da35f63296872e7ed"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Perfect-Time-Management-150x150.jpg",
+    "bytes": 6048,
+    "sha256": "ca9782cfe180e2c68632a269150907f365f5def25c07eade31ea979e23c3a7d9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Perfect-Time-Management-150x84.jpg",
+    "bytes": 3387,
+    "sha256": "66d43895d98c23da74b4c822d16adf515c5bbd1e2e3050b1ae1241149d922c57"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Perfect-Time-Management-300x169.jpg",
+    "bytes": 9361,
+    "sha256": "535d235be59b0b39b99e29d9376579e3aadd21c0cc6b012d859ccf93eb6dfb14"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Perfect-Time-Management-450x253.jpg",
+    "bytes": 16900,
+    "sha256": "dafdb3c9c09d159927329b84df1b4cf68b4a84d5b0149ae1ea01d59b1f032e6c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Perfect-Time-Management-768x432.jpg",
+    "bytes": 37919,
+    "sha256": "567086081849a62d5348ad85be3f99622cc9045c784ac45448d45f6057277526"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Perfect-Time-Management.jpg",
+    "bytes": 46968,
+    "sha256": "6146c5cce85c298ace8d193fd7064f2254b395e662ef973e4692e390e7a4f8d8"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Portuguese-1024x538.jpg",
+    "bytes": 73918,
+    "sha256": "1b3ae189ed72f38d0464b96678c6f11faddf1c37ffaeef983aeffcdeb1ca0faf"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Portuguese-150x150.jpg",
+    "bytes": 5872,
+    "sha256": "531b8f30e4348c06dc3ba19a94b321522130fffb64c6b8c3ad2cc5acf5108231"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Portuguese-150x79.jpg",
+    "bytes": 3557,
+    "sha256": "3a5b1fc44318f2ffd5384c0b40f25a66f0994107522ada707588f0b2b6f4249f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Portuguese-300x158.jpg",
+    "bytes": 10690,
+    "sha256": "9a737867df23bfb63479a30783b556a194822ffa858388dd7e1090eb174dbcc4"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Portuguese-450x236.jpg",
+    "bytes": 20720,
+    "sha256": "5a51f247802308da83c93d393cc738c6b7bd71c732c768b138725f7b044a6578"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Portuguese-768x403.jpg",
+    "bytes": 47970,
+    "sha256": "3c0edc81570d68dac1ab3aae13b31e7571f80d9722e385c76915fa5fbab7881d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Portuguese.jpg",
+    "bytes": 67604,
+    "sha256": "838f77317378844d51bf3bbe97bfbde4f0069337ed8a6a92e84f5b07693842da"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Pro-and-Cons-for-Croetia-1024x853.jpg",
+    "bytes": 67597,
+    "sha256": "926db0158fd5f658044e4c6dff2c8a11ee06f88ca6230f918369944ae0ef22a6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Pro-and-Cons-for-Croetia-150x125.jpg",
+    "bytes": 4228,
+    "sha256": "16de51ec299d60298de62f4a2d569b85ab035ac7086259fe1319564d44b5bae3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Pro-and-Cons-for-Croetia-150x150.jpg",
+    "bytes": 4523,
+    "sha256": "460b99fe5b67fd55213cd6dd52ebacaf0a10bf15b048344e442dcb1a069d363f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Pro-and-Cons-for-Croetia-300x250.jpg",
+    "bytes": 12827,
+    "sha256": "0ea596c9b5890e7395ca3f3fbdb7a12f84e50f10c749941697671206eccfb054"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Pro-and-Cons-for-Croetia-450x375.jpg",
+    "bytes": 23531,
+    "sha256": "1a08a16e90896ca280f8f69a6351d5e11cfefa4b9865bd73197f5ba4225911ec"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Pro-and-Cons-for-Croetia-768x640.jpg",
+    "bytes": 48012,
+    "sha256": "13d79253ec2dc1bebf5251aeaafddc9e9e2e68dea727322df492aaf0334bd111"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Pro-and-Cons-for-Croetia.jpg",
+    "bytes": 65496,
+    "sha256": "afc2a1e7a8904691392db6f7280dcf68806159dbf21d2183cc3487e58afaf772"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Quit-Job-for-Masters-or-Not-1024x576.jpg",
+    "bytes": 38307,
+    "sha256": "6dfbe9cb9d4821949a5ccae9862e29215a32803258123da1afb48b31d339a53e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Quit-Job-for-Masters-or-Not-150x150.jpg",
+    "bytes": 4195,
+    "sha256": "46e2f1be57edf18fff336cfc0ddb7eb4fa09432c65e91e7ef816e4e647d078a9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Quit-Job-for-Masters-or-Not-150x84.jpg",
+    "bytes": 2727,
+    "sha256": "191c4e5836b6e9ce85fde1be45be6cbd29bc46a66a4b89ba1ce1cc7df5c69135"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Quit-Job-for-Masters-or-Not-300x169.jpg",
+    "bytes": 7236,
+    "sha256": "1c617ab29739a70a22f61b3e4d449de7f260dabf4a13050ac9a9f09a53a27ff7"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Quit-Job-for-Masters-or-Not-450x253.jpg",
+    "bytes": 13144,
+    "sha256": "6bce16e60c9b9c370e60b201e0f244ac6394af1ca57a6044bc719c9902f593e8"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Quit-Job-for-Masters-or-Not-768x432.jpg",
+    "bytes": 27094,
+    "sha256": "b82213744efdb5ed6419484281959e03156de7cb6ca9bcf912923a75a4a6c8bf"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Quit-Job-for-Masters-or-Not.jpg",
+    "bytes": 37567,
+    "sha256": "c4b40f0613451777e9e3bd3fbe91ea20dcca6e0f4b5325fc163fdb0b2be87f3a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/USA-EB-3-Visa-from-Banglade-1024x576.jpg",
+    "bytes": 65850,
+    "sha256": "4653c38ac7abf5fc0eb508f1614267f15044f72892bde22ac829ede56c35bf2a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/USA-EB-3-Visa-from-Banglade-150x150.jpg",
+    "bytes": 6132,
+    "sha256": "7f9a9df3b6f2fd93c69bfb0eb1284ef5e4c766713861cbca5d995d80bd66ef74"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/USA-EB-3-Visa-from-Banglade-150x84.jpg",
+    "bytes": 4241,
+    "sha256": "07012a5132bf5de40fc9670ebb320e215c12b1d1852da4e4f08eb1c1b095f277"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/USA-EB-3-Visa-from-Banglade-300x169.jpg",
+    "bytes": 11601,
+    "sha256": "eda817e6cca48d3efd3b86123057428df620cec4c05e4837c0ceaa50fcbf727f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/USA-EB-3-Visa-from-Banglade-450x253.jpg",
+    "bytes": 20753,
+    "sha256": "f2d50f310a3d4655b2fd2d19ea5126547df32ae10796774f5a111ab9393a9bd2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/USA-EB-3-Visa-from-Banglade-768x432.jpg",
+    "bytes": 43739,
+    "sha256": "c0962006fbcccea7e0ddd1a4827d98ec0882971f3c57b523941ac6dd7fd36588"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/USA-EB-3-Visa-from-Banglade.jpg",
+    "bytes": 51442,
+    "sha256": "27bae8b3c9f2f474503a103794f367ea45010d2c0d66babf1107558f82c05d13"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Visa-applications-in-the-Co-1024x515.jpg",
+    "bytes": 53760,
+    "sha256": "0621d2c7cbeaea7fffe859adaa5f1f42ec658bf9782215df9b3252e55a713cba"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Visa-applications-in-the-Co-150x150.jpg",
+    "bytes": 4001,
+    "sha256": "3ba39f96714434dd78ca020ab39ba671a674eae5610d92d79be5903442215cc0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Visa-applications-in-the-Co-150x76.jpg",
+    "bytes": 2400,
+    "sha256": "4ae4ba5df0c8404541809628ca642b94f476705997409826c565b47c3d5f3f09"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Visa-applications-in-the-Co-300x151.jpg",
+    "bytes": 7306,
+    "sha256": "51c4fd4840d53046dd7603f2ddbf4806674e9f81212e001381c9b3cb49f86aab"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Visa-applications-in-the-Co-450x227.jpg",
+    "bytes": 14985,
+    "sha256": "853d189a62f2311902262395f00406df03705f4ec1f0d460c0ede2116af4ac31"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Visa-applications-in-the-Co-768x387.jpg",
+    "bytes": 35127,
+    "sha256": "5aab24fbdc18e82e0c9b27439dabc6993c75a229233773bf93d66788a40aeaa8"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Visa-applications-in-the-Co.jpg",
+    "bytes": 54979,
+    "sha256": "5a18fa8cd3ed21ad65c35709d45b128b5be0bbace5e3513b45b2441648b117d4"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Whole-Night-Work-1024x576.jpg",
+    "bytes": 98290,
+    "sha256": "a7fb7e2467f1390e3cbee33cd4f5a9422ca18d1a00130d2eacd28032fcbb6cb2"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Whole-Night-Work-150x150.jpg",
+    "bytes": 7144,
+    "sha256": "9d165669f02ac607fdd1d66a9d12e50ef70472d1ba8d5d822903d86e0fffcd9a"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Whole-Night-Work-150x84.jpg",
+    "bytes": 4917,
+    "sha256": "03881259f822c7c16ad3a7a1af9f92e43c7e6f24e7bc749e3d6c55e50ef92444"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Whole-Night-Work-300x169.jpg",
+    "bytes": 14733,
+    "sha256": "b9f8c07cea772d3ff6288713c968e31a7a3a890e8a351913f7a4f85ab3de9454"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Whole-Night-Work-450x253.jpg",
+    "bytes": 27947,
+    "sha256": "e6b47d3ce68641a3974ad385bad798fa275c8c9751f13167e661bae56fbedc9f"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Whole-Night-Work-768x432.jpg",
+    "bytes": 63834,
+    "sha256": "1e6f26c0cd3a76c86e34501f8b766f5718a0f6c16222c45e48e5c1252cf0b899"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/Whole-Night-Work.jpg",
+    "bytes": 85331,
+    "sha256": "4227a480328ede913a56112bd30b096df3391d2783c8905510d936bf6868db40"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/croatia-work-permit-visa-1-1024x576.jpg",
+    "bytes": 117916,
+    "sha256": "7669a988e957153c7ef0f616ec1f14e64485cb405aa47d24b818e1ff5b7d6414"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/croatia-work-permit-visa-1-150x150.jpg",
+    "bytes": 8300,
+    "sha256": "05264771e811f717d7d2fd11aa84e269ec02d6c8f7bea82e423f10327e2e7b4c"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/croatia-work-permit-visa-1-150x84.jpg",
+    "bytes": 5416,
+    "sha256": "fd180bc75fedc7dc2dadf22d3d88a7b243ce3836ad7168648b1d66feb3b9f8b3"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/croatia-work-permit-visa-1-300x169.jpg",
+    "bytes": 17327,
+    "sha256": "c835704ba5aea8882b2224ecc299693d85f372cdda5adcb1a90cf97b6d4c38bb"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/croatia-work-permit-visa-1-450x253.jpg",
+    "bytes": 33362,
+    "sha256": "b081fdd9806fae7ac44f3ecfb3416413ba3b16535fc956f9616ac730fa4c8dca"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/croatia-work-permit-visa-1-768x432.jpg",
+    "bytes": 76187,
+    "sha256": "09bc16ff17374ed585a9ad552b801aefef56633d7a4f6c89587a7aae1aa5c031"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/croatia-work-permit-visa-1.jpg",
+    "bytes": 101700,
+    "sha256": "bc2f2a03833cc2f300ad1ac1e559baa2b658a77f8fc4930cf0916a7f2c539e45"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/ireland-work-permit-visa-1024x576.jpg",
+    "bytes": 106268,
+    "sha256": "4f19885a2214e712e52287ee7536d1367cd435dfa8c4ba592faa55730f4e607d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/ireland-work-permit-visa-150x150.jpg",
+    "bytes": 7696,
+    "sha256": "540d1a95814a1de4ba8fd90ae7967e76f84753055283fc2762be3bd7a521a6d9"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/ireland-work-permit-visa-150x84.jpg",
+    "bytes": 5090,
+    "sha256": "53921ca448b3dcd9359c5de7c4114432c98df65ab5fa1008fe6fab7525fc5035"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/ireland-work-permit-visa-300x169.jpg",
+    "bytes": 15497,
+    "sha256": "e5a8642547d2dd2089855abc2dfdbb687a8a90b337517e0d8faebc448dd1b052"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/ireland-work-permit-visa-450x253.jpg",
+    "bytes": 29792,
+    "sha256": "d30edd8aff11813e63d636aa4544ed9ac1b2898e6d8a54fbc320fd1143cc5a58"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/ireland-work-permit-visa-768x432.jpg",
+    "bytes": 68755,
+    "sha256": "57f3c75448f324ffe48f56a442eab0de01242d2164ebd100dece159fa1f652d7"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/ireland-work-permit-visa.jpg",
+    "bytes": 95109,
+    "sha256": "aa0fd54a011c16c332f6f0198b545b04e96580a6f5375c59359b105bbc089e06"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/jobs-vs-higher-study-1024x576.jpg",
+    "bytes": 52850,
+    "sha256": "4c8d6a72fda9a2adfdef932b0fb0fbf85d0ed4a9cbc1251e24c4b85edcfce01e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/jobs-vs-higher-study-150x150.jpg",
+    "bytes": 5806,
+    "sha256": "3e1d044881c131eb972c9ac75e56cf587cdb80ed25deb2fe381f3ba659d019f6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/jobs-vs-higher-study-150x84.jpg",
+    "bytes": 3399,
+    "sha256": "38b4eb3d68a6b1bf82a8150745d5a9f7daed5bafd7f95beacbe92c6ca6e85ff0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/jobs-vs-higher-study-300x169.jpg",
+    "bytes": 10405,
+    "sha256": "b411b80ea3a60c8b861f94150778f641727d555fc8985468dd61823d07382711"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/jobs-vs-higher-study-450x253.jpg",
+    "bytes": 18407,
+    "sha256": "9357ac05f3bda4b2187e4fea2d99977a7bfa79b511a01b0d7266560ca3549f13"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/jobs-vs-higher-study-768x432.jpg",
+    "bytes": 37487,
+    "sha256": "826ec2c0490a1fc2042e952ec811656c3b4c8e484394dcaa07bb5a7157b2467d"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/jobs-vs-higher-study.jpg",
+    "bytes": 50100,
+    "sha256": "649bdf83bf2d1bc25619897c56e0bcd087a70a920c6acd5222197a0d15dba6c0"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/webpro-150x150.jpg",
+    "bytes": 4008,
+    "sha256": "cd038d850dd6f2e1638429f873e7376c8445f5e87e2d81021e597d3e6ab4fd3e"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/webpro-300x300.jpg",
+    "bytes": 10840,
+    "sha256": "f5faa431b2e711064f6d89a6ce5ea4629860b71bf3b9ad63c756b057918957f8"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/webpro-450x450.jpg",
+    "bytes": 19751,
+    "sha256": "be93c916e6243b89e0f0e559224826143b614cbc30125bd486dff692c6d3b2c6"
+  },
+  {
+    "path": "/wp-content/uploads/2025/10/webpro.jpg",
+    "bytes": 15124,
+    "sha256": "21be4fb60155bb0b60254c5ffc54490b244669f22d6fa0ed433381f363e79c6b"
+  }
+]
