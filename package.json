@@ -14,7 +14,8 @@
     "migrate": "python scripts/migrate.py",
     "validate:source": "python scripts/migrate.py --verify-only",
     "test": "node scripts/verify-build.mjs",
-    "test:browser": "node scripts/browser-test.mjs"
+    "test:browser": "node scripts/browser-test.mjs",
+    "test:ads": "node scripts/ads-test.mjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.10",

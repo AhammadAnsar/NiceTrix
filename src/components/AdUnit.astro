@@ -2,6 +2,7 @@
 import { site } from '../lib/content';
 interface Props { position?: 'article' | 'sidebar'; }
 const { position = 'article' } = Astro.props;
-const enabled = import.meta.env.PUBLIC_ENABLE_ADS === 'true';
+const noindex = import.meta.env.SITE_NOINDEX === 'true' || import.meta.env.CF_PAGES_BRANCH && import.meta.env.CF_PAGES_BRANCH !== (import.meta.env.PRODUCTION_BRANCH || 'main');
+const enabled = import.meta.env.PUBLIC_ENABLE_ADS === 'true' && !noindex;
 ---
 {enabled && <aside class="ad-unit" data-pagefind-ignore aria-label="Advertisement"><span>Advertisement</span><ins class="adsbygoogle" style="display:block" data-ad-client={site.ads.publisher} data-ad-slot={site.ads.slots[position]} data-ad-format="auto" data-full-width-responsive="true"></ins></aside>}

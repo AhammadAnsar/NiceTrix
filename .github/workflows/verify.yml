@@ -19,6 +19,7 @@ jobs:
       - run: npm run build
       - run: npx playwright install --with-deps chromium
       - run: npm run test:browser
+      - run: npm run test:ads
       - uses: actions/upload-artifact@v4
         if: always()
         with:
@@ -27,4 +28,5 @@ jobs:
             reports/build-verification.json
             reports/browser-verification.json
             reports/browser/*.png
+            reports/ads-verification/results.json
           retention-days: 7

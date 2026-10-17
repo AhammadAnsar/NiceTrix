@@ -45,7 +45,7 @@ const schemas: unknown[] = [
   }] : []),
 ];
 ---
-<Base title={record.seo.title} description={record.seo.description} canonical={record.seo.canonical} robots={record.wpId === 8581 ? 'noindex, follow' : record.seo.robots} social={record.seo.social} image={record.image?.src} schemas={schemas} searchIndex={record.wpId !== 8581}>
+<Base title={record.seo.title} description={record.seo.description} canonical={record.seo.canonical} robots={record.wpId === 8581 ? 'noindex, follow' : record.seo.robots} social={record.seo.social} image={record.image?.src} schemas={schemas} searchIndex={record.wpId !== 8581} advertising={isPost}>
   {isPost && <div class="reading-progress-bar" id="reading-progress" aria-hidden="true" />}
   <main id="main" class:list={['wrap', 'article-main', { 'info-main': !isPost }]}>
     <nav class="breadcrumbs" aria-label="Breadcrumb" data-pagefind-ignore>
@@ -145,7 +145,7 @@ const schemas: unknown[] = [
             </div>
           )}
 
-          <AdUnit position="sidebar" />
+          {isPost && <AdUnit position="sidebar" />}
         </aside>
 
         <div class="reading-column">

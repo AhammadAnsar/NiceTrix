@@ -3,12 +3,12 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { absolute, site } from '../lib/content';
 import '../styles/global.css';
-interface Props { title: string; description?: string; canonical?: string; robots?: string; image?: string; social?: Record<string, string>; schemas?: unknown[]; searchIndex?: boolean; }
-const { title, description = '', canonical = absolute(Astro.url.pathname), robots = 'index, follow', image, social = {}, schemas = [], searchIndex = false } = Astro.props;
+interface Props { title: string; description?: string; canonical?: string; robots?: string; image?: string; social?: Record<string, string>; schemas?: unknown[]; searchIndex?: boolean; advertising?: boolean; }
+const { title, description = '', canonical = absolute(Astro.url.pathname), robots = 'index, follow', image, social = {}, schemas = [], searchIndex = false, advertising = false } = Astro.props;
 const noindex = import.meta.env.SITE_NOINDEX === 'true' || import.meta.env.CF_PAGES_BRANCH && import.meta.env.CF_PAGES_BRANCH !== (import.meta.env.PRODUCTION_BRANCH || 'main');
 const effectiveRobots = noindex ? 'noindex, nofollow' : robots;
 const ogImage = social['og:image'] || (image ? absolute(image) : absolute('/wp-content/uploads/2025/08/NiceTrix-Logo.png'));
-const adsEnabled = import.meta.env.PUBLIC_ENABLE_ADS === 'true';
+const adsEnabled = import.meta.env.PUBLIC_ENABLE_ADS === 'true' && !noindex && advertising;
 ---
 <!doctype html>
 <html lang="bn" id="top">
@@ -43,25 +43,19 @@ const adsEnabled = import.meta.env.PUBLIC_ENABLE_ADS === 'true';
     <Header />
     <slot />
     <Footer />
-    {adsEnabled && <div class="consent-panel" hidden data-pagefind-ignore><p>Google বিজ্ঞাপন দেখাতে কুকি ব্যবহার করতে পারে। <a href="/privacy-policy/">গোপনীয়তা নীতি</a></p><div><button data-consent="decline">প্রত্যাখ্যান</button><button data-consent="accept">বিজ্ঞাপনে সম্মতি দিন</button></div></div>}
     <script define:vars={{ adsEnabled, publisher: site.ads.publisher }}>
       if (adsEnabled && location.hostname === 'nicetrix.com') {
-        const panel = document.querySelector('.consent-panel');
-        const startAds = () => {
-          if (document.querySelector('script[data-adsense-loader]')) return;
+        // The AdSense tag loads the site's published Google-certified CMP.
+        // Google handles TCF consent and revocation; a local yes/no flag is
+        // never substituted for the visitor's CMP decision.
+        const slots = document.querySelectorAll('ins.adsbygoogle');
+        if (slots.length && !document.querySelector('script[data-adsense-loader]')) {
           const script = document.createElement('script');
           script.async = true; script.crossOrigin = 'anonymous'; script.dataset.adsenseLoader = 'true';
           script.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=' + publisher;
-          script.onload = () => document.querySelectorAll('.adsbygoogle').forEach(() => (window.adsbygoogle = window.adsbygoogle || []).push({}));
+          script.onload = () => slots.forEach(() => (window.adsbygoogle = window.adsbygoogle || []).push({}));
           document.head.append(script);
-        };
-        let consent; try { consent = localStorage.getItem('nicetrix-ad-consent'); } catch {}
-        if (consent === 'accepted') startAds(); else if (!consent && panel) panel.hidden = false;
-        panel?.querySelectorAll('[data-consent]').forEach(button => button.addEventListener('click', () => {
-          const accept = button.dataset.consent === 'accept';
-          try { localStorage.setItem('nicetrix-ad-consent', accept ? 'accepted' : 'declined'); } catch {}
-          panel.hidden = true; if (accept) startAds();
-        }));
+        }
       }
     </script>
   </body>
